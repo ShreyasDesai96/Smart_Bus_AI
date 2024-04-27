@@ -1,0 +1,2257 @@
+Origin,Destination,Distance (km),Travel Time (hours),Bus Number,Departure Time,Intermediate Stops
+London,Manchester,216,2.0,PSP557,01:44,"Middlesbrough, Derry, Cardiff, Aberdeen"
+London,Birmingham,303,1.2,HIN121,03:48,"Portsmouth, Stoke-on-Trent"
+London,Liverpool,279,3.3,CGO214,00:28,
+London,Leeds,407,3.9,ACW375,03:18,
+London,Sheffield,470,2.7,LXL444,08:14,
+London,Bristol,135,4.4,HCV798,06:14,Derry
+London,Glasgow,233,5.0,KOP332,13:00,"Reading, Birmingham, Wolverhampton, Dundee, Luton"
+London,Edinburgh,474,1.3,VBY828,02:06,"Aberdeen, Glasgow, Bournemouth, Edinburgh, Stoke-on-Trent"
+London,Cardiff,216,4.8,JYI670,12:00,Brighton
+London,Belfast,332,1.3,HBA148,00:44,"Slough, Edinburgh"
+London,Newcastle,487,3.3,CXG715,12:57,"Birmingham, Cardiff, Aberdeen, Leeds, Exeter"
+London,Southampton,172,3.1,OMH115,06:47,Bedford
+London,Portsmouth,253,0.5,NDW365,14:26,"Derby, London, Bournemouth"
+London,Nottingham,117,3.3,EAB328,18:33,"Woking, Norwich, Newcastle"
+London,Brighton,186,2.9,LGN598,16:26,"Portsmouth, Slough, Dundee"
+London,Leicester,311,2.7,ZMK977,19:26,
+London,Oxford,245,3.2,EUM235,20:04,Newport
+London,Cambridge,284,4.9,HSB230,10:35,
+London,York,158,4.3,QOK218,20:32,
+London,Aberdeen,292,2.6,PIZ522,20:14,Nottingham
+London,Dundee,192,1.8,JUX432,17:11,
+London,Inverness,54,2.9,ERH114,15:37,"Portsmouth, Bedford, Coventry, Luton"
+London,Exeter,454,3.4,LML310,15:01,Blackpool
+London,Plymouth,427,4.5,GHK866,17:38,Peterborough
+London,Swansea,428,3.9,AXZ340,10:11,
+London,Newport,352,1.3,GXY416,17:23,
+London,Coventry,409,0.7,IOP422,05:46,"Manchester, Exeter, Leicester, Stoke-on-Trent, Leeds"
+London,Stoke-on-Trent,109,3.5,DJS553,01:32,
+London,Wolverhampton,238,0.9,SQB231,18:50,
+London,Derby,243,2.0,YBM837,14:29,"Woking, Portsmouth, Inverness, Peterborough"
+London,Norwich,353,3.9,YZE409,01:14,"Southampton, Exeter, Sheffield"
+London,Blackpool,194,3.7,XAP116,17:30,"Plymouth, Leicester, Liverpool, Slough"
+London,Middlesbrough,397,2.5,DVU513,19:06,"Aberdeen, Huddersfield, Brighton, Glasgow"
+London,Bournemouth,407,6.0,VYG857,23:47,Newcastle
+London,Luton,436,3.8,WEU154,08:13,"Derry, Portsmouth, Luton, Bedford, Wolverhampton"
+London,Reading,291,4.6,LJV895,21:21,
+London,Warrington,268,0.6,OSX203,21:46,Warrington
+London,Peterborough,164,4.3,EJD655,03:57,
+London,Huddersfield,373,0.8,XZW342,03:23,"Luton, Derby, London, Manchester"
+London,Slough,382,0.5,IFI106,23:50,"Derby, Brighton, Plymouth, Newcastle, Rotherham"
+London,Basildon,161,3.0,EEJ638,09:09,"Bedford, Nottingham, Dundee"
+London,Chelmsford,438,4.3,RPO336,08:25,"Norwich, Chelmsford, Aberdeen, Blackpool"
+London,Colchester,123,1.4,WLL699,23:54,"Slough, Bournemouth, Basildon, Dundee"
+London,Derry,77,3.7,NFJ363,11:55,"Dundee, Bristol, Inverness, Bedford, Swansea"
+London,Woking,87,5.3,DYM382,18:00,"York, Newport, Plymouth, Slough, Coventry"
+London,Rotherham,366,5.8,HTJ283,22:57,"Leeds, Birmingham, Norwich, London"
+London,Bedford,71,3.8,QML705,10:29,Chelmsford
+Manchester,London,241,2.7,YFI860,20:05,Nottingham
+Manchester,Birmingham,110,0.8,GQJ384,00:00,Swansea
+Manchester,Liverpool,322,3.9,XFT253,07:57,"Slough, York, Colchester"
+Manchester,Leeds,259,3.1,KOV858,19:49,Luton
+Manchester,Sheffield,330,0.6,JRF544,08:41,
+Manchester,Bristol,481,0.9,CES198,02:34,
+Manchester,Glasgow,401,0.6,CRZ207,08:23,
+Manchester,Edinburgh,67,5.8,GXR545,16:23,"Rotherham, Dundee, Coventry, Belfast, Slough"
+Manchester,Cardiff,94,2.0,ABW553,13:54,"Chelmsford, Colchester"
+Manchester,Belfast,301,4.2,KPC595,00:33,
+Manchester,Newcastle,79,2.1,PTV160,15:11,"Glasgow, Bedford, Liverpool, Leeds"
+Manchester,Southampton,431,0.9,BGX910,23:13,"Leeds, London"
+Manchester,Portsmouth,94,5.9,JCX148,22:58,"Stoke-on-Trent, Nottingham"
+Manchester,Nottingham,391,3.6,GIM621,05:24,"Peterborough, Aberdeen, Middlesbrough, Cambridge, Slough"
+Manchester,Brighton,333,4.1,SJH859,18:52,Inverness
+Manchester,Leicester,419,1.2,UAS234,10:30,"Coventry, Glasgow, Derry, Bedford, Southampton"
+Manchester,Oxford,141,4.8,VMK875,01:22,"Colchester, Edinburgh"
+Manchester,Cambridge,256,5.4,APH780,17:28,"Peterborough, Birmingham, Bournemouth, Leicester, Luton"
+Manchester,York,76,4.0,KFP311,17:07,
+Manchester,Aberdeen,240,4.4,VUM813,21:31,"Wolverhampton, Chelmsford"
+Manchester,Dundee,480,3.1,ZTF776,22:45,
+Manchester,Inverness,225,5.1,IIC738,14:35,"Chelmsford, Wolverhampton, Bournemouth"
+Manchester,Exeter,95,2.8,MUL308,19:30,"Swansea, Inverness, Dundee, Brighton"
+Manchester,Plymouth,320,5.3,SLJ252,23:19,"Plymouth, Oxford, Cambridge, Huddersfield"
+Manchester,Swansea,395,6.0,VZO163,13:16,Wolverhampton
+Manchester,Newport,448,4.1,UZY680,01:39,"York, Rotherham, Huddersfield, Belfast"
+Manchester,Coventry,316,4.7,OKT992,04:12,
+Manchester,Stoke-on-Trent,364,2.7,KKP867,05:28,"Inverness, Peterborough, Belfast, Brighton"
+Manchester,Wolverhampton,484,5.7,MHV134,06:38,"Rotherham, Brighton, Basildon, Liverpool"
+Manchester,Derby,460,2.5,BZW604,10:51,"Chelmsford, Portsmouth, Bedford"
+Manchester,Norwich,341,1.3,IEF152,11:53,Peterborough
+Manchester,Blackpool,449,4.2,ROI451,21:14,"Southampton, Belfast, Exeter, Chelmsford"
+Manchester,Middlesbrough,397,1.7,HHK514,02:59,
+Manchester,Bournemouth,323,3.3,JDD525,15:59,"Swansea, Luton, Norwich, Brighton, Middlesbrough"
+Manchester,Luton,87,0.5,QZT379,12:55,Exeter
+Manchester,Reading,163,2.0,TMK782,09:05,"York, Newcastle, Leicester, Inverness, Newport"
+Manchester,Warrington,215,4.5,DBD700,07:44,"Liverpool, Plymouth, Newport"
+Manchester,Peterborough,61,5.7,IJC722,20:42,Blackpool
+Manchester,Huddersfield,481,5.3,JDA701,16:51,"Stoke-on-Trent, Swansea, Peterborough, Sheffield, Bristol"
+Manchester,Slough,476,1.5,ICM218,09:16,"Inverness, Newport, Middlesbrough, Colchester, Slough"
+Manchester,Basildon,65,4.9,DYR834,02:35,"Glasgow, Slough, Wolverhampton, Coventry"
+Manchester,Chelmsford,115,3.1,IDD455,05:32,"Sheffield, Bournemouth, Colchester"
+Manchester,Colchester,310,4.1,BUA789,19:50,Reading
+Manchester,Derry,245,4.4,TLV742,14:35,"Basildon, Warrington"
+Manchester,Woking,119,2.7,GMO913,02:20,"Birmingham, Newcastle, Belfast, Swansea, Norwich"
+Manchester,Rotherham,371,4.6,WVO764,10:55,"London, Leeds"
+Manchester,Bedford,81,3.0,ALZ110,14:29,"Newcastle, Huddersfield, Woking"
+Birmingham,London,73,3.0,DYY282,23:25,"Glasgow, Norwich, Inverness, Plymouth, Belfast"
+Birmingham,Manchester,198,4.9,UXG155,06:09,
+Birmingham,Liverpool,338,1.4,BJE522,17:12,"Wolverhampton, York, Rotherham, Derby"
+Birmingham,Leeds,97,3.6,AKZ135,20:42,"Nottingham, Cambridge, Derry, Wolverhampton, Newport"
+Birmingham,Sheffield,115,2.5,AGS612,23:17,"Liverpool, Aberdeen"
+Birmingham,Bristol,94,4.0,MKD311,22:21,"Norwich, Sheffield"
+Birmingham,Glasgow,177,2.5,LRI355,11:30,"York, Cambridge"
+Birmingham,Edinburgh,55,5.7,FVT520,12:46,
+Birmingham,Cardiff,284,4.2,KDQ918,18:55,"Glasgow, Leeds"
+Birmingham,Belfast,135,1.3,KFT355,04:07,
+Birmingham,Newcastle,330,2.3,CIF502,12:39,"Rotherham, Derby, York, Belfast, Inverness"
+Birmingham,Southampton,353,4.7,QAS106,10:04,Middlesbrough
+Birmingham,Portsmouth,467,0.6,UIG573,21:03,"Bedford, Cardiff, Peterborough"
+Birmingham,Nottingham,212,2.1,JSV739,23:07,"Coventry, Newcastle"
+Birmingham,Brighton,158,5.2,NOW643,19:43,Warrington
+Birmingham,Leicester,239,1.1,NJN465,04:08,
+Birmingham,Oxford,83,0.9,JFN213,08:42,"Slough, Stoke-on-Trent, Reading"
+Birmingham,Cambridge,236,3.8,MEF890,01:12,"Edinburgh, Stoke-on-Trent, Blackpool"
+Birmingham,York,458,4.9,HXA338,22:24,"Belfast, Birmingham"
+Birmingham,Aberdeen,221,3.2,MEN432,11:10,"Birmingham, Cardiff, Chelmsford, Inverness"
+Birmingham,Dundee,358,2.4,MFJ248,05:38,"Aberdeen, Glasgow, Coventry"
+Birmingham,Inverness,142,0.5,HKT431,16:33,"Portsmouth, Huddersfield, Dundee, Luton, Colchester"
+Birmingham,Exeter,161,2.8,VBO815,03:50,"Nottingham, Chelmsford, Colchester, Dundee"
+Birmingham,Plymouth,388,3.7,SJQ231,21:43,"Cardiff, Liverpool, Bedford"
+Birmingham,Swansea,416,4.6,BNA857,05:09,"London, Inverness, Manchester, Edinburgh"
+Birmingham,Newport,409,1.9,LYE618,03:59,
+Birmingham,Coventry,262,4.5,SNW582,16:55,
+Birmingham,Stoke-on-Trent,371,2.5,XAA244,10:06,Portsmouth
+Birmingham,Wolverhampton,491,3.0,LAB125,11:51,"Stoke-on-Trent, Blackpool, Derry, Edinburgh"
+Birmingham,Derby,260,2.3,TUT273,01:05,"Inverness, Bristol"
+Birmingham,Norwich,215,4.3,BAW454,17:44,"Middlesbrough, Derry, Colchester, Brighton, Basildon"
+Birmingham,Blackpool,469,3.7,BYD380,21:02,"Stoke-on-Trent, Sheffield, Slough, Exeter"
+Birmingham,Middlesbrough,387,4.2,EWU819,18:30,"Bristol, Belfast, Derby"
+Birmingham,Bournemouth,218,3.0,SWX289,13:57,Edinburgh
+Birmingham,Luton,73,3.2,INW781,12:01,"Manchester, Swansea"
+Birmingham,Reading,332,1.7,YYM762,16:33,
+Birmingham,Warrington,233,2.1,LJL524,14:37,"Brighton, Glasgow, Derby, Luton, Aberdeen"
+Birmingham,Peterborough,222,1.9,MSV445,02:30,Derby
+Birmingham,Huddersfield,207,3.2,VJN618,04:05,"Oxford, Warrington, Leicester, Swansea, Chelmsford"
+Birmingham,Slough,479,6.0,ZTK904,15:49,"Glasgow, Basildon"
+Birmingham,Basildon,261,1.9,NCF380,00:51,"Cardiff, Newport, Inverness, Basildon, Wolverhampton"
+Birmingham,Chelmsford,196,4.9,VPK967,01:44,"Belfast, York, Luton, Inverness, Cambridge"
+Birmingham,Colchester,129,5.0,WSJ900,18:44,"Luton, Exeter"
+Birmingham,Derry,210,3.4,STC402,01:27,
+Birmingham,Woking,295,4.0,JRD539,17:29,Bournemouth
+Birmingham,Rotherham,201,3.9,CSW383,22:01,"Norwich, Sheffield, Inverness, Cambridge, Basildon"
+Birmingham,Bedford,259,2.5,XTF284,20:19,Liverpool
+Liverpool,London,465,6.0,BYK188,03:37,Belfast
+Liverpool,Manchester,382,5.7,YLE428,22:37,"Huddersfield, Brighton, Norwich, Nottingham, Leeds"
+Liverpool,Birmingham,76,5.3,MZF268,16:07,
+Liverpool,Leeds,332,4.3,CES516,09:40,"Liverpool, Birmingham, Coventry, Leeds, Cambridge"
+Liverpool,Sheffield,57,4.8,URJ250,13:03,"Manchester, Middlesbrough, Nottingham, Bedford, Sheffield"
+Liverpool,Bristol,247,3.5,CMY283,17:28,"Liverpool, Blackpool, Sheffield, Belfast, Derry"
+Liverpool,Glasgow,455,1.0,UHW663,19:15,"Bournemouth, Warrington"
+Liverpool,Edinburgh,316,2.5,JOR608,16:10,"Dundee, Leeds, Derby, Chelmsford, Portsmouth"
+Liverpool,Cardiff,140,3.3,ZTU272,20:07,
+Liverpool,Belfast,423,4.4,XOH831,00:20,"Nottingham, Stoke-on-Trent, Newcastle, London"
+Liverpool,Newcastle,398,1.6,UJC977,23:19,"Dundee, Southampton"
+Liverpool,Southampton,271,5.8,LPK531,16:52,
+Liverpool,Portsmouth,295,5.8,CRQ863,00:04,"Leicester, Brighton, Newport, Bristol"
+Liverpool,Nottingham,402,4.8,UCH596,04:08,"Derry, Exeter"
+Liverpool,Brighton,154,5.4,PHV590,20:33,Newport
+Liverpool,Leicester,76,1.2,OYT403,05:43,"Reading, Leeds"
+Liverpool,Oxford,341,5.1,XFJ898,16:26,"Glasgow, Basildon"
+Liverpool,Cambridge,230,3.3,MVD692,21:24,Blackpool
+Liverpool,York,287,4.2,ZFO170,00:48,"Birmingham, London"
+Liverpool,Aberdeen,327,4.9,RNH377,02:09,
+Liverpool,Dundee,241,1.0,OAU410,15:34,"Basildon, Warrington, Slough"
+Liverpool,Inverness,402,0.9,RQP574,04:40,"Swansea, London, Woking, Huddersfield, Leeds"
+Liverpool,Exeter,210,1.5,LWU960,02:12,"Bournemouth, Leicester, Bristol, Belfast"
+Liverpool,Plymouth,129,5.9,FPD965,09:21,Stoke-on-Trent
+Liverpool,Swansea,67,4.5,FUJ733,02:56,"Coventry, Stoke-on-Trent, Nottingham, Manchester, Peterborough"
+Liverpool,Newport,250,0.6,VSO883,06:09,"Inverness, Leeds, Norwich"
+Liverpool,Coventry,63,1.9,BFJ896,13:37,"Stoke-on-Trent, Dundee, Swansea"
+Liverpool,Stoke-on-Trent,213,5.8,HUT776,15:04,
+Liverpool,Wolverhampton,168,1.0,XOH990,03:19,"Huddersfield, Oxford, Middlesbrough, Glasgow"
+Liverpool,Derby,313,0.7,BLO688,22:47,
+Liverpool,Norwich,500,5.0,WBV687,11:52,Basildon
+Liverpool,Blackpool,241,2.3,ASP605,00:12,
+Liverpool,Middlesbrough,380,0.6,HAE510,01:37,"Huddersfield, London"
+Liverpool,Bournemouth,203,2.0,BZQ976,09:41,Peterborough
+Liverpool,Luton,229,0.7,CLG679,17:22,"Swansea, Belfast"
+Liverpool,Reading,329,1.3,QFH774,17:34,"Aberdeen, Southampton, London"
+Liverpool,Warrington,481,5.2,SKH830,14:17,
+Liverpool,Peterborough,138,5.2,EBR507,08:35,"Aberdeen, Coventry"
+Liverpool,Huddersfield,299,0.9,NSL675,00:06,"Oxford, Reading, Colchester"
+Liverpool,Slough,358,2.9,KHF138,23:49,
+Liverpool,Basildon,122,2.4,QBS878,15:04,"Aberdeen, Edinburgh, Inverness, Luton, Warrington"
+Liverpool,Chelmsford,280,0.6,SVA324,16:21,Luton
+Liverpool,Colchester,353,4.4,OFD985,18:22,Cambridge
+Liverpool,Derry,213,0.7,NAK892,21:30,"Woking, Newcastle, Bournemouth, Huddersfield"
+Liverpool,Woking,405,1.9,WKR484,08:03,"Cambridge, Luton, Glasgow, Bedford, Peterborough"
+Liverpool,Rotherham,392,2.2,EGR961,03:08,Bristol
+Liverpool,Bedford,401,5.4,WFX663,20:44,
+Leeds,London,125,5.8,BMO749,13:03,
+Leeds,Manchester,143,4.4,EAV636,10:23,"Derby, Glasgow, Warrington"
+Leeds,Birmingham,404,3.9,NHI382,03:01,Huddersfield
+Leeds,Liverpool,317,2.1,PAL138,20:38,"Southampton, Luton, Glasgow, Bristol, Blackpool"
+Leeds,Sheffield,74,5.2,VRC951,03:14,Swansea
+Leeds,Bristol,316,5.0,KSZ583,03:12,York
+Leeds,Glasgow,466,2.5,TZZ503,09:07,Huddersfield
+Leeds,Edinburgh,195,0.6,HYD233,07:45,"Reading, Derry"
+Leeds,Cardiff,231,5.8,KXB893,15:43,
+Leeds,Belfast,421,2.5,DYM782,20:43,Derby
+Leeds,Newcastle,148,5.7,MHX123,03:56,"Glasgow, Newport, Huddersfield, Birmingham, Plymouth"
+Leeds,Southampton,360,2.1,NKY159,05:18,"Liverpool, Chelmsford, Huddersfield, Plymouth"
+Leeds,Portsmouth,89,4.4,ERP554,07:23,
+Leeds,Nottingham,315,4.3,CVD303,13:54,"Liverpool, Sheffield, Blackpool"
+Leeds,Brighton,409,1.9,CBF758,13:12,
+Leeds,Leicester,423,4.0,URT901,05:43,"Nottingham, Huddersfield, Inverness, Newport, Luton"
+Leeds,Oxford,154,2.6,NTK322,00:01,"Belfast, Chelmsford, Rotherham, Bournemouth, Bedford"
+Leeds,Cambridge,436,1.8,MML949,04:50,Oxford
+Leeds,York,267,4.5,DHT110,12:14,"Nottingham, Southampton, Brighton, Birmingham, Belfast"
+Leeds,Aberdeen,248,3.9,TZW217,03:04,"Stoke-on-Trent, Belfast, Glasgow, Leeds, Coventry"
+Leeds,Dundee,211,5.1,KUQ764,09:28,Edinburgh
+Leeds,Inverness,180,1.4,WUM839,00:24,Newport
+Leeds,Exeter,380,3.9,UHC834,11:32,Woking
+Leeds,Plymouth,290,1.7,DFN768,23:32,"Peterborough, Southampton, Reading"
+Leeds,Swansea,87,5.6,SRT954,03:51,"Liverpool, Birmingham, Exeter"
+Leeds,Newport,361,5.2,XOP915,17:53,"Nottingham, Luton, Portsmouth"
+Leeds,Coventry,452,5.5,FIR135,21:38,"Dundee, London, Coventry, Huddersfield, Derby"
+Leeds,Stoke-on-Trent,495,2.7,ROS820,20:29,Colchester
+Leeds,Wolverhampton,338,0.6,VKT252,22:07,"Huddersfield, Inverness, Rotherham, Brighton"
+Leeds,Derby,198,4.8,GGB777,10:08,"Inverness, Aberdeen, Swansea"
+Leeds,Norwich,141,3.3,DBF492,13:52,Bournemouth
+Leeds,Blackpool,420,0.8,VFP189,14:40,"Liverpool, Derby, Basildon, Leicester"
+Leeds,Middlesbrough,341,4.2,LWP999,09:57,
+Leeds,Bournemouth,399,5.4,UEE142,23:18,"Slough, Inverness"
+Leeds,Luton,162,1.5,ISS326,02:52,
+Leeds,Reading,385,0.9,OXH586,00:17,"Inverness, Nottingham"
+Leeds,Warrington,413,2.9,ZVZ482,15:30,
+Leeds,Peterborough,451,1.8,RNV714,04:15,"Stoke-on-Trent, Edinburgh, Inverness"
+Leeds,Huddersfield,353,2.8,JSF140,07:40,"Derby, Manchester, Derry, Southampton, Inverness"
+Leeds,Slough,442,1.2,TRD530,17:39,
+Leeds,Basildon,230,2.0,DGW374,21:08,"Birmingham, Colchester"
+Leeds,Chelmsford,137,0.7,SAL601,14:01,"Cambridge, Slough, Stoke-on-Trent"
+Leeds,Colchester,490,4.9,PCE503,11:38,
+Leeds,Derry,471,3.5,MAY672,02:44,"Luton, Glasgow, Norwich, Newport"
+Leeds,Woking,479,5.3,TUG263,03:21,"York, Edinburgh, Luton, Bristol"
+Leeds,Rotherham,170,1.8,UXG286,01:08,
+Leeds,Bedford,410,1.9,THT459,07:02,"Rotherham, Brighton, Plymouth"
+Sheffield,London,100,2.4,ZVE581,22:02,Liverpool
+Sheffield,Manchester,323,1.3,LNJ809,08:54,"Sheffield, Derry, Warrington, Leicester, Woking"
+Sheffield,Birmingham,288,1.1,PLY269,11:45,"Glasgow, Wolverhampton, Coventry, Derby"
+Sheffield,Liverpool,293,0.9,QPX316,01:46,"Chelmsford, Peterborough, Warrington, Coventry"
+Sheffield,Leeds,205,1.6,FHS885,22:10,"Oxford, Glasgow"
+Sheffield,Bristol,330,1.4,OAG942,23:22,"Birmingham, Colchester, Inverness"
+Sheffield,Glasgow,148,4.8,NSL634,07:55,"Portsmouth, Middlesbrough, Derby, Blackpool, Plymouth"
+Sheffield,Edinburgh,471,2.5,UNT912,17:04,
+Sheffield,Cardiff,436,1.0,RMA119,02:03,York
+Sheffield,Belfast,202,4.0,ATM170,05:19,"York, Cardiff"
+Sheffield,Newcastle,485,3.8,JNZ914,21:24,"Blackpool, London, York, Inverness"
+Sheffield,Southampton,137,3.6,BWB110,02:40,"Huddersfield, Woking, Middlesbrough, Leeds, Derry"
+Sheffield,Portsmouth,279,4.1,XSH708,08:35,Southampton
+Sheffield,Nottingham,93,2.8,PVU342,01:25,"Inverness, Luton, Huddersfield, Liverpool, Derby"
+Sheffield,Brighton,275,2.2,DIH662,15:37,
+Sheffield,Leicester,398,4.5,HOP285,08:08,
+Sheffield,Oxford,448,2.2,ZWO689,12:00,"Peterborough, Blackpool, Bedford, Cardiff, Newcastle"
+Sheffield,Cambridge,277,4.2,WNH478,05:36,"Bournemouth, Brighton, Cardiff"
+Sheffield,York,462,3.8,DIN468,01:34,
+Sheffield,Aberdeen,457,3.5,QSS597,22:14,Bristol
+Sheffield,Dundee,253,5.4,QAZ448,16:09,Derry
+Sheffield,Inverness,61,3.0,XCY995,20:02,"Cardiff, Manchester"
+Sheffield,Exeter,295,3.1,KQQ691,18:17,Leicester
+Sheffield,Plymouth,487,4.9,ZUQ386,18:46,Swansea
+Sheffield,Swansea,249,3.7,FXF753,05:55,"London, Nottingham"
+Sheffield,Newport,332,5.6,OSP806,21:11,
+Sheffield,Coventry,291,0.6,BSW131,20:46,"Middlesbrough, Inverness, Woking, Sheffield, Edinburgh"
+Sheffield,Stoke-on-Trent,341,5.1,OTQ935,04:17,"Inverness, London"
+Sheffield,Wolverhampton,498,1.2,YNI179,02:31,"Slough, Sheffield, Huddersfield, Bristol"
+Sheffield,Derby,204,4.9,NII547,18:52,Woking
+Sheffield,Norwich,91,4.0,CZX737,04:24,"Stoke-on-Trent, Blackpool, Peterborough, Reading"
+Sheffield,Blackpool,497,5.0,LSO362,18:10,"Nottingham, Belfast, Inverness, Slough, Exeter"
+Sheffield,Middlesbrough,74,4.6,WNG938,08:07,"Exeter, Derby"
+Sheffield,Bournemouth,238,3.3,JHJ529,14:35,"Plymouth, Warrington, Newcastle, Liverpool"
+Sheffield,Luton,214,5.3,XKE799,08:54,"Woking, Brighton, Middlesbrough, Blackpool"
+Sheffield,Reading,450,0.6,GOX396,17:28,"Derby, Exeter"
+Sheffield,Warrington,383,4.7,YCB516,00:39,"Aberdeen, Nottingham, Leicester, Luton, Newcastle"
+Sheffield,Peterborough,258,2.4,WDC908,21:31,
+Sheffield,Huddersfield,435,3.3,NRF281,11:03,"Cambridge, Birmingham, Derby, Chelmsford, Wolverhampton"
+Sheffield,Slough,321,5.2,ZZJ808,22:04,"Warrington, Manchester, Cardiff, Slough, Inverness"
+Sheffield,Basildon,287,2.3,VTM760,05:59,"Blackpool, Basildon"
+Sheffield,Chelmsford,231,3.5,OLK834,08:27,Belfast
+Sheffield,Colchester,65,5.6,PQK970,09:26,Newport
+Sheffield,Derry,199,2.9,OBH613,07:31,
+Sheffield,Woking,469,5.6,EHG920,08:13,"London, Derry, Luton"
+Sheffield,Rotherham,136,0.9,MVP394,12:17,Newcastle
+Sheffield,Bedford,357,1.8,JXE519,18:46,"Exeter, Dundee"
+Bristol,London,243,2.5,PJJ667,01:15,Liverpool
+Bristol,Manchester,54,2.0,JWA709,11:56,Peterborough
+Bristol,Birmingham,223,0.8,KDU429,00:58,
+Bristol,Liverpool,67,4.9,CIA150,20:53,"Nottingham, Inverness, Bristol, Newport, Cardiff"
+Bristol,Leeds,433,4.4,GUP304,15:52,"Warrington, Reading, Derby, Edinburgh"
+Bristol,Sheffield,378,5.5,CPX128,18:51,"Warrington, Aberdeen, Belfast, Basildon, Newcastle"
+Bristol,Glasgow,97,1.3,TSZ227,12:51,Plymouth
+Bristol,Edinburgh,421,3.7,FPB715,23:27,"Huddersfield, Colchester, Reading"
+Bristol,Cardiff,294,4.7,WTT497,07:30,"Birmingham, Newcastle, Cambridge, Middlesbrough, Bristol"
+Bristol,Belfast,413,5.3,GSY323,21:07,"Glasgow, Luton, Norwich"
+Bristol,Newcastle,323,4.9,WVS794,20:23,"Dundee, Leeds, Slough"
+Bristol,Southampton,199,1.6,AZK299,23:07,"Exeter, Southampton, Middlesbrough, Oxford, Glasgow"
+Bristol,Portsmouth,261,1.0,GEA275,05:27,"Manchester, Nottingham, Dundee, Brighton, Aberdeen"
+Bristol,Nottingham,171,3.3,ZJW890,16:27,
+Bristol,Brighton,455,5.2,AHO974,19:23,
+Bristol,Leicester,398,5.6,CPF674,20:54,"Aberdeen, Swansea, Inverness, Portsmouth, Glasgow"
+Bristol,Oxford,109,2.5,YCC879,19:01,"Cambridge, Colchester, Bedford"
+Bristol,Cambridge,442,0.6,DNI259,22:13,"London, Birmingham, Oxford, Rotherham, Inverness"
+Bristol,York,489,5.2,QIJ462,03:56,Birmingham
+Bristol,Aberdeen,379,2.9,OAX995,21:22,"Portsmouth, Stoke-on-Trent, Newcastle"
+Bristol,Dundee,61,5.4,ODY846,18:49,
+Bristol,Inverness,446,1.0,ADY498,07:30,"Nottingham, Huddersfield, Sheffield"
+Bristol,Exeter,434,2.1,NJZ362,05:02,Rotherham
+Bristol,Plymouth,115,4.1,TJQ166,21:08,"Inverness, Reading, Basildon, Plymouth"
+Bristol,Swansea,134,2.9,DUF515,19:01,"Aberdeen, Nottingham"
+Bristol,Newport,460,3.3,BWG711,19:38,"Colchester, Basildon"
+Bristol,Coventry,124,5.0,UZU181,08:27,"Liverpool, Warrington, Inverness, Southampton"
+Bristol,Stoke-on-Trent,486,5.7,BLF596,07:03,
+Bristol,Wolverhampton,280,2.8,QSY435,17:10,
+Bristol,Derby,261,1.0,HJJ474,20:47,Birmingham
+Bristol,Norwich,299,1.7,QIE164,16:30,"Manchester, Brighton, Middlesbrough"
+Bristol,Blackpool,182,1.6,LVX194,14:50,"Leeds, Liverpool, Slough, Dundee, Reading"
+Bristol,Middlesbrough,187,5.5,LAA640,10:01,"Blackpool, Leicester, Inverness, Reading"
+Bristol,Bournemouth,150,2.8,UEQ503,05:15,"Rotherham, Stoke-on-Trent, Cambridge, London"
+Bristol,Luton,204,2.1,IXN455,07:59,"Stoke-on-Trent, Basildon"
+Bristol,Reading,473,1.1,AMF313,19:52,"Belfast, Wolverhampton, Reading, Slough"
+Bristol,Warrington,167,1.5,CVP806,08:35,Chelmsford
+Bristol,Peterborough,447,3.4,QRO625,11:47,"Blackpool, Huddersfield, Plymouth"
+Bristol,Huddersfield,471,4.5,LRW621,16:19,"Coventry, Dundee, Liverpool"
+Bristol,Slough,459,2.3,BVJ111,17:11,Luton
+Bristol,Basildon,136,1.5,DCC394,17:04,"Exeter, Newport, Middlesbrough, Aberdeen"
+Bristol,Chelmsford,497,5.6,FJR854,02:48,London
+Bristol,Colchester,127,4.1,RLQ157,13:14,
+Bristol,Derry,376,4.3,CYV672,08:36,"Rotherham, Nottingham, Chelmsford, Aberdeen, Luton"
+Bristol,Woking,276,3.1,BQK716,16:07,"Peterborough, Cardiff, Southampton"
+Bristol,Rotherham,390,5.0,GVK761,11:58,"Bedford, Stoke-on-Trent, Slough, Southampton, Wolverhampton"
+Bristol,Bedford,92,3.8,HMG882,09:25,"Derry, Woking, Birmingham, Warrington"
+Glasgow,London,94,3.2,JMJ647,08:38,Bournemouth
+Glasgow,Manchester,401,3.2,CSQ133,09:20,Glasgow
+Glasgow,Birmingham,467,4.8,NFW643,12:41,
+Glasgow,Liverpool,75,4.4,VIV272,08:53,Edinburgh
+Glasgow,Leeds,218,1.5,GTV828,06:03,
+Glasgow,Sheffield,494,2.7,PVF603,19:46,
+Glasgow,Bristol,304,4.9,FOB359,10:42,"Cambridge, Oxford, Birmingham, Huddersfield"
+Glasgow,Edinburgh,95,2.1,JXP705,05:38,"Stoke-on-Trent, Inverness, Newport, Blackpool"
+Glasgow,Cardiff,258,2.6,XDQ498,19:41,"Middlesbrough, Huddersfield, Oxford, Colchester, Bedford"
+Glasgow,Belfast,270,1.6,HXW964,21:45,"Peterborough, Edinburgh, Nottingham, Woking, Slough"
+Glasgow,Newcastle,303,4.3,QRZ878,09:10,Newport
+Glasgow,Southampton,392,3.8,YWL256,13:11,"London, Dundee, Newcastle, Oxford"
+Glasgow,Portsmouth,131,4.5,ORP296,11:23,"Coventry, Bedford, York"
+Glasgow,Nottingham,402,1.8,VIR369,21:10,"Swansea, Manchester, Glasgow, Oxford, Bedford"
+Glasgow,Brighton,438,2.5,MQV408,23:31,Liverpool
+Glasgow,Leicester,78,1.9,ZZC811,10:23,"Liverpool, Bournemouth, Exeter"
+Glasgow,Oxford,492,3.0,ZLS907,06:20,Newport
+Glasgow,Cambridge,411,5.3,JPU371,07:43,"Glasgow, Luton, Plymouth"
+Glasgow,York,269,4.8,FPG119,07:55,"Inverness, London, Woking, Rotherham, Basildon"
+Glasgow,Aberdeen,68,5.7,AGT928,13:49,"Nottingham, Aberdeen, Belfast, Derby, Bournemouth"
+Glasgow,Dundee,226,5.0,RFV493,22:27,"Inverness, Luton, Southampton"
+Glasgow,Inverness,121,3.2,XYO632,18:53,"Chelmsford, London, Peterborough, Leeds"
+Glasgow,Exeter,218,2.7,KDS856,23:59,
+Glasgow,Plymouth,158,2.7,YJB309,12:55,"Dundee, Leeds, Manchester"
+Glasgow,Swansea,278,2.9,XDP187,23:16,"Liverpool, Newport, Birmingham, Reading"
+Glasgow,Newport,251,5.0,FVY682,06:23,"Huddersfield, Norwich, Derby"
+Glasgow,Coventry,401,0.7,DLT915,07:45,"Bristol, Coventry, Derby, Dundee"
+Glasgow,Stoke-on-Trent,243,1.8,JGW445,12:20,"Woking, Rotherham, Edinburgh, Sheffield"
+Glasgow,Wolverhampton,464,4.5,MHE724,15:08,"Sheffield, Colchester, Newcastle"
+Glasgow,Derby,471,2.6,PHJ869,16:25,"Newport, Dundee, Manchester, Bristol, Glasgow"
+Glasgow,Norwich,165,2.5,BZH941,06:59,"Leeds, Newcastle, Plymouth"
+Glasgow,Blackpool,240,1.6,EQP675,15:55,
+Glasgow,Middlesbrough,308,0.6,DMO365,14:26,
+Glasgow,Bournemouth,168,5.0,DRM875,10:28,"Oxford, Birmingham, Middlesbrough, Cardiff"
+Glasgow,Luton,229,5.7,KBQ100,11:17,"Brighton, Norwich, Leicester, Middlesbrough"
+Glasgow,Reading,426,0.9,DUN306,13:30,"Brighton, Warrington, Nottingham, Plymouth"
+Glasgow,Warrington,390,4.2,XWZ217,14:54,
+Glasgow,Peterborough,485,0.5,IYL675,03:54,"Portsmouth, Glasgow, Reading, Colchester, Oxford"
+Glasgow,Huddersfield,338,1.6,LBI803,00:12,"Middlesbrough, Sheffield, Huddersfield"
+Glasgow,Slough,484,6.0,DUA542,21:15,Coventry
+Glasgow,Basildon,406,3.9,GIH502,21:40,
+Glasgow,Chelmsford,312,3.3,DVC259,00:05,"Bedford, Portsmouth, Huddersfield, Newcastle, Cambridge"
+Glasgow,Colchester,250,1.4,FIM333,02:02,"Belfast, Aberdeen"
+Glasgow,Derry,162,4.5,VIN999,10:25,"Colchester, Cambridge, Reading, Swansea, Wolverhampton"
+Glasgow,Woking,199,1.4,JNE153,17:55,"Basildon, Newcastle, Plymouth, Peterborough, Nottingham"
+Glasgow,Rotherham,87,5.3,IUI486,05:12,"Portsmouth, Newport, Reading, Inverness, Bournemouth"
+Glasgow,Bedford,126,1.2,UKF563,04:13,"Cardiff, Oxford, Birmingham, Colchester, Portsmouth"
+Edinburgh,London,485,3.3,TJV772,01:13,"York, Chelmsford"
+Edinburgh,Manchester,79,1.2,XXE827,22:35,"Manchester, Exeter, Bournemouth, Oxford, Dundee"
+Edinburgh,Birmingham,275,2.0,OYI653,09:50,Exeter
+Edinburgh,Liverpool,307,1.4,TXG679,00:30,Reading
+Edinburgh,Leeds,168,4.2,ZGK760,15:23,"Colchester, Peterborough, Liverpool"
+Edinburgh,Sheffield,324,1.7,KZJ956,16:52,
+Edinburgh,Bristol,491,1.7,BEV992,18:21,"Blackpool, Norwich, Swansea, Derby"
+Edinburgh,Glasgow,210,1.7,VHZ390,23:23,"Cambridge, Nottingham, Aberdeen, Portsmouth"
+Edinburgh,Cardiff,176,5.5,MQK758,11:21,"Edinburgh, Belfast, Rotherham, Bournemouth, Colchester"
+Edinburgh,Belfast,77,3.7,FWE987,14:27,Inverness
+Edinburgh,Newcastle,442,5.3,QOR530,07:10,"Leeds, Derby, Warrington, Manchester, Brighton"
+Edinburgh,Southampton,403,1.4,AFU712,15:55,"Woking, Peterborough, Inverness, Slough"
+Edinburgh,Portsmouth,123,5.5,NCC487,09:37,"Manchester, Swansea, Basildon, Sheffield"
+Edinburgh,Nottingham,214,2.0,TED667,06:32,"Wolverhampton, Coventry, Leicester, Norwich, Woking"
+Edinburgh,Brighton,343,1.0,JRN819,08:36,"Portsmouth, Nottingham, Cambridge, Chelmsford, Bristol"
+Edinburgh,Leicester,413,3.9,DTI178,20:32,"Derby, Inverness, Bedford, Coventry, Basildon"
+Edinburgh,Oxford,228,1.5,PZC195,11:57,"Stoke-on-Trent, Wolverhampton, Sheffield"
+Edinburgh,Cambridge,63,1.5,UOC539,15:41,"Colchester, Manchester, Cambridge"
+Edinburgh,York,359,1.7,GLG146,17:02,Derry
+Edinburgh,Aberdeen,294,3.4,YYQ168,18:06,"Bournemouth, Bristol"
+Edinburgh,Dundee,444,3.6,TPB815,16:41,"Cambridge, Leicester"
+Edinburgh,Inverness,469,5.1,ATP213,22:39,"Rotherham, Dundee"
+Edinburgh,Exeter,116,3.3,YGT901,00:57,Coventry
+Edinburgh,Plymouth,107,5.6,OZF956,20:11,Newport
+Edinburgh,Swansea,319,4.7,ZYZ411,15:30,
+Edinburgh,Newport,50,6.0,PVM523,01:25,"Swansea, Nottingham, Derry, Luton"
+Edinburgh,Coventry,295,3.9,LVW403,15:09,"Birmingham, Coventry, Nottingham"
+Edinburgh,Stoke-on-Trent,237,4.9,ETX646,22:50,
+Edinburgh,Wolverhampton,288,0.8,PPE851,20:38,Colchester
+Edinburgh,Derby,387,3.7,WUZ124,21:40,Slough
+Edinburgh,Norwich,269,2.8,QTQ887,10:28,"York, Exeter, Coventry, Nottingham"
+Edinburgh,Blackpool,282,4.5,BFS886,17:36,Bournemouth
+Edinburgh,Middlesbrough,431,3.5,EWH227,18:48,
+Edinburgh,Bournemouth,310,1.2,GPG731,10:52,"Blackpool, Oxford, Leeds, Cardiff"
+Edinburgh,Luton,116,0.9,KUI887,06:11,"Aberdeen, Middlesbrough, Exeter"
+Edinburgh,Reading,309,2.1,ZGX996,20:21,"Woking, Southampton, Cardiff, Manchester"
+Edinburgh,Warrington,58,2.1,XMJ900,22:04,"Peterborough, Blackpool, Edinburgh, Rotherham, Warrington"
+Edinburgh,Peterborough,273,4.0,POJ607,14:28,"Luton, Basildon, Manchester, Colchester, Woking"
+Edinburgh,Huddersfield,230,3.6,YDX957,01:42,"Peterborough, Slough, Stoke-on-Trent, Leicester, Blackpool"
+Edinburgh,Slough,489,2.3,AHB340,08:46,"Glasgow, Basildon, Coventry, Oxford, Belfast"
+Edinburgh,Basildon,187,1.5,XKA978,05:27,"Glasgow, Luton, Chelmsford, London"
+Edinburgh,Chelmsford,433,5.5,WJA317,20:06,
+Edinburgh,Colchester,302,1.0,VBQ673,18:15,
+Edinburgh,Derry,170,1.9,JWD400,16:54,"Dundee, Exeter"
+Edinburgh,Woking,293,3.2,KML534,17:43,"Edinburgh, Aberdeen, Newport"
+Edinburgh,Rotherham,439,1.2,BGR782,05:22,"Derry, Peterborough, Plymouth, Newport"
+Edinburgh,Bedford,85,5.8,JOR363,00:23,Swansea
+Cardiff,London,393,5.1,MHI342,22:38,Exeter
+Cardiff,Manchester,279,4.5,KLE817,02:54,
+Cardiff,Birmingham,117,3.7,ZGR297,14:55,Bournemouth
+Cardiff,Liverpool,408,1.7,QVC306,23:11,London
+Cardiff,Leeds,466,3.8,VUQ461,17:08,"Sheffield, York, Derry, Woking, Newcastle"
+Cardiff,Sheffield,280,2.0,IKM320,02:08,Woking
+Cardiff,Bristol,292,2.3,TPK809,07:50,
+Cardiff,Glasgow,206,1.4,QRL107,10:17,"Rotherham, Nottingham, Peterborough"
+Cardiff,Edinburgh,329,2.5,HBI692,23:37,Oxford
+Cardiff,Belfast,498,0.6,RJG277,22:37,"Birmingham, Bedford, Inverness, Derby"
+Cardiff,Newcastle,111,2.1,DDW643,04:30,"Bedford, Swansea"
+Cardiff,Southampton,440,1.9,SCY548,16:27,Derry
+Cardiff,Portsmouth,230,4.7,MKQ290,06:52,Reading
+Cardiff,Nottingham,216,4.8,NPU943,13:38,"Derby, Dundee, Southampton"
+Cardiff,Brighton,128,5.0,ALB773,10:30,"Warrington, Edinburgh, Middlesbrough, Bedford, Brighton"
+Cardiff,Leicester,396,3.0,PWW610,03:02,"Sheffield, Bristol, Huddersfield, Wolverhampton"
+Cardiff,Oxford,446,5.5,WUP537,17:16,"Edinburgh, Bristol, Blackpool"
+Cardiff,Cambridge,379,1.4,UWY222,22:22,"York, Huddersfield, Oxford"
+Cardiff,York,394,4.0,PMW544,21:02,"Chelmsford, Southampton, Peterborough, Exeter, Newport"
+Cardiff,Aberdeen,406,0.8,UEP602,17:07,"Southampton, Newport, Oxford"
+Cardiff,Dundee,393,2.9,LMF999,13:17,Aberdeen
+Cardiff,Inverness,155,3.8,ZJT992,23:25,"Woking, Stoke-on-Trent, Rotherham, Oxford"
+Cardiff,Exeter,440,5.9,KOA781,03:56,"Newport, Southampton, Wolverhampton"
+Cardiff,Plymouth,102,1.3,YUU816,09:29,"Derby, Southampton, Swansea"
+Cardiff,Swansea,465,3.1,BRL523,19:24,Wolverhampton
+Cardiff,Newport,464,0.8,SYX167,00:14,Cambridge
+Cardiff,Coventry,98,2.1,UKZ796,17:25,"Newcastle, London, Bristol, Cardiff, Liverpool"
+Cardiff,Stoke-on-Trent,493,3.9,DNQ785,01:39,Glasgow
+Cardiff,Wolverhampton,89,5.1,LMB736,08:54,"Southampton, Huddersfield, London, Rotherham, Derry"
+Cardiff,Derby,242,2.2,GTJ625,19:27,"Brighton, Bristol, Middlesbrough"
+Cardiff,Norwich,386,4.2,IYJ332,19:37,"Cambridge, Plymouth"
+Cardiff,Blackpool,378,1.7,IEX659,06:39,"Plymouth, Bedford, Norwich"
+Cardiff,Middlesbrough,490,5.6,WGQ587,08:51,Coventry
+Cardiff,Bournemouth,415,5.2,LTQ812,22:48,"Warrington, Basildon, Peterborough"
+Cardiff,Luton,279,3.9,CLK763,04:50,"Belfast, Norwich, Middlesbrough, Birmingham, Warrington"
+Cardiff,Reading,74,3.4,QHE259,11:23,
+Cardiff,Warrington,472,4.8,LUO290,04:26,Stoke-on-Trent
+Cardiff,Peterborough,132,5.1,XVA695,14:32,Bournemouth
+Cardiff,Huddersfield,78,0.6,QYB668,19:46,"Aberdeen, Birmingham, Derby, Brighton"
+Cardiff,Slough,379,5.9,UHS761,14:43,"Plymouth, Newcastle, Derby"
+Cardiff,Basildon,443,1.8,VDH589,04:49,"Bedford, Derry, Middlesbrough"
+Cardiff,Chelmsford,332,2.1,FFM778,15:53,"Brighton, Cambridge, Derby, Manchester, Inverness"
+Cardiff,Colchester,113,3.2,YLJ467,17:16,"Birmingham, Belfast, Brighton, Liverpool"
+Cardiff,Derry,365,3.7,YUM798,11:13,"Plymouth, Portsmouth, Woking, Liverpool"
+Cardiff,Woking,321,3.9,CYZ698,06:54,"Brighton, Rotherham, Woking"
+Cardiff,Rotherham,213,5.8,FVF437,14:10,
+Cardiff,Bedford,363,1.2,GIG762,19:22,Nottingham
+Belfast,London,241,5.0,LAC915,15:50,
+Belfast,Manchester,377,1.5,PRK265,19:41,
+Belfast,Birmingham,265,4.6,IFP587,22:35,"Colchester, Derry, Norwich, Chelmsford"
+Belfast,Liverpool,242,2.7,VII429,10:22,"Peterborough, Newport, Middlesbrough, Luton"
+Belfast,Leeds,272,1.4,HDW386,10:16,"Aberdeen, Newcastle"
+Belfast,Sheffield,213,3.9,YGZ936,15:55,
+Belfast,Bristol,459,0.5,CXW551,08:54,"Norwich, Basildon, Birmingham, York, Swansea"
+Belfast,Glasgow,476,1.6,PKE359,10:09,
+Belfast,Edinburgh,365,4.7,HGB279,02:50,
+Belfast,Cardiff,203,5.7,VTT103,05:10,"Liverpool, Woking, Cambridge, Colchester"
+Belfast,Newcastle,388,4.4,MVL857,16:12,Birmingham
+Belfast,Southampton,205,5.9,FOV602,02:52,Peterborough
+Belfast,Portsmouth,74,2.0,SUG529,08:27,"York, Dundee"
+Belfast,Nottingham,465,0.8,YDH157,09:51,Blackpool
+Belfast,Brighton,367,6.0,NQF231,18:08,"Peterborough, Middlesbrough, York, Manchester, Nottingham"
+Belfast,Leicester,409,5.4,JVB655,19:50,"Huddersfield, Middlesbrough, Luton, Derry, Belfast"
+Belfast,Oxford,155,3.9,LHF585,14:58,Huddersfield
+Belfast,Cambridge,348,4.0,NWI966,04:36,"Manchester, Belfast"
+Belfast,York,386,1.0,GFY362,12:00,"Coventry, Cambridge"
+Belfast,Aberdeen,374,5.9,DAZ947,13:21,"Basildon, Swansea, Birmingham"
+Belfast,Dundee,368,3.1,ZHY649,19:37,"Basildon, Derby"
+Belfast,Inverness,150,5.3,TWF526,18:16,"Inverness, Blackpool, Newport"
+Belfast,Exeter,349,5.7,CNF930,07:48,
+Belfast,Plymouth,240,1.3,CRJ877,11:54,Portsmouth
+Belfast,Swansea,402,3.1,RMX496,18:55,"London, Reading, Coventry, Glasgow"
+Belfast,Newport,153,4.3,ZYJ560,12:45,"Cambridge, Nottingham, London, Bournemouth, Blackpool"
+Belfast,Coventry,486,4.3,MLS824,05:49,
+Belfast,Stoke-on-Trent,478,1.7,YUI161,16:12,
+Belfast,Wolverhampton,142,3.4,MTO687,09:42,"Huddersfield, Chelmsford, Bedford, Swansea"
+Belfast,Derby,309,3.4,JCD393,11:24,"Birmingham, Derry, Manchester, Reading"
+Belfast,Norwich,459,2.6,OBW717,13:14,"Blackpool, Plymouth, Leeds, Derby"
+Belfast,Blackpool,492,4.7,CFF984,11:47,Bedford
+Belfast,Middlesbrough,227,1.0,YFT944,12:01,"Rotherham, Wolverhampton"
+Belfast,Bournemouth,209,2.0,EHO407,02:21,"Portsmouth, Norwich, Swansea, Huddersfield"
+Belfast,Luton,134,2.8,KZD779,01:39,"Coventry, Edinburgh"
+Belfast,Reading,334,1.3,CQT108,09:55,"Leicester, Peterborough, Glasgow"
+Belfast,Warrington,490,2.2,VMQ776,06:01,
+Belfast,Peterborough,335,3.2,DCJ320,12:45,
+Belfast,Huddersfield,436,1.3,EQJ804,17:33,Basildon
+Belfast,Slough,228,0.8,LDH388,01:51,"Edinburgh, Leicester"
+Belfast,Basildon,482,2.4,ITE753,00:45,"Oxford, Colchester, Bournemouth, Slough, Aberdeen"
+Belfast,Chelmsford,156,2.6,WRQ799,12:04,"Warrington, Dundee, Inverness"
+Belfast,Colchester,439,1.2,WUA859,08:35,"Middlesbrough, Woking"
+Belfast,Derry,359,2.1,SIF726,01:12,Newport
+Belfast,Woking,190,4.9,ALH603,06:24,"Sheffield, Brighton"
+Belfast,Rotherham,372,1.4,CXW996,13:00,"Belfast, Rotherham, Bournemouth"
+Belfast,Bedford,137,3.2,DNM745,02:01,
+Newcastle,London,74,1.1,BWR394,17:32,"Southampton, Inverness, Birmingham, Colchester, Derby"
+Newcastle,Manchester,346,3.3,ODS614,22:44,"Cardiff, Warrington, Aberdeen"
+Newcastle,Birmingham,111,2.2,HOK387,01:47,Woking
+Newcastle,Liverpool,355,3.7,PCR114,15:53,Wolverhampton
+Newcastle,Leeds,398,0.9,AJY779,12:00,"Blackpool, Bristol, Leicester"
+Newcastle,Sheffield,74,2.3,TSZ361,07:00,"Leeds, Sheffield, Norwich, Dundee"
+Newcastle,Bristol,356,3.3,CRV889,07:59,"Glasgow, Basildon, Blackpool"
+Newcastle,Glasgow,487,3.1,SRD346,05:56,"Leicester, Leeds, Bedford, Nottingham"
+Newcastle,Edinburgh,365,4.0,MMJ103,18:02,Portsmouth
+Newcastle,Cardiff,98,3.7,PBT807,22:23,"Dundee, Newport"
+Newcastle,Belfast,61,6.0,FKQ350,18:10,
+Newcastle,Southampton,389,2.0,TAG569,02:59,"York, Exeter, Southampton"
+Newcastle,Portsmouth,92,3.7,VTL167,15:08,
+Newcastle,Nottingham,318,4.5,CAO792,05:43,"Rotherham, Reading, Derry"
+Newcastle,Brighton,470,3.2,LXU517,04:17,
+Newcastle,Leicester,381,5.5,NXG294,05:37,"Birmingham, Stoke-on-Trent, Cardiff, Portsmouth, Belfast"
+Newcastle,Oxford,250,4.6,FUH480,01:43,"Cardiff, Stoke-on-Trent"
+Newcastle,Cambridge,246,4.9,JSX357,01:13,"Peterborough, London"
+Newcastle,York,451,2.8,VZM397,15:36,
+Newcastle,Aberdeen,307,0.5,XZV734,18:43,"Basildon, Slough, Sheffield, Portsmouth, Liverpool"
+Newcastle,Dundee,288,4.1,EDQ777,00:58,Aberdeen
+Newcastle,Inverness,423,3.7,TOD799,05:14,"Wolverhampton, Derry, Newport"
+Newcastle,Exeter,273,1.0,KOL177,06:38,"Leicester, Derry"
+Newcastle,Plymouth,393,1.7,CCR901,23:16,"Luton, Rotherham"
+Newcastle,Swansea,374,3.9,QOD937,23:57,"Leeds, Brighton, Plymouth"
+Newcastle,Newport,309,3.2,BVO880,01:08,"Coventry, Luton"
+Newcastle,Coventry,207,1.7,LRM546,08:01,
+Newcastle,Stoke-on-Trent,340,1.8,VJL220,04:33,"Coventry, Newport, Stoke-on-Trent, Huddersfield, Manchester"
+Newcastle,Wolverhampton,270,2.6,KPP336,08:25,
+Newcastle,Derby,407,1.2,BNE851,13:07,
+Newcastle,Norwich,385,4.8,LMX944,19:53,"Inverness, Colchester"
+Newcastle,Blackpool,493,4.6,YLO966,21:15,"London, Birmingham, Bristol, Aberdeen"
+Newcastle,Middlesbrough,225,2.7,NWL260,01:05,"Bedford, Bristol, Huddersfield"
+Newcastle,Bournemouth,283,4.0,BSZ219,23:50,"Derby, Sheffield, Plymouth"
+Newcastle,Luton,158,3.5,NBT889,19:19,"Peterborough, Bournemouth, Slough"
+Newcastle,Reading,313,4.0,YAR265,19:45,"Norwich, Glasgow, Chelmsford, Bedford, Inverness"
+Newcastle,Warrington,122,5.3,OUA950,01:33,
+Newcastle,Peterborough,390,5.3,CGM232,06:44,"Sheffield, Birmingham, Liverpool, Cambridge, Stoke-on-Trent"
+Newcastle,Huddersfield,93,4.0,EDU749,17:24,Edinburgh
+Newcastle,Slough,370,3.0,IVA580,00:05,"Nottingham, Slough, Edinburgh"
+Newcastle,Basildon,125,5.2,RIV533,22:21,"Stoke-on-Trent, Bedford"
+Newcastle,Chelmsford,59,3.4,LYO700,04:46,"Brighton, Slough"
+Newcastle,Colchester,217,3.3,JBE523,08:40,"Portsmouth, London, Blackpool, Nottingham, Glasgow"
+Newcastle,Derry,408,2.9,TKR645,10:57,"Bournemouth, Exeter, Inverness, Peterborough"
+Newcastle,Woking,497,2.6,GUY332,14:21,"Dundee, Exeter, Bournemouth, Slough, Inverness"
+Newcastle,Rotherham,176,3.7,ABH691,17:46,London
+Newcastle,Bedford,125,5.6,FFZ572,16:11,"Brighton, Inverness, Exeter"
+Southampton,London,314,4.1,NSS914,06:23,"Woking, Cardiff, Edinburgh"
+Southampton,Manchester,478,3.4,FXS448,03:18,
+Southampton,Birmingham,174,2.6,ZPK480,08:45,
+Southampton,Liverpool,433,4.5,OFZ405,07:54,"Reading, Chelmsford, Basildon, Bedford, Derry"
+Southampton,Leeds,211,3.9,IPV571,23:42,
+Southampton,Sheffield,263,2.2,QPW914,06:46,"Cambridge, Belfast, Middlesbrough"
+Southampton,Bristol,322,1.7,WPY377,03:05,Slough
+Southampton,Glasgow,296,1.6,FLC353,07:11,London
+Southampton,Edinburgh,435,4.9,ELT402,17:17,Sheffield
+Southampton,Cardiff,209,2.0,YTI587,03:21,"Leeds, Belfast"
+Southampton,Belfast,273,1.8,NYS653,12:13,
+Southampton,Newcastle,126,2.5,KCZ302,15:27,"Huddersfield, Basildon, Newport"
+Southampton,Portsmouth,337,4.1,AUQ696,02:30,"Colchester, Leeds"
+Southampton,Nottingham,335,5.1,OPG148,04:35,Portsmouth
+Southampton,Brighton,207,3.9,PJP274,20:47,"Inverness, Swansea, Slough"
+Southampton,Leicester,466,1.5,VGS398,17:41,
+Southampton,Oxford,386,3.6,HLM533,16:42,"Portsmouth, Chelmsford, Plymouth"
+Southampton,Cambridge,201,3.6,PPG149,00:09,"Warrington, Peterborough, Huddersfield"
+Southampton,York,419,2.0,VLY910,10:12,
+Southampton,Aberdeen,318,0.9,EIK267,12:22,
+Southampton,Dundee,148,5.5,UTD316,22:11,
+Southampton,Inverness,189,3.0,IIL364,16:24,"Woking, Luton, Portsmouth, Liverpool, Swansea"
+Southampton,Exeter,145,3.8,QKV949,06:15,"Derry, Brighton, Newport, London"
+Southampton,Plymouth,382,0.9,GHV620,22:27,Newcastle
+Southampton,Swansea,308,4.5,AXV247,06:54,"Huddersfield, Manchester"
+Southampton,Newport,185,4.5,OHX574,17:06,
+Southampton,Coventry,234,5.7,SES799,03:12,Peterborough
+Southampton,Stoke-on-Trent,328,1.0,JQM710,22:00,"Oxford, Sheffield, Leicester, Southampton"
+Southampton,Wolverhampton,60,1.7,XSD151,08:51,"Oxford, Bristol, Plymouth, Belfast, Middlesbrough"
+Southampton,Derby,237,4.7,CTU518,15:37,"Brighton, Blackpool, Newport, Huddersfield, Southampton"
+Southampton,Norwich,437,5.5,HJB617,23:14,"Bristol, Cambridge"
+Southampton,Blackpool,166,5.6,UCH378,01:16,"Colchester, Coventry, Middlesbrough, Reading"
+Southampton,Middlesbrough,380,4.4,LER303,11:37,"Blackpool, Bournemouth, Derry"
+Southampton,Bournemouth,475,3.6,ILZ393,16:28,"Luton, London, Manchester, Cardiff"
+Southampton,Luton,445,3.2,SCG652,01:32,
+Southampton,Reading,95,2.3,WWH206,05:00,"Colchester, Coventry, Wolverhampton, Bournemouth"
+Southampton,Warrington,429,1.8,HCZ616,21:00,York
+Southampton,Peterborough,346,3.7,ERS756,15:52,
+Southampton,Huddersfield,257,5.5,ARA539,08:31,Bournemouth
+Southampton,Slough,128,5.3,AZT346,10:30,
+Southampton,Basildon,463,1.4,LMX317,00:37,"Bedford, Leeds"
+Southampton,Chelmsford,263,5.6,USK942,11:33,"Chelmsford, Inverness"
+Southampton,Colchester,92,4.7,USJ741,06:15,"Nottingham, Norwich"
+Southampton,Derry,135,5.6,PYV240,09:36,"Bedford, Newcastle, Southampton"
+Southampton,Woking,262,2.5,YEJ528,05:11,
+Southampton,Rotherham,173,4.0,FFN847,21:16,
+Southampton,Bedford,458,1.3,OMG963,04:13,"Colchester, Newcastle"
+Portsmouth,London,338,1.6,HSX635,05:01,"Aberdeen, Swansea, Manchester"
+Portsmouth,Manchester,461,4.9,YYR221,11:26,"Newport, Peterborough, York, Cambridge, Oxford"
+Portsmouth,Birmingham,74,4.1,VWD163,22:11,
+Portsmouth,Liverpool,185,5.9,RHO546,21:31,"Cardiff, Bristol, Newport, Colchester, Manchester"
+Portsmouth,Leeds,154,5.3,BQB635,06:49,
+Portsmouth,Sheffield,338,3.6,OCL384,14:30,"Stoke-on-Trent, Cardiff, Reading, Aberdeen, Chelmsford"
+Portsmouth,Bristol,183,3.8,GZN573,18:08,"Bristol, Derry, London"
+Portsmouth,Glasgow,192,4.9,JGK239,00:44,"Nottingham, Cambridge, Southampton, Leeds, Peterborough"
+Portsmouth,Edinburgh,303,5.3,SEV431,17:33,"Oxford, Birmingham"
+Portsmouth,Cardiff,269,2.1,WUS955,17:55,"Peterborough, Rotherham, Leeds, Newport, Oxford"
+Portsmouth,Belfast,156,0.9,JMH197,01:25,"Wolverhampton, York, Glasgow, Colchester"
+Portsmouth,Newcastle,147,3.1,ALI309,09:37,"Stoke-on-Trent, Chelmsford"
+Portsmouth,Southampton,497,2.6,BDW633,01:34,
+Portsmouth,Nottingham,449,4.1,FBN814,15:52,"Coventry, London"
+Portsmouth,Brighton,87,6.0,QLC644,21:47,"Newcastle, Aberdeen, Oxford, Sheffield, Derry"
+Portsmouth,Leicester,322,0.8,DJS513,13:37,
+Portsmouth,Oxford,302,1.4,OOG875,02:01,"Aberdeen, Manchester, Newcastle, Edinburgh, Swansea"
+Portsmouth,Cambridge,176,1.9,ZKP925,17:10,"Brighton, Derry, London, Newport, Huddersfield"
+Portsmouth,York,109,5.2,WAA967,15:13,"Basildon, Woking, Southampton, Chelmsford"
+Portsmouth,Aberdeen,448,0.5,IKB483,22:41,Oxford
+Portsmouth,Dundee,140,2.2,XAO878,19:04,"Reading, Edinburgh, Stoke-on-Trent, Woking"
+Portsmouth,Inverness,121,2.5,BHW418,05:30,"Bournemouth, Aberdeen, Dundee, Chelmsford, Birmingham"
+Portsmouth,Exeter,116,3.5,HJH795,20:29,
+Portsmouth,Plymouth,96,4.3,KBW542,22:49,Aberdeen
+Portsmouth,Swansea,389,4.3,OQX811,06:32,
+Portsmouth,Newport,181,0.9,QGS662,10:14,"Sheffield, Basildon, Warrington"
+Portsmouth,Coventry,213,2.7,SRN955,14:04,Stoke-on-Trent
+Portsmouth,Stoke-on-Trent,146,3.5,QMY647,05:24,"Slough, Blackpool, Huddersfield"
+Portsmouth,Wolverhampton,493,3.8,ZRV704,03:04,
+Portsmouth,Derby,304,3.4,PQA684,12:45,
+Portsmouth,Norwich,222,3.6,TMG280,01:25,"Newcastle, Nottingham, Swansea, Colchester, Inverness"
+Portsmouth,Blackpool,132,3.6,VXO560,13:53,Basildon
+Portsmouth,Middlesbrough,245,0.9,WIF565,16:14,"Derby, Swansea, Blackpool"
+Portsmouth,Bournemouth,448,4.8,IAU315,03:26,
+Portsmouth,Luton,492,3.1,XSV221,23:53,London
+Portsmouth,Reading,480,2.0,MNF183,13:32,
+Portsmouth,Warrington,375,1.5,QOH500,23:08,
+Portsmouth,Peterborough,339,2.4,HZN899,11:11,Southampton
+Portsmouth,Huddersfield,330,5.9,XQD292,18:28,
+Portsmouth,Slough,257,0.5,ENA625,02:41,"Woking, Huddersfield"
+Portsmouth,Basildon,473,2.6,JWN295,13:14,
+Portsmouth,Chelmsford,198,5.5,LBU847,12:30,"Colchester, Peterborough, Newport, Belfast"
+Portsmouth,Colchester,396,3.1,LQA588,01:21,"Leicester, Reading, Chelmsford, Swansea, Basildon"
+Portsmouth,Derry,290,6.0,QCA653,01:06,
+Portsmouth,Woking,290,3.2,AVO142,21:42,Bristol
+Portsmouth,Rotherham,312,2.4,ATF398,11:56,"Colchester, Belfast, Swansea, Reading, Blackpool"
+Portsmouth,Bedford,384,1.1,ABV178,15:00,"Woking, Newcastle"
+Nottingham,London,83,5.3,VME404,13:16,"Basildon, Bournemouth, Cambridge, Belfast"
+Nottingham,Manchester,146,0.5,BCN703,02:50,"Coventry, Bedford, Cambridge, Slough, Inverness"
+Nottingham,Birmingham,158,1.6,IYC672,20:10,"Newport, Swansea"
+Nottingham,Liverpool,449,4.3,CEQ637,21:28,"Colchester, Rotherham, Leeds"
+Nottingham,Leeds,123,5.0,DDV509,17:00,"Stoke-on-Trent, Huddersfield, Wolverhampton, Swansea, Cambridge"
+Nottingham,Sheffield,367,3.4,AOT132,06:41,"Cardiff, Coventry, Edinburgh"
+Nottingham,Bristol,352,1.0,CHD334,15:10,Warrington
+Nottingham,Glasgow,56,5.9,CBN665,23:14,"Nottingham, Norwich, Sheffield, Coventry"
+Nottingham,Edinburgh,476,5.7,WCF657,16:40,"Belfast, Swansea"
+Nottingham,Cardiff,260,5.7,CNY137,11:57,Nottingham
+Nottingham,Belfast,348,1.5,WUX647,16:12,
+Nottingham,Newcastle,298,0.9,MLK839,14:45,"Bristol, Dundee"
+Nottingham,Southampton,283,1.2,UNR506,17:27,"Peterborough, Warrington, Coventry, Woking, Belfast"
+Nottingham,Portsmouth,148,4.6,RML585,08:56,Aberdeen
+Nottingham,Brighton,247,4.1,OCF970,22:31,
+Nottingham,Leicester,169,3.8,TQJ816,10:40,
+Nottingham,Oxford,460,3.1,GND559,18:01,"Cardiff, Chelmsford, Woking"
+Nottingham,Cambridge,115,2.1,JIS176,17:32,Nottingham
+Nottingham,York,415,5.9,DXB173,10:58,"Middlesbrough, Derby"
+Nottingham,Aberdeen,134,3.1,FEI558,08:31,"Plymouth, Leicester, Basildon, Slough"
+Nottingham,Dundee,477,1.2,UZF530,10:22,"Slough, Coventry, Derry, Bristol, Inverness"
+Nottingham,Inverness,211,1.5,PYO268,19:03,"Derry, Manchester, Leeds, Inverness, Reading"
+Nottingham,Exeter,331,1.5,OTZ287,20:41,"Plymouth, Peterborough, Aberdeen"
+Nottingham,Plymouth,438,4.5,KPJ587,11:25,"Peterborough, Newcastle, Birmingham"
+Nottingham,Swansea,324,2.3,QQO372,09:31,"Leicester, Luton, Reading, London, Belfast"
+Nottingham,Newport,396,2.5,UYB450,15:04,"Chelmsford, Wolverhampton, Edinburgh, London, Stoke-on-Trent"
+Nottingham,Coventry,344,3.7,SNU345,07:20,
+Nottingham,Stoke-on-Trent,146,4.1,UBT517,07:04,York
+Nottingham,Wolverhampton,302,0.9,TFJ354,15:40,"Dundee, Liverpool, Derby, Sheffield"
+Nottingham,Derby,234,4.5,ZFS539,10:15,"Bournemouth, Portsmouth, Peterborough, Wolverhampton, York"
+Nottingham,Norwich,347,2.3,SUR609,10:54,Reading
+Nottingham,Blackpool,140,1.8,QLW428,23:31,"Peterborough, Woking, London, Derby, Glasgow"
+Nottingham,Middlesbrough,341,5.7,LLA461,05:17,Wolverhampton
+Nottingham,Bournemouth,72,4.5,KQF880,11:11,"Manchester, Edinburgh, Colchester, Nottingham, Wolverhampton"
+Nottingham,Luton,273,2.9,AKE177,03:08,"Reading, Derby, Basildon, Derry"
+Nottingham,Reading,294,5.2,MHR671,21:25,"Woking, Sheffield, Rotherham, Bedford, Norwich"
+Nottingham,Warrington,120,4.2,FLQ197,23:28,"Basildon, Reading"
+Nottingham,Peterborough,362,4.6,HDB260,23:58,Bristol
+Nottingham,Huddersfield,271,4.9,EFD342,11:23,"Reading, Swansea, Blackpool"
+Nottingham,Slough,425,1.1,ITQ279,06:22,
+Nottingham,Basildon,255,5.0,OJD315,08:32,York
+Nottingham,Chelmsford,332,3.1,QMH794,06:02,"Liverpool, Aberdeen"
+Nottingham,Colchester,205,2.5,KLN371,02:19,Coventry
+Nottingham,Derry,351,0.8,JUT459,10:21,
+Nottingham,Woking,322,3.7,KZO279,10:38,Edinburgh
+Nottingham,Rotherham,349,2.1,BVV845,20:46,"Cardiff, Middlesbrough, Bristol, Aberdeen, Inverness"
+Nottingham,Bedford,162,2.9,FID925,10:24,"Liverpool, Huddersfield, Blackpool"
+Brighton,London,236,3.2,UND172,08:32,Derry
+Brighton,Manchester,426,3.4,EYT793,22:34,Swansea
+Brighton,Birmingham,80,1.1,OIB293,03:31,Stoke-on-Trent
+Brighton,Liverpool,476,4.7,BKF531,09:00,"Middlesbrough, Dundee, Leeds, Huddersfield, Reading"
+Brighton,Leeds,488,5.6,KRF203,13:17,"Sheffield, Derry, Leeds, Coventry"
+Brighton,Sheffield,474,2.9,FIC609,01:47,
+Brighton,Bristol,221,5.4,JMZ878,18:34,Edinburgh
+Brighton,Glasgow,396,3.2,NAB463,00:13,
+Brighton,Edinburgh,192,5.2,RNG730,23:06,"Oxford, Coventry, Edinburgh"
+Brighton,Cardiff,487,1.2,TNR133,22:59,"Chelmsford, Stoke-on-Trent, Portsmouth, Reading, Swansea"
+Brighton,Belfast,392,1.7,CNE627,03:40,"Dundee, Rotherham, Bristol, Aberdeen, Reading"
+Brighton,Newcastle,248,0.6,JCQ513,08:24,
+Brighton,Southampton,498,2.2,LEZ477,20:24,Chelmsford
+Brighton,Portsmouth,312,3.2,DFS212,03:33,
+Brighton,Nottingham,352,1.6,VUS838,17:16,"Warrington, Leeds, Dundee, Stoke-on-Trent, Peterborough"
+Brighton,Leicester,327,1.4,NSV783,18:08,"Colchester, Newcastle, Luton"
+Brighton,Oxford,256,5.6,KUO552,04:52,
+Brighton,Cambridge,134,6.0,GES772,06:49,Leicester
+Brighton,York,424,3.9,ZSC408,23:20,"Stoke-on-Trent, Manchester, Exeter, Plymouth"
+Brighton,Aberdeen,123,4.9,QNT476,01:23,
+Brighton,Dundee,303,0.8,RBR731,11:18,Cardiff
+Brighton,Inverness,436,1.7,DLE861,06:33,
+Brighton,Exeter,440,1.3,VFU899,23:25,York
+Brighton,Plymouth,253,3.2,DJA331,11:45,"York, Newport"
+Brighton,Swansea,390,3.6,TOZ533,20:29,"Stoke-on-Trent, Glasgow, Inverness, Belfast"
+Brighton,Newport,221,1.7,GAW129,06:49,"Stoke-on-Trent, Brighton, Leeds"
+Brighton,Coventry,499,4.1,GUG559,06:25,Slough
+Brighton,Stoke-on-Trent,199,3.0,RPF181,08:31,
+Brighton,Wolverhampton,287,3.8,HOD726,23:57,
+Brighton,Derby,393,2.0,GOX922,18:08,"Glasgow, Newcastle, Manchester"
+Brighton,Norwich,117,1.3,JOD656,03:26,"Aberdeen, Slough"
+Brighton,Blackpool,384,1.4,ZNI407,23:19,York
+Brighton,Middlesbrough,357,1.4,CKV349,06:57,
+Brighton,Bournemouth,115,2.7,UZE999,04:25,
+Brighton,Luton,149,2.0,FEA506,17:09,"Oxford, Derry, Stoke-on-Trent, Belfast, Blackpool"
+Brighton,Reading,225,2.7,JXW900,04:55,"Warrington, Portsmouth, Basildon, London"
+Brighton,Warrington,203,0.5,BHW704,11:06,"Oxford, Liverpool"
+Brighton,Peterborough,277,2.3,ACT936,17:00,"Portsmouth, Swansea"
+Brighton,Huddersfield,50,5.2,LQC692,21:11,"Bristol, Oxford"
+Brighton,Slough,344,4.5,QSY780,21:28,"Bedford, Leicester, Dundee, Blackpool, Cambridge"
+Brighton,Basildon,105,3.8,SRW927,23:01,"Bristol, Peterborough, Birmingham"
+Brighton,Chelmsford,103,5.3,FFD863,10:02,Manchester
+Brighton,Colchester,90,0.6,QXE398,06:49,York
+Brighton,Derry,498,3.3,LTA548,02:00,
+Brighton,Woking,239,2.5,KBW418,02:52,"London, Bristol, Liverpool, Belfast, Huddersfield"
+Brighton,Rotherham,350,5.4,OKI680,00:32,"Portsmouth, London, Southampton"
+Brighton,Bedford,374,3.6,BZB834,02:56,Middlesbrough
+Leicester,London,305,0.9,KPA834,11:55,"Rotherham, Aberdeen, Oxford, Leeds, Belfast"
+Leicester,Manchester,285,4.8,XKQ251,01:47,
+Leicester,Birmingham,336,3.2,DLG768,06:56,"Rotherham, Norwich, Wolverhampton, Chelmsford, Warrington"
+Leicester,Liverpool,321,3.5,RBQ254,17:35,"Bedford, Newport, Portsmouth, Birmingham, Bournemouth"
+Leicester,Leeds,246,1.2,NIS874,21:59,
+Leicester,Sheffield,308,3.4,QYZ898,02:47,
+Leicester,Bristol,493,4.1,ZQW457,14:34,"Swansea, Leeds, Derby"
+Leicester,Glasgow,470,5.3,IJR960,22:09,
+Leicester,Edinburgh,73,3.3,VBV855,22:44,Bournemouth
+Leicester,Cardiff,89,1.0,GFJ122,07:47,Blackpool
+Leicester,Belfast,166,2.8,ALW471,16:05,
+Leicester,Newcastle,164,4.3,WOG471,22:00,"Cambridge, Portsmouth, Rotherham, Woking, Edinburgh"
+Leicester,Southampton,497,5.8,LCR160,23:35,"Peterborough, Blackpool, Dundee, Brighton"
+Leicester,Portsmouth,292,4.6,UDG504,05:14,"London, Reading, Basildon, Brighton, York"
+Leicester,Nottingham,250,2.1,QVQ189,13:24,"Southampton, Norwich, Reading, Nottingham, Slough"
+Leicester,Brighton,407,2.9,CZH801,21:24,
+Leicester,Oxford,458,4.4,DTA176,11:16,"Sheffield, Edinburgh, London, Belfast, Bristol"
+Leicester,Cambridge,440,5.3,UNF709,18:31,"Exeter, Woking, Nottingham, Swansea"
+Leicester,York,173,4.4,ORD532,17:42,"Huddersfield, Cambridge"
+Leicester,Aberdeen,467,5.9,RHV118,15:50,"Belfast, Southampton, Derry, Slough"
+Leicester,Dundee,224,1.6,AVQ153,23:45,"Portsmouth, Wolverhampton, Coventry, Liverpool, Luton"
+Leicester,Inverness,131,1.3,JLT205,04:37,"Plymouth, Liverpool"
+Leicester,Exeter,373,3.4,PEY801,00:14,"Bournemouth, Stoke-on-Trent, Middlesbrough, Cardiff"
+Leicester,Plymouth,129,3.6,DJN687,15:28,"Rotherham, Woking, Sheffield, Bournemouth, Inverness"
+Leicester,Swansea,248,4.8,CTR126,03:26,"Manchester, Norwich, Luton, Wolverhampton, York"
+Leicester,Newport,340,5.8,ZVT482,14:18,"Edinburgh, Peterborough, Woking, London"
+Leicester,Coventry,61,1.5,XIB783,10:24,
+Leicester,Stoke-on-Trent,165,1.1,ZTD429,23:30,"Exeter, Stoke-on-Trent, London, Edinburgh, Liverpool"
+Leicester,Wolverhampton,400,2.7,RZP235,12:04,"Woking, Wolverhampton, Newcastle, Leeds"
+Leicester,Derby,209,5.4,CTQ769,16:37,"Blackpool, Southampton, Huddersfield, Swansea, Middlesbrough"
+Leicester,Norwich,432,4.7,AIK554,17:41,Newcastle
+Leicester,Blackpool,421,1.3,CIJ228,01:00,Liverpool
+Leicester,Middlesbrough,397,1.2,MZP486,04:11,"Chelmsford, Wolverhampton, Stoke-on-Trent, Colchester"
+Leicester,Bournemouth,174,3.2,XPU999,23:36,Aberdeen
+Leicester,Luton,172,3.4,KLJ898,19:12,
+Leicester,Reading,397,3.3,XJO577,16:28,"Luton, Dundee, Manchester"
+Leicester,Warrington,50,3.0,VFW297,13:13,Brighton
+Leicester,Peterborough,374,3.5,QFY576,20:22,"Coventry, Cardiff, Brighton, Aberdeen, Newcastle"
+Leicester,Huddersfield,412,1.8,MOG541,04:01,"Portsmouth, Peterborough, Dundee, Derry, Bournemouth"
+Leicester,Slough,309,3.5,OFH787,07:22,Sheffield
+Leicester,Basildon,223,1.0,OOJ414,20:38,"Inverness, York"
+Leicester,Chelmsford,191,5.7,ZYG877,00:01,"Bournemouth, York, Newcastle, Slough"
+Leicester,Colchester,237,3.8,SUS966,09:46,"Oxford, Cardiff, Newcastle, Peterborough"
+Leicester,Derry,374,3.7,ZSC235,11:37,"Newport, Stoke-on-Trent"
+Leicester,Woking,264,1.8,FBU454,19:43,"Cardiff, Bedford, Colchester"
+Leicester,Rotherham,80,3.1,QNL622,19:11,"Glasgow, Newport, Dundee, Inverness, Stoke-on-Trent"
+Leicester,Bedford,369,2.0,ULG191,17:24,"Rotherham, Belfast"
+Oxford,London,454,1.9,YBI741,18:37,
+Oxford,Manchester,283,1.8,EAP359,14:35,Edinburgh
+Oxford,Birmingham,158,5.0,RUG373,01:38,"Blackpool, Glasgow, Liverpool, Southampton"
+Oxford,Liverpool,243,0.9,XGK646,04:33,Middlesbrough
+Oxford,Leeds,187,4.2,BFD857,04:54,
+Oxford,Sheffield,98,2.2,NAL887,16:07,"York, London, Colchester, Birmingham"
+Oxford,Bristol,104,5.1,FTC163,19:15,"Middlesbrough, Brighton, Swansea, Derry"
+Oxford,Glasgow,395,3.4,DLV960,16:09,"Plymouth, Leeds, Newport, Blackpool, Chelmsford"
+Oxford,Edinburgh,409,1.2,QLJ384,00:16,Belfast
+Oxford,Cardiff,218,0.5,MZK146,08:26,
+Oxford,Belfast,166,2.6,PJD258,13:51,Southampton
+Oxford,Newcastle,500,2.0,ZNJ387,05:17,"Derry, Middlesbrough, Cambridge, Luton, Newport"
+Oxford,Southampton,354,5.4,FYQ624,18:52,"Peterborough, Chelmsford, Oxford, Derby"
+Oxford,Portsmouth,433,4.1,GSF221,12:40,"Edinburgh, Derry, Leicester"
+Oxford,Nottingham,134,1.4,BHX277,10:17,"Nottingham, Norwich"
+Oxford,Brighton,115,0.7,FZO505,16:23,"Cambridge, Oxford, Portsmouth"
+Oxford,Leicester,421,3.7,DKY549,03:28,Inverness
+Oxford,Cambridge,195,5.1,QUR814,10:01,"Slough, Aberdeen, Glasgow"
+Oxford,York,494,3.0,SMY741,10:06,
+Oxford,Aberdeen,291,0.5,IGB211,21:35,"Bristol, Newcastle"
+Oxford,Dundee,463,1.4,MNH732,10:42,"Leeds, Bristol, Peterborough"
+Oxford,Inverness,454,3.1,FUU104,01:04,Glasgow
+Oxford,Exeter,415,4.6,XDV463,05:05,
+Oxford,Plymouth,51,1.5,YKH856,11:06,Dundee
+Oxford,Swansea,231,0.7,WHN223,12:26,Plymouth
+Oxford,Newport,362,4.1,TKI769,03:28,"Southampton, Dundee, Plymouth, Derby, Liverpool"
+Oxford,Coventry,210,3.9,ORY243,07:04,"Portsmouth, London, Peterborough"
+Oxford,Stoke-on-Trent,223,1.0,TQP784,07:43,Newcastle
+Oxford,Wolverhampton,469,1.2,RNS822,16:14,Warrington
+Oxford,Derby,139,4.4,KNV736,05:45,"Derby, Derry, Plymouth, Aberdeen, Bournemouth"
+Oxford,Norwich,248,4.0,XTH406,01:20,"London, Slough"
+Oxford,Blackpool,90,1.3,ZMA883,04:02,"Rotherham, Oxford, Exeter, Inverness, Slough"
+Oxford,Middlesbrough,203,2.3,WMG344,23:16,"Brighton, Huddersfield, York"
+Oxford,Bournemouth,393,5.8,MNV777,22:41,"Inverness, York, Aberdeen, Dundee, Rotherham"
+Oxford,Luton,334,2.3,HRI131,03:24,
+Oxford,Reading,216,2.0,PIH274,23:52,"Leicester, Portsmouth, Bedford, Liverpool, Slough"
+Oxford,Warrington,265,0.8,MUX630,15:23,"Bedford, Dundee"
+Oxford,Peterborough,336,5.7,JJL208,16:09,"Newcastle, Nottingham, Leicester"
+Oxford,Huddersfield,387,1.9,BFN390,07:51,"Warrington, Exeter, Bedford, Brighton"
+Oxford,Slough,51,1.1,GJK225,07:51,"Derby, Newport"
+Oxford,Basildon,426,2.9,NUX290,18:52,"Cardiff, Norwich"
+Oxford,Chelmsford,289,2.6,IAS853,20:33,
+Oxford,Colchester,409,1.5,RQU822,10:58,"Colchester, Cardiff"
+Oxford,Derry,479,2.7,AZT757,13:39,"Glasgow, Birmingham, Huddersfield"
+Oxford,Woking,79,3.0,CEV604,11:13,"York, Stoke-on-Trent, Warrington, Rotherham"
+Oxford,Rotherham,182,0.5,ROQ517,13:23,"Wolverhampton, Warrington"
+Oxford,Bedford,492,0.7,CNK210,10:56,"Cardiff, Cambridge, Bournemouth, Huddersfield, Bristol"
+Cambridge,London,451,3.7,YSP273,03:24,"Woking, Manchester, Blackpool, Leeds, Liverpool"
+Cambridge,Manchester,207,3.8,AMP860,07:20,Southampton
+Cambridge,Birmingham,476,1.9,LWW215,07:58,"Inverness, Stoke-on-Trent"
+Cambridge,Liverpool,468,1.0,SQO886,09:34,
+Cambridge,Leeds,494,3.4,UZH844,11:18,"Glasgow, Stoke-on-Trent"
+Cambridge,Sheffield,142,6.0,RRI743,20:12,"Liverpool, Basildon, Norwich"
+Cambridge,Bristol,412,4.5,GLW301,08:35,"Edinburgh, Bedford, Birmingham"
+Cambridge,Glasgow,81,1.6,UOU747,21:56,Nottingham
+Cambridge,Edinburgh,139,2.6,TIO325,03:24,"Southampton, Slough, Norwich, Newcastle"
+Cambridge,Cardiff,419,4.1,OHW440,20:19,"Blackpool, Norwich, Wolverhampton"
+Cambridge,Belfast,181,3.7,ETT656,10:49,
+Cambridge,Newcastle,465,4.2,CIS256,13:17,"London, Middlesbrough, Newcastle, Derry"
+Cambridge,Southampton,275,4.3,FKO379,02:38,"Newcastle, Liverpool"
+Cambridge,Portsmouth,141,5.1,SRO740,20:02,"Peterborough, Southampton"
+Cambridge,Nottingham,399,2.4,WOO412,05:49,"Leicester, Middlesbrough, Slough, Plymouth"
+Cambridge,Brighton,307,4.8,DEC184,01:52,
+Cambridge,Leicester,289,4.4,XBL738,06:52,"Sheffield, Plymouth, Swansea"
+Cambridge,Oxford,198,5.9,BPY868,13:49,"Nottingham, York, Bournemouth, Plymouth"
+Cambridge,York,383,0.7,BRX451,22:45,"Newcastle, Portsmouth"
+Cambridge,Aberdeen,78,6.0,ULY498,15:39,"Colchester, Plymouth, Manchester, Brighton"
+Cambridge,Dundee,346,4.0,VAV736,22:39,"Colchester, Slough, Luton, Brighton"
+Cambridge,Inverness,380,4.0,HNF593,08:12,"York, Plymouth, Colchester"
+Cambridge,Exeter,316,1.8,RWP513,08:20,"London, Newcastle, Edinburgh, Swansea, Oxford"
+Cambridge,Plymouth,242,2.7,BLA157,07:57,"Huddersfield, Inverness, Leeds"
+Cambridge,Swansea,370,4.0,SRY194,13:53,"London, Woking, Glasgow"
+Cambridge,Newport,485,1.5,PUZ271,10:56,"Inverness, Bedford"
+Cambridge,Coventry,466,4.3,COX684,13:58,"Leeds, Slough, Coventry, Newcastle, Bristol"
+Cambridge,Stoke-on-Trent,74,3.0,YPI539,04:52,"Slough, Exeter"
+Cambridge,Wolverhampton,108,5.0,ACR383,08:32,
+Cambridge,Derby,70,1.1,HTJ219,10:19,"Swansea, Oxford, Portsmouth, Colchester"
+Cambridge,Norwich,285,2.6,XRB259,13:06,"Norwich, Nottingham, Exeter, Woking, Wolverhampton"
+Cambridge,Blackpool,85,3.8,PYD483,23:01,"Colchester, Woking"
+Cambridge,Middlesbrough,342,2.9,RDU448,02:53,Aberdeen
+Cambridge,Bournemouth,111,1.1,YIZ519,06:37,
+Cambridge,Luton,307,3.7,YKE538,01:26,
+Cambridge,Reading,334,4.2,XNX949,04:26,"Cambridge, Edinburgh, Blackpool, Glasgow"
+Cambridge,Warrington,360,2.6,KEL362,02:30,Warrington
+Cambridge,Peterborough,339,4.5,HJQ300,11:43,
+Cambridge,Huddersfield,437,1.1,QMI621,17:02,Exeter
+Cambridge,Slough,76,1.4,BYJ488,21:37,Coventry
+Cambridge,Basildon,185,1.4,SEK214,21:25,"Warrington, Wolverhampton, Southampton, Oxford, Dundee"
+Cambridge,Chelmsford,461,3.4,OEU246,16:07,"Slough, Coventry, Dundee"
+Cambridge,Colchester,406,2.6,RGS444,22:18,Cambridge
+Cambridge,Derry,388,4.3,DHD613,11:09,"Newcastle, Plymouth, Leeds, Birmingham"
+Cambridge,Woking,368,4.2,MAB195,22:17,"Norwich, Newport"
+Cambridge,Rotherham,107,4.6,QGB352,01:07,"Sheffield, Belfast, Inverness, Dundee, Bournemouth"
+Cambridge,Bedford,236,1.4,PED366,15:57,"Sheffield, Chelmsford, Woking"
+York,London,284,3.6,YLA327,02:06,Stoke-on-Trent
+York,Manchester,327,5.1,PRQ498,22:27,"Chelmsford, Bedford, York, Blackpool, Bournemouth"
+York,Birmingham,407,1.3,WXJ381,17:44,
+York,Liverpool,385,2.0,VRV844,11:13,Newport
+York,Leeds,420,4.1,SIR590,21:03,"Belfast, Norwich, Brighton"
+York,Sheffield,66,5.1,TMG283,15:48,"Chelmsford, Belfast, Glasgow"
+York,Bristol,83,4.8,BVK536,21:13,Coventry
+York,Glasgow,240,5.6,SAU359,00:02,London
+York,Edinburgh,224,5.8,IOR511,21:20,
+York,Cardiff,61,0.5,BEV334,10:31,"Coventry, Plymouth, Warrington, Portsmouth, York"
+York,Belfast,487,4.6,MMV416,09:00,"Reading, Bournemouth, Cambridge, Bristol"
+York,Newcastle,163,1.7,FWG236,09:52,"Belfast, Blackpool, Liverpool, Norwich, Nottingham"
+York,Southampton,341,0.5,CPD774,00:03,"Newport, Basildon, Slough, Inverness"
+York,Portsmouth,355,0.8,NLZ458,16:05,
+York,Nottingham,484,5.4,BTY978,12:51,
+York,Brighton,398,2.3,DQC486,09:08,"Wolverhampton, Blackpool, Southampton, Bedford"
+York,Leicester,351,3.0,UMT283,08:17,Belfast
+York,Oxford,107,2.9,DXQ570,20:15,"Edinburgh, Bristol"
+York,Cambridge,213,2.9,WXX737,04:57,"Reading, Wolverhampton, Sheffield, Blackpool, Southampton"
+York,Aberdeen,259,5.7,VHZ801,03:55,"Colchester, Slough"
+York,Dundee,271,1.6,EWX604,01:51,"Derby, Liverpool, Cardiff, Warrington, Bristol"
+York,Inverness,444,4.9,WWB316,12:27,"Leicester, Derby, Huddersfield, Wolverhampton"
+York,Exeter,476,1.2,HBY383,13:08,"Portsmouth, Liverpool, Manchester"
+York,Plymouth,488,1.4,SLZ597,04:00,"Coventry, Warrington, Aberdeen"
+York,Swansea,152,4.9,NFO346,03:48,
+York,Newport,387,5.0,IGD218,22:08,
+York,Coventry,313,3.5,SKO749,04:48,Bristol
+York,Stoke-on-Trent,351,1.6,HRH809,02:25,"Leicester, Chelmsford"
+York,Wolverhampton,125,4.2,FEX175,21:11,Oxford
+York,Derby,385,3.7,FRP726,03:07,"Leicester, Bedford, Nottingham"
+York,Norwich,253,0.9,NBY404,04:02,"Chelmsford, Slough, Glasgow"
+York,Blackpool,108,4.8,MYU919,20:18,Derby
+York,Middlesbrough,63,2.9,DPI399,00:03,"Bristol, Exeter, Wolverhampton, York, Liverpool"
+York,Bournemouth,275,4.9,RNN961,21:57,"Birmingham, Bedford, Portsmouth, Derry"
+York,Luton,92,5.0,OIX981,01:51,Derry
+York,Reading,468,3.1,XZU319,12:11,
+York,Warrington,65,5.0,MJD476,06:18,"Swansea, Portsmouth, Huddersfield, Cambridge"
+York,Peterborough,306,2.9,JAV129,13:06,"Belfast, Chelmsford, Bournemouth"
+York,Huddersfield,346,4.6,LYK569,09:08,"Liverpool, Inverness, Glasgow, Belfast"
+York,Slough,338,4.1,RFJ660,07:42,"Huddersfield, Inverness"
+York,Basildon,215,5.4,CTP939,23:46,"Derby, Stoke-on-Trent, Derry"
+York,Chelmsford,475,3.9,ITJ451,12:58,
+York,Colchester,427,1.6,USZ957,20:57,"Coventry, Bristol, Southampton, Sheffield"
+York,Derry,293,3.2,LJR641,09:55,"Portsmouth, Woking, Blackpool, Newport"
+York,Woking,494,4.4,QJZ920,08:17,"Leicester, Liverpool, Peterborough, Coventry, Basildon"
+York,Rotherham,346,0.9,GJK641,09:59,"Plymouth, Cambridge, Newcastle, Edinburgh"
+York,Bedford,404,5.8,KJG632,03:53,"Slough, Exeter"
+Aberdeen,London,491,4.0,UWT105,19:16,
+Aberdeen,Manchester,363,4.2,DKY652,16:29,"Derry, Leeds, Sheffield, Woking"
+Aberdeen,Birmingham,190,4.9,GLL596,15:50,Derry
+Aberdeen,Liverpool,403,5.6,XCC371,10:19,
+Aberdeen,Leeds,93,4.5,ZYH238,05:23,
+Aberdeen,Sheffield,366,2.0,SNL572,20:31,
+Aberdeen,Bristol,380,5.5,CVW976,07:58,"Bedford, Blackpool, Belfast"
+Aberdeen,Glasgow,204,5.8,ZBP680,13:10,"Colchester, Liverpool"
+Aberdeen,Edinburgh,379,1.9,OOV974,21:13,"Derry, Coventry, Cardiff"
+Aberdeen,Cardiff,217,1.4,PKD210,17:45,
+Aberdeen,Belfast,149,1.3,HQV243,07:28,"Reading, Luton"
+Aberdeen,Newcastle,183,0.7,PXF560,17:39,
+Aberdeen,Southampton,56,1.6,ZDH975,20:35,"Colchester, Derry, Derby"
+Aberdeen,Portsmouth,395,5.2,FBD590,04:53,
+Aberdeen,Nottingham,404,1.6,DOV647,13:47,"Wolverhampton, Southampton, Derby, Bristol"
+Aberdeen,Brighton,403,0.5,YRF460,23:42,Cardiff
+Aberdeen,Leicester,280,5.6,KUW701,13:26,Liverpool
+Aberdeen,Oxford,440,2.7,YLW414,02:55,"Dundee, Reading, Basildon, London, Derry"
+Aberdeen,Cambridge,312,0.8,YHU581,16:33,Leeds
+Aberdeen,York,490,4.4,WWU780,10:10,"Coventry, Blackpool, Exeter"
+Aberdeen,Dundee,111,2.5,OIP529,22:16,Coventry
+Aberdeen,Inverness,108,4.9,RIZ339,10:55,"Middlesbrough, Glasgow, Plymouth"
+Aberdeen,Exeter,487,3.3,DFK773,21:33,
+Aberdeen,Plymouth,292,2.0,JYJ576,00:13,"Bournemouth, Warrington, Newcastle, Glasgow, Derry"
+Aberdeen,Swansea,375,3.4,NZJ340,05:13,"Luton, Blackpool"
+Aberdeen,Newport,257,3.9,EBD371,10:21,
+Aberdeen,Coventry,377,2.5,EWL575,03:28,"Manchester, Bristol"
+Aberdeen,Stoke-on-Trent,493,2.1,LMJ912,14:27,"Slough, Colchester, Southampton, Plymouth, Rotherham"
+Aberdeen,Wolverhampton,475,0.6,JTQ173,17:47,"London, Cambridge, Middlesbrough, Newport, Dundee"
+Aberdeen,Derby,312,5.0,DBX404,19:17,"Blackpool, Newport, Bristol"
+Aberdeen,Norwich,473,3.7,LST714,07:16,"London, Stoke-on-Trent, Belfast, Chelmsford"
+Aberdeen,Blackpool,258,2.8,QLQ576,18:53,"Exeter, Oxford, Coventry, Glasgow, Inverness"
+Aberdeen,Middlesbrough,476,1.8,PQG420,09:06,Bournemouth
+Aberdeen,Bournemouth,472,2.5,SAD135,15:49,Manchester
+Aberdeen,Luton,68,4.1,WFF902,19:09,"Middlesbrough, Derry"
+Aberdeen,Reading,172,4.0,XOS865,08:37,"Belfast, Rotherham, Leicester, Middlesbrough"
+Aberdeen,Warrington,95,5.6,GBH305,18:40,"Bournemouth, Inverness"
+Aberdeen,Peterborough,174,3.5,BPI254,04:44,"Reading, Warrington, Birmingham"
+Aberdeen,Huddersfield,80,3.2,QWA657,17:50,"Norwich, Cambridge, Sheffield"
+Aberdeen,Slough,134,4.9,FGG828,19:05,"Chelmsford, Bournemouth, Glasgow, Stoke-on-Trent, Bedford"
+Aberdeen,Basildon,126,1.7,VRX692,21:08,"Colchester, Aberdeen, Bristol, Cambridge"
+Aberdeen,Chelmsford,198,2.9,TEW132,01:15,"Liverpool, Slough"
+Aberdeen,Colchester,254,3.8,GLN417,09:10,"Inverness, Wolverhampton, Huddersfield"
+Aberdeen,Derry,113,5.6,JAN737,09:58,
+Aberdeen,Woking,350,2.0,VAV341,08:59,"Nottingham, Brighton, Basildon, Sheffield"
+Aberdeen,Rotherham,349,3.3,KPD526,10:48,"Brighton, Rotherham, Slough"
+Aberdeen,Bedford,257,2.8,HCL620,03:42,Coventry
+Dundee,London,462,1.8,PGD222,10:17,London
+Dundee,Manchester,121,4.1,LUL734,22:15,"Bedford, Newcastle, Middlesbrough"
+Dundee,Birmingham,426,2.8,GEY672,21:24,"Bournemouth, Huddersfield, Brighton"
+Dundee,Liverpool,173,2.1,PPB646,11:52,"Norwich, Nottingham, Manchester"
+Dundee,Leeds,61,0.7,QOI542,16:22,"Portsmouth, Manchester, Woking, Newcastle"
+Dundee,Sheffield,402,2.5,QDP601,15:05,"Belfast, Southampton, Leeds, Liverpool"
+Dundee,Bristol,252,4.0,FHY415,09:50,Edinburgh
+Dundee,Glasgow,354,4.3,JSB756,12:03,"Woking, Derby"
+Dundee,Edinburgh,318,3.1,TRN875,21:09,"Nottingham, Derby, Manchester, Rotherham, London"
+Dundee,Cardiff,262,5.6,IFX702,15:14,Coventry
+Dundee,Belfast,212,1.5,DKS290,10:00,Warrington
+Dundee,Newcastle,327,4.5,FWN690,08:38,
+Dundee,Southampton,453,1.5,MKI589,05:18,"Bristol, Leicester, Reading"
+Dundee,Portsmouth,59,2.2,XKM137,13:43,"Derry, Bournemouth, Cambridge, Manchester"
+Dundee,Nottingham,479,3.8,TDQ745,16:29,"Bournemouth, Woking, Bristol, Derby, Reading"
+Dundee,Brighton,472,4.7,JLI727,16:49,"Bristol, Cardiff, London"
+Dundee,Leicester,133,1.8,ZDL909,17:21,"Sheffield, Woking, Inverness"
+Dundee,Oxford,226,2.4,OEE381,14:30,
+Dundee,Cambridge,118,1.9,TEA597,12:58,"Inverness, Belfast, London, Glasgow, Manchester"
+Dundee,York,201,1.2,CYE887,15:19,
+Dundee,Aberdeen,198,5.8,JRK423,14:11,Blackpool
+Dundee,Inverness,196,0.9,TLK732,07:44,
+Dundee,Exeter,438,4.4,BSA880,11:34,
+Dundee,Plymouth,315,5.9,WYT147,00:30,"Norwich, Cambridge, Aberdeen, Colchester"
+Dundee,Swansea,59,4.4,GBS886,19:37,"Bedford, Inverness, Plymouth, Wolverhampton"
+Dundee,Newport,242,5.6,SBT866,10:44,"Woking, Blackpool, Bedford, Bristol"
+Dundee,Coventry,232,1.3,BDG342,07:01,"Bournemouth, Exeter, Inverness, Portsmouth, Colchester"
+Dundee,Stoke-on-Trent,455,1.8,YPV744,22:14,Liverpool
+Dundee,Wolverhampton,72,1.4,MOH370,10:54,"Manchester, Birmingham"
+Dundee,Derby,270,5.2,TIK188,08:45,"Belfast, Chelmsford"
+Dundee,Norwich,175,5.0,TKH341,07:05,Sheffield
+Dundee,Blackpool,265,1.6,XVM969,09:14,"London, Derby, Luton"
+Dundee,Middlesbrough,449,1.8,RST818,10:50,Warrington
+Dundee,Bournemouth,56,1.2,FGT203,04:22,"Derby, Basildon, Edinburgh, Warrington, Rotherham"
+Dundee,Luton,285,3.3,PUU998,01:53,"Derry, Portsmouth"
+Dundee,Reading,401,5.4,AUM798,23:59,"Swansea, Nottingham, Chelmsford"
+Dundee,Warrington,419,3.8,UGM995,18:11,"Derby, Huddersfield, Leeds, Newcastle, Basildon"
+Dundee,Peterborough,249,3.3,WDK583,05:52,
+Dundee,Huddersfield,286,3.6,PJN175,07:53,"Coventry, Bedford"
+Dundee,Slough,371,2.4,GYA948,23:28,"Warrington, Cambridge"
+Dundee,Basildon,88,4.7,ZCK736,02:11,"Warrington, Basildon, York, London"
+Dundee,Chelmsford,441,3.0,AOH690,03:56,"Swansea, Coventry, Glasgow, Exeter, Bournemouth"
+Dundee,Colchester,75,5.7,JQC696,02:58,
+Dundee,Derry,469,4.7,ORB226,07:41,"Luton, Manchester, Blackpool, Derry"
+Dundee,Woking,427,1.9,SOU775,07:24,Nottingham
+Dundee,Rotherham,473,2.2,HOE453,18:53,
+Dundee,Bedford,272,5.7,FYN719,03:06,"Cardiff, Rotherham"
+Inverness,London,146,5.5,VHZ917,08:48,"Peterborough, Woking, Bedford"
+Inverness,Manchester,460,5.2,FUC644,13:28,"Birmingham, Manchester, Nottingham, Chelmsford, Belfast"
+Inverness,Birmingham,94,1.9,RKL485,16:53,
+Inverness,Liverpool,90,5.3,UMC591,20:57,"Nottingham, Liverpool, Blackpool, London, Edinburgh"
+Inverness,Leeds,309,5.9,SMR121,18:13,Blackpool
+Inverness,Sheffield,393,3.9,PIV130,19:19,Stoke-on-Trent
+Inverness,Bristol,158,4.2,GIA704,06:22,
+Inverness,Glasgow,310,4.3,YOH209,06:15,"Plymouth, Manchester"
+Inverness,Edinburgh,251,4.9,XDF779,07:12,
+Inverness,Cardiff,104,4.7,FCH898,07:57,Luton
+Inverness,Belfast,434,3.0,OSU751,20:43,Blackpool
+Inverness,Newcastle,231,2.3,TDR458,10:54,Exeter
+Inverness,Southampton,474,1.8,BZS188,00:13,"Aberdeen, Leicester, Middlesbrough, Reading, Newcastle"
+Inverness,Portsmouth,308,5.3,LEQ757,09:37,"Edinburgh, Newport"
+Inverness,Nottingham,381,2.9,TIL999,17:17,"London, Leeds, Reading, Nottingham"
+Inverness,Brighton,149,5.5,IFQ157,16:51,"Dundee, Leeds, Middlesbrough, Warrington"
+Inverness,Leicester,315,3.6,JUE167,05:36,"Cambridge, Bournemouth, Swansea, Manchester"
+Inverness,Oxford,91,2.1,FJX989,09:12,"Portsmouth, Inverness, Colchester, Peterborough, Swansea"
+Inverness,Cambridge,125,2.1,NRE296,12:48,
+Inverness,York,95,3.3,TCU475,17:12,"Swansea, Slough, Plymouth"
+Inverness,Aberdeen,180,2.6,IMK173,18:50,"Stoke-on-Trent, Woking, Middlesbrough, Luton, Newcastle"
+Inverness,Dundee,332,3.2,TOU710,23:57,"Reading, Edinburgh"
+Inverness,Exeter,58,5.0,BHT237,10:48,Basildon
+Inverness,Plymouth,283,4.6,HKZ884,16:30,"Inverness, Woking, Slough"
+Inverness,Swansea,343,4.1,ZUT850,23:52,Aberdeen
+Inverness,Newport,480,5.6,DJZ721,03:22,
+Inverness,Coventry,341,4.4,IKY245,14:00,
+Inverness,Stoke-on-Trent,489,3.3,MMC432,01:13,"Birmingham, Reading, Plymouth, Coventry"
+Inverness,Wolverhampton,99,1.1,RFH272,20:40,
+Inverness,Derby,276,2.9,MLA454,06:53,
+Inverness,Norwich,68,1.8,YGS672,12:30,Aberdeen
+Inverness,Blackpool,70,3.3,BCV453,22:10,
+Inverness,Middlesbrough,234,5.7,SGQ247,09:29,"Newcastle, Coventry"
+Inverness,Bournemouth,255,3.8,QXW727,01:41,"Luton, Brighton, Newport, Warrington"
+Inverness,Luton,323,3.6,QYM845,05:12,Wolverhampton
+Inverness,Reading,372,3.1,GJQ759,23:11,"Bedford, Brighton"
+Inverness,Warrington,224,2.1,YXJ762,18:21,"Peterborough, Bournemouth, York"
+Inverness,Peterborough,467,1.5,BUG382,10:16,"Belfast, York, Southampton, Middlesbrough"
+Inverness,Huddersfield,454,2.0,TEC847,10:38,Aberdeen
+Inverness,Slough,349,3.1,PXZ209,03:57,
+Inverness,Basildon,489,4.6,BCF572,14:27,
+Inverness,Chelmsford,269,1.3,SNL613,12:39,"Cardiff, Colchester, Oxford, Belfast, Dundee"
+Inverness,Colchester,326,2.2,GHK938,21:17,"Swansea, Peterborough, Blackpool"
+Inverness,Derry,430,1.9,OUB434,06:09,"Basildon, London"
+Inverness,Woking,366,5.0,QJO537,11:03,
+Inverness,Rotherham,500,1.1,CYS428,07:25,"Middlesbrough, Slough, Glasgow, Liverpool"
+Inverness,Bedford,245,2.4,RGX622,05:28,"Plymouth, Peterborough, Birmingham, Inverness"
+Exeter,London,151,2.5,LAX677,16:58,"Newport, Reading, Basildon, Wolverhampton, Stoke-on-Trent"
+Exeter,Manchester,198,3.1,SZC623,03:06,
+Exeter,Birmingham,480,1.3,WSH130,05:25,Aberdeen
+Exeter,Liverpool,407,5.8,TWI828,01:23,"Luton, Rotherham, Cambridge, Edinburgh, Huddersfield"
+Exeter,Leeds,470,4.9,REN612,18:18,Newcastle
+Exeter,Sheffield,171,1.7,RYE538,07:39,"Leeds, London"
+Exeter,Bristol,282,2.9,ZWQ882,01:12,"Brighton, Slough, Rotherham, Plymouth, Leeds"
+Exeter,Glasgow,104,3.6,EYD685,11:42,"Exeter, Newcastle"
+Exeter,Edinburgh,346,4.7,QJN819,07:45,Aberdeen
+Exeter,Cardiff,216,0.8,VNN506,21:20,"York, Oxford, Birmingham, Derry, Luton"
+Exeter,Belfast,318,4.6,GIV463,08:54,"Stoke-on-Trent, Exeter, Glasgow, Reading, Inverness"
+Exeter,Newcastle,338,5.6,PBM174,01:46,
+Exeter,Southampton,174,1.4,TPX543,14:12,"Blackpool, Wolverhampton, Derry, Glasgow"
+Exeter,Portsmouth,177,3.1,RZW859,09:26,Coventry
+Exeter,Nottingham,83,1.3,GZN995,21:40,"Aberdeen, Leicester, Luton, Woking, Colchester"
+Exeter,Brighton,252,4.0,YBM648,01:19,"Exeter, Slough"
+Exeter,Leicester,411,3.5,KFA165,09:53,"Coventry, Leicester, Derry, Norwich, Swansea"
+Exeter,Oxford,478,5.5,QGO499,23:11,Cardiff
+Exeter,Cambridge,215,4.8,MLL466,19:36,"Leeds, Leicester, Blackpool, Bristol"
+Exeter,York,279,0.6,UTD102,07:49,
+Exeter,Aberdeen,479,1.6,ZLL157,09:58,"Dundee, Woking"
+Exeter,Dundee,162,0.7,XVK336,01:49,"Derry, Glasgow, Newport, Blackpool"
+Exeter,Inverness,145,3.2,HRE102,18:08,
+Exeter,Plymouth,421,3.5,LBP359,22:05,"Derby, Newcastle"
+Exeter,Swansea,314,4.7,ESB589,17:13,"Exeter, Woking"
+Exeter,Newport,106,5.0,WZU286,21:47,"Brighton, Portsmouth, Southampton"
+Exeter,Coventry,413,1.4,CAA754,15:02,"Blackpool, Woking"
+Exeter,Stoke-on-Trent,427,4.4,FTR647,01:17,"Derby, Basildon, Norwich, Peterborough, Oxford"
+Exeter,Wolverhampton,345,4.4,GFE442,03:32,
+Exeter,Derby,284,1.8,CQQ866,01:01,"Derby, Birmingham, London"
+Exeter,Norwich,220,5.8,MHC388,18:24,"Portsmouth, Basildon, Swansea, Middlesbrough, Warrington"
+Exeter,Blackpool,305,2.2,IPM692,16:19,Norwich
+Exeter,Middlesbrough,320,3.9,XFC177,00:26,Cambridge
+Exeter,Bournemouth,86,5.7,YFZ801,06:26,"Colchester, Inverness, Birmingham"
+Exeter,Luton,285,2.6,OYC560,14:03,"Brighton, Belfast, Southampton, Chelmsford"
+Exeter,Reading,402,2.7,ARC983,13:01,Chelmsford
+Exeter,Warrington,213,2.7,MQH472,09:15,"Reading, Colchester"
+Exeter,Peterborough,316,1.6,HGO308,05:22,"Wolverhampton, Norwich, Exeter, Swansea"
+Exeter,Huddersfield,255,4.4,OXP679,11:21,"Manchester, Glasgow"
+Exeter,Slough,109,3.3,TAO261,17:16,"Sheffield, Bedford, Portsmouth, Oxford, Nottingham"
+Exeter,Basildon,416,1.1,BZJ417,07:33,"Newcastle, Cambridge, Brighton"
+Exeter,Chelmsford,233,5.2,VFS942,23:02,"Derby, Cambridge, Exeter, Coventry"
+Exeter,Colchester,174,6.0,OYV381,23:42,
+Exeter,Derry,422,5.6,TAH272,11:01,
+Exeter,Woking,70,2.3,VCM365,01:13,"Cardiff, Norwich, Portsmouth, Aberdeen, Stoke-on-Trent"
+Exeter,Rotherham,178,3.3,HYB103,00:14,Luton
+Exeter,Bedford,162,4.0,CBV156,11:30,
+Plymouth,London,100,1.6,ITX822,18:48,
+Plymouth,Manchester,79,4.7,OXK343,01:00,"Southampton, Edinburgh"
+Plymouth,Birmingham,272,1.5,GWS640,06:35,"Portsmouth, Cambridge"
+Plymouth,Liverpool,260,1.3,ZSG773,21:51,"Cambridge, Cardiff"
+Plymouth,Leeds,116,3.6,EAD959,23:47,"Brighton, Oxford, Sheffield, York"
+Plymouth,Sheffield,305,3.9,OFD581,15:02,
+Plymouth,Bristol,318,3.1,CCU481,22:09,"Liverpool, Newcastle, Exeter, Bedford, Rotherham"
+Plymouth,Glasgow,214,4.1,WDG221,07:03,"Cardiff, Portsmouth, Dundee, Oxford"
+Plymouth,Edinburgh,190,4.9,YYC693,20:02,
+Plymouth,Cardiff,133,4.4,SOV424,21:40,"Plymouth, Derby, Aberdeen"
+Plymouth,Belfast,311,2.5,SYD380,14:20,"Edinburgh, Norwich"
+Plymouth,Newcastle,445,5.8,CLN450,23:44,"Leicester, Edinburgh, York, Bournemouth"
+Plymouth,Southampton,467,4.5,OQC765,07:22,"Belfast, Norwich, Rotherham, Nottingham"
+Plymouth,Portsmouth,51,1.6,VVB511,14:31,"Exeter, Swansea, Liverpool, Bristol, Plymouth"
+Plymouth,Nottingham,488,2.8,NVV277,14:38,"Manchester, York, Swansea, London, Bournemouth"
+Plymouth,Brighton,479,3.2,FHH787,13:10,Edinburgh
+Plymouth,Leicester,407,3.2,EWU998,01:04,
+Plymouth,Oxford,247,5.7,NBE504,09:51,"Cambridge, Warrington, Exeter, Manchester, Sheffield"
+Plymouth,Cambridge,134,3.5,UXZ599,19:18,"Basildon, London, York, Manchester, Bedford"
+Plymouth,York,304,0.8,TOD372,19:51,"Slough, Leeds, Woking"
+Plymouth,Aberdeen,227,2.2,WUC499,11:17,Derry
+Plymouth,Dundee,277,2.6,AGX408,05:55,"Brighton, Newport, Nottingham"
+Plymouth,Inverness,225,4.2,TFO933,02:42,
+Plymouth,Exeter,295,3.3,APQ653,16:41,Middlesbrough
+Plymouth,Swansea,225,4.0,AWA630,09:00,"Cambridge, Chelmsford, Brighton, Exeter"
+Plymouth,Newport,295,2.2,SMD577,07:39,"Belfast, Plymouth, Liverpool, Derby, Portsmouth"
+Plymouth,Coventry,53,3.5,ZJV576,05:25,"Edinburgh, Belfast"
+Plymouth,Stoke-on-Trent,452,1.0,HFD482,02:13,"Chelmsford, Derry, Rotherham, York, Belfast"
+Plymouth,Wolverhampton,317,3.6,JCS374,17:32,
+Plymouth,Derby,284,3.3,FYF601,11:33,
+Plymouth,Norwich,391,4.7,BJA568,08:20,Leeds
+Plymouth,Blackpool,352,0.7,AYE641,04:57,"Newcastle, Chelmsford, Stoke-on-Trent, Cardiff"
+Plymouth,Middlesbrough,398,4.2,MNA872,03:23,
+Plymouth,Bournemouth,442,2.9,UJZ548,03:43,"Colchester, Swansea"
+Plymouth,Luton,485,3.8,PTN766,08:10,"Coventry, Bedford, Southampton, Colchester, Warrington"
+Plymouth,Reading,400,2.2,NPG778,03:30,"Middlesbrough, Stoke-on-Trent"
+Plymouth,Warrington,126,2.5,DKR769,23:38,"Middlesbrough, Aberdeen"
+Plymouth,Peterborough,240,0.9,ZXO403,20:12,"Blackpool, Newcastle, Leeds, Belfast, Newport"
+Plymouth,Huddersfield,76,1.9,IDF370,15:34,"Edinburgh, Manchester, Leeds"
+Plymouth,Slough,323,2.3,WAW678,07:37,
+Plymouth,Basildon,327,6.0,LNR533,02:51,"Southampton, Cardiff"
+Plymouth,Chelmsford,435,3.1,UYD872,23:57,Plymouth
+Plymouth,Colchester,252,5.6,HWX562,22:55,"York, Belfast"
+Plymouth,Derry,57,4.2,XET329,16:35,"Bristol, Chelmsford, Sheffield"
+Plymouth,Woking,253,0.9,NQM822,19:41,"Reading, Nottingham"
+Plymouth,Rotherham,492,1.0,QSE876,08:01,"Cardiff, Dundee"
+Plymouth,Bedford,244,2.3,TSS602,09:33,"Exeter, Derby"
+Swansea,London,83,1.3,YFY870,20:26,
+Swansea,Manchester,384,2.9,ORD918,22:00,"Coventry, Aberdeen"
+Swansea,Birmingham,228,4.9,MFY360,09:05,Basildon
+Swansea,Liverpool,467,1.8,CID767,02:38,"Aberdeen, Slough, Bedford"
+Swansea,Leeds,478,3.2,DXS485,02:10,
+Swansea,Sheffield,368,5.6,ESC561,23:59,Slough
+Swansea,Bristol,269,3.2,NBK921,17:06,
+Swansea,Glasgow,412,5.8,UVV154,15:08,
+Swansea,Edinburgh,316,5.1,WGT763,10:57,"Dundee, Reading"
+Swansea,Cardiff,297,3.6,PLF911,21:25,"Cardiff, Blackpool, Basildon"
+Swansea,Belfast,282,5.0,ZHV204,23:56,
+Swansea,Newcastle,315,4.6,DQH338,07:17,
+Swansea,Southampton,289,4.6,OGW685,16:34,
+Swansea,Portsmouth,172,1.0,YNJ525,00:07,London
+Swansea,Nottingham,212,1.5,ELJ710,19:17,"Reading, Rotherham"
+Swansea,Brighton,160,2.4,JNH531,23:57,"Reading, Bedford"
+Swansea,Leicester,459,3.8,IDP331,02:27,"Colchester, Aberdeen"
+Swansea,Oxford,80,5.0,HZL360,12:27,Southampton
+Swansea,Cambridge,258,5.0,GSV991,23:13,"Wolverhampton, Huddersfield, Birmingham"
+Swansea,York,266,3.8,TYB622,12:29,"Bristol, Coventry, Exeter, Stoke-on-Trent"
+Swansea,Aberdeen,394,4.6,TBH164,19:49,"Bristol, Cambridge, Stoke-on-Trent, York, Cardiff"
+Swansea,Dundee,280,5.9,TMP455,22:08,"Liverpool, Dundee, Derby, Middlesbrough, Luton"
+Swansea,Inverness,462,2.8,AED587,12:53,"Newcastle, Belfast"
+Swansea,Exeter,139,3.8,MTH828,02:37,"Bedford, Cambridge, Bournemouth, Cardiff"
+Swansea,Plymouth,408,2.4,JNU247,21:41,"Brighton, Huddersfield"
+Swansea,Newport,129,2.5,TYU646,00:54,
+Swansea,Coventry,169,1.5,KSR777,15:30,"Leicester, Belfast, York, Rotherham"
+Swansea,Stoke-on-Trent,478,5.0,MPL201,15:25,Edinburgh
+Swansea,Wolverhampton,402,3.5,OCI539,13:43,"Stoke-on-Trent, Nottingham, Derby"
+Swansea,Derby,435,2.9,TYJ213,03:34,Bedford
+Swansea,Norwich,165,0.9,UHO863,07:08,"Huddersfield, Portsmouth"
+Swansea,Blackpool,468,1.9,WSH776,15:03,
+Swansea,Middlesbrough,428,2.9,KHD144,22:32,Woking
+Swansea,Bournemouth,139,1.2,DZA761,04:10,
+Swansea,Luton,220,2.6,NSK735,03:49,"Nottingham, Inverness"
+Swansea,Reading,367,4.1,PNV249,02:11,"Brighton, Portsmouth, Wolverhampton, Aberdeen, Plymouth"
+Swansea,Warrington,199,3.1,DMW182,03:36,Glasgow
+Swansea,Peterborough,105,3.0,XSV701,13:18,"Warrington, Bournemouth"
+Swansea,Huddersfield,326,4.6,RTT609,02:11,"Inverness, Basildon, Slough, Aberdeen"
+Swansea,Slough,324,1.5,NCU978,06:52,"Belfast, Derry, Reading, Edinburgh"
+Swansea,Basildon,276,3.6,MSF966,01:52,
+Swansea,Chelmsford,101,0.5,WST149,18:58,"Bedford, Middlesbrough"
+Swansea,Colchester,275,2.5,NGG633,12:39,"Stoke-on-Trent, Bournemouth, Peterborough"
+Swansea,Derry,434,3.7,YIL253,09:51,"Colchester, London"
+Swansea,Woking,100,5.1,EYB121,00:50,"Inverness, Stoke-on-Trent, Edinburgh, Glasgow"
+Swansea,Rotherham,488,1.8,LDS736,14:11,Reading
+Swansea,Bedford,289,5.9,HVG873,11:46,"Portsmouth, Swansea"
+Newport,London,238,5.3,EVE655,05:08,
+Newport,Manchester,396,5.5,FPW651,18:17,"Blackpool, Bedford, Bournemouth, Portsmouth, Middlesbrough"
+Newport,Birmingham,378,4.9,QWH310,01:00,"Derry, Colchester, Plymouth, Stoke-on-Trent, Aberdeen"
+Newport,Liverpool,393,3.9,PWR735,19:32,
+Newport,Leeds,366,5.8,VSP741,08:16,London
+Newport,Sheffield,466,5.2,JXG415,11:17,
+Newport,Bristol,273,2.2,UGJ581,02:27,
+Newport,Glasgow,138,5.7,UWP411,06:39,"Reading, Swansea"
+Newport,Edinburgh,442,0.8,MIH901,12:26,"Cambridge, Woking"
+Newport,Cardiff,409,1.0,DBI111,00:54,"Woking, Inverness, Nottingham, Exeter, Reading"
+Newport,Belfast,168,1.5,XRZ889,05:47,"Woking, Basildon, Coventry, Swansea, Newcastle"
+Newport,Newcastle,300,3.4,ZIM121,04:12,"Norwich, Middlesbrough, Plymouth, Leicester"
+Newport,Southampton,276,5.9,KTO689,14:03,"Liverpool, Rotherham, Bedford"
+Newport,Portsmouth,336,4.5,BBA398,13:59,"Bristol, Slough, Southampton"
+Newport,Nottingham,109,5.8,XEN745,23:17,Oxford
+Newport,Brighton,68,3.9,ACD786,05:18,Bournemouth
+Newport,Leicester,318,4.1,HER932,09:40,Liverpool
+Newport,Oxford,392,2.4,ZAV456,19:44,"Belfast, Wolverhampton"
+Newport,Cambridge,180,4.0,LKF245,18:54,
+Newport,York,145,0.9,NGG826,13:44,"Cambridge, Woking"
+Newport,Aberdeen,251,2.6,VLP423,19:00,
+Newport,Dundee,358,4.9,BLN625,01:48,Birmingham
+Newport,Inverness,250,1.0,FOT211,16:13,"Cardiff, Colchester"
+Newport,Exeter,439,1.8,YFN727,14:05,
+Newport,Plymouth,282,3.0,JOL999,01:23,
+Newport,Swansea,212,4.6,ZEX703,19:23,
+Newport,Coventry,60,2.9,VSW177,07:24,Blackpool
+Newport,Stoke-on-Trent,419,4.7,SXP582,21:56,"Oxford, Norwich, Liverpool, Cardiff, Swansea"
+Newport,Wolverhampton,490,1.8,CYO579,23:11,"Middlesbrough, Swansea"
+Newport,Derby,303,2.6,SXL980,17:26,Belfast
+Newport,Norwich,208,2.6,VFI974,05:37,"Dundee, Woking, Rotherham"
+Newport,Blackpool,380,3.7,ZEX821,23:52,"Newcastle, Edinburgh, Southampton, Brighton, Portsmouth"
+Newport,Middlesbrough,484,1.0,OBZ973,10:31,"London, Sheffield, Luton, Liverpool"
+Newport,Bournemouth,253,2.5,ECH470,16:10,"Luton, Southampton, Huddersfield, Glasgow, Brighton"
+Newport,Luton,264,3.9,SEP523,23:38,"Aberdeen, Wolverhampton, Luton"
+Newport,Reading,364,5.0,QLC822,18:49,"Dundee, Swansea, Chelmsford, Cambridge"
+Newport,Warrington,287,4.5,HKZ433,12:46,"Edinburgh, Inverness, Bristol, Norwich"
+Newport,Peterborough,345,5.5,YNA925,22:54,"Newport, Basildon, Aberdeen, Middlesbrough, Plymouth"
+Newport,Huddersfield,232,4.7,VJR103,11:36,
+Newport,Slough,447,1.9,ZTE428,05:42,"Derry, Swansea, Huddersfield, Sheffield, Plymouth"
+Newport,Basildon,213,2.5,HPK401,15:35,Huddersfield
+Newport,Chelmsford,105,1.7,HCB700,14:05,
+Newport,Colchester,488,5.1,RRN633,04:57,"Blackpool, Slough"
+Newport,Derry,98,4.3,LGM641,08:48,"Cardiff, Blackpool"
+Newport,Woking,297,5.2,NKE664,03:47,
+Newport,Rotherham,394,5.6,LET965,03:58,"Blackpool, Portsmouth, Glasgow, Derry, Luton"
+Newport,Bedford,450,2.3,IDI599,06:24,Southampton
+Coventry,London,487,5.9,LQY281,20:46,Newport
+Coventry,Manchester,99,2.5,SWN151,16:21,
+Coventry,Birmingham,343,4.7,KSQ782,10:34,"Middlesbrough, Portsmouth"
+Coventry,Liverpool,350,5.1,KAM409,18:49,
+Coventry,Leeds,247,2.3,TRL581,05:31,
+Coventry,Sheffield,367,1.9,JRA864,02:33,"York, Basildon, Derby"
+Coventry,Bristol,286,3.4,WEV632,00:53,Warrington
+Coventry,Glasgow,362,5.6,MDI597,02:48,"Derby, Bedford, Newport, Bournemouth"
+Coventry,Edinburgh,417,0.7,IXD438,00:16,"Dundee, Nottingham, Exeter, Colchester"
+Coventry,Cardiff,467,5.8,VCG408,02:43,"Reading, Newcastle, Slough"
+Coventry,Belfast,211,1.3,HIL325,17:38,"Exeter, Warrington, Leeds"
+Coventry,Newcastle,390,2.6,OSE345,05:43,Wolverhampton
+Coventry,Southampton,265,1.8,NQD847,08:38,"Huddersfield, Glasgow, Nottingham, Bournemouth, Warrington"
+Coventry,Portsmouth,240,4.0,WGU790,01:37,"Woking, Newcastle, Stoke-on-Trent, Manchester, Birmingham"
+Coventry,Nottingham,364,1.9,EGG546,20:29,
+Coventry,Brighton,493,5.7,EED245,20:02,"Liverpool, Derby, Manchester, Brighton"
+Coventry,Leicester,257,3.4,MTF329,01:29,"Cardiff, Brighton, Blackpool, Chelmsford, Nottingham"
+Coventry,Oxford,351,6.0,RVT377,00:32,"Bristol, Cardiff"
+Coventry,Cambridge,349,6.0,OJS693,04:03,
+Coventry,York,411,5.5,HKQ266,01:39,"Birmingham, Reading"
+Coventry,Aberdeen,239,0.7,MSS693,05:35,"Norwich, Bristol"
+Coventry,Dundee,457,5.4,THG500,15:31,"Colchester, Stoke-on-Trent, Portsmouth, Bournemouth"
+Coventry,Inverness,367,5.7,CBG903,21:36,Southampton
+Coventry,Exeter,266,5.6,ZRU719,02:54,"Dundee, Plymouth, Inverness"
+Coventry,Plymouth,151,2.8,UWB436,19:41,"Newcastle, Reading, Basildon, Edinburgh"
+Coventry,Swansea,271,5.4,CLZ788,16:07,
+Coventry,Newport,414,1.7,WJG487,15:16,"Reading, Colchester"
+Coventry,Stoke-on-Trent,475,0.7,SAJ424,06:48,"Leicester, Middlesbrough"
+Coventry,Wolverhampton,338,3.5,KKR770,21:54,
+Coventry,Derby,247,1.6,EXX383,19:05,"Manchester, Middlesbrough"
+Coventry,Norwich,425,1.3,BYU808,01:34,
+Coventry,Blackpool,242,3.8,VTR680,07:41,
+Coventry,Middlesbrough,491,4.3,GFM175,23:27,"Southampton, Luton"
+Coventry,Bournemouth,202,4.2,MRQ287,05:19,Exeter
+Coventry,Luton,51,0.7,SEV310,16:14,Huddersfield
+Coventry,Reading,424,1.9,FRV715,16:18,"Huddersfield, Peterborough"
+Coventry,Warrington,177,5.9,LMQ251,18:14,Bristol
+Coventry,Peterborough,174,1.9,CWB312,06:43,"Manchester, Peterborough"
+Coventry,Huddersfield,181,4.3,WBQ229,15:38,"Basildon, Wolverhampton, Southampton, Huddersfield"
+Coventry,Slough,424,3.3,JWK844,05:15,"Brighton, Aberdeen, Luton, Peterborough"
+Coventry,Basildon,98,2.6,SHK807,19:58,
+Coventry,Chelmsford,296,0.5,GOF809,14:49,
+Coventry,Colchester,80,1.0,UDB686,17:22,"Portsmouth, Brighton, Liverpool, Nottingham, Cambridge"
+Coventry,Derry,341,3.1,NOZ875,18:00,"London, Brighton, Basildon"
+Coventry,Woking,170,5.1,CQB900,21:49,"Reading, Derry, Inverness, Newcastle"
+Coventry,Rotherham,68,5.6,ZKQ502,17:59,
+Coventry,Bedford,154,5.1,GOH988,04:05,"Warrington, Sheffield, Norwich"
+Stoke-on-Trent,London,316,4.8,EPD180,09:28,"Newport, Southampton, Rotherham, Plymouth"
+Stoke-on-Trent,Manchester,294,3.9,ZIG278,20:25,"Newport, Nottingham, Aberdeen, Woking"
+Stoke-on-Trent,Birmingham,85,5.1,RVK437,01:57,"Stoke-on-Trent, Cardiff"
+Stoke-on-Trent,Liverpool,154,4.3,JGD224,10:01,"London, Dundee, Portsmouth"
+Stoke-on-Trent,Leeds,388,4.0,UXF553,11:41,"Swansea, Derby, Coventry"
+Stoke-on-Trent,Sheffield,310,4.8,CXD978,20:34,
+Stoke-on-Trent,Bristol,104,1.5,RCO320,19:52,"York, Birmingham, Leeds, Colchester, Wolverhampton"
+Stoke-on-Trent,Glasgow,105,3.1,HVK978,08:53,"Inverness, Chelmsford"
+Stoke-on-Trent,Edinburgh,464,5.3,ZRG175,17:23,"Basildon, Leicester"
+Stoke-on-Trent,Cardiff,216,2.3,IPZ631,01:18,"Cambridge, Wolverhampton, York, Stoke-on-Trent, Slough"
+Stoke-on-Trent,Belfast,332,1.3,DGG395,10:10,"Wolverhampton, Derby"
+Stoke-on-Trent,Newcastle,490,1.9,PJM956,19:02,"Norwich, Rotherham, Coventry, Newcastle"
+Stoke-on-Trent,Southampton,187,3.1,RTS472,05:10,"York, Newport, Exeter"
+Stoke-on-Trent,Portsmouth,75,0.6,ZGE738,08:14,"Colchester, Southampton"
+Stoke-on-Trent,Nottingham,481,3.7,XNF820,10:20,"Coventry, Blackpool, Warrington, Manchester, London"
+Stoke-on-Trent,Brighton,307,4.1,UJM387,22:13,
+Stoke-on-Trent,Leicester,199,3.5,SPM312,18:53,
+Stoke-on-Trent,Oxford,346,1.5,BJX464,10:30,"Derry, Wolverhampton, Cardiff, Exeter"
+Stoke-on-Trent,Cambridge,465,2.2,OBE610,14:35,"Edinburgh, Bedford, Reading, Newport, Cardiff"
+Stoke-on-Trent,York,181,4.2,MDY381,01:40,"Dundee, Birmingham, Cambridge, Luton"
+Stoke-on-Trent,Aberdeen,414,1.2,UVN933,08:44,"Colchester, Wolverhampton, Oxford, Newport"
+Stoke-on-Trent,Dundee,408,2.3,WJP831,14:38,"Luton, Belfast"
+Stoke-on-Trent,Inverness,419,2.6,NOL662,03:32,"Manchester, Wolverhampton, Southampton, Bedford, Middlesbrough"
+Stoke-on-Trent,Exeter,113,3.4,XHE591,12:41,"Middlesbrough, Leeds, Sheffield"
+Stoke-on-Trent,Plymouth,144,1.8,VIP512,19:15,"London, Sheffield, Bedford, Luton, Coventry"
+Stoke-on-Trent,Swansea,207,5.6,IHG341,18:28,London
+Stoke-on-Trent,Newport,102,5.3,QLZ709,09:38,"Oxford, Cardiff, Birmingham, Peterborough"
+Stoke-on-Trent,Coventry,346,4.9,MWH512,08:25,Peterborough
+Stoke-on-Trent,Wolverhampton,121,5.9,VJF335,14:12,"Swansea, York, Bournemouth"
+Stoke-on-Trent,Derby,442,2.6,XLZ973,10:52,"Huddersfield, Middlesbrough"
+Stoke-on-Trent,Norwich,164,1.9,WYJ451,11:12,"Belfast, Bournemouth, Coventry, Nottingham"
+Stoke-on-Trent,Blackpool,113,4.0,QTP182,00:51,Swansea
+Stoke-on-Trent,Middlesbrough,139,2.4,ONK620,06:57,"Leicester, Cardiff, Reading, Birmingham"
+Stoke-on-Trent,Bournemouth,255,4.2,GAO689,18:16,
+Stoke-on-Trent,Luton,310,3.6,PFP195,11:36,Edinburgh
+Stoke-on-Trent,Reading,200,1.1,EFO255,03:41,
+Stoke-on-Trent,Warrington,110,1.0,NFV879,03:13,
+Stoke-on-Trent,Peterborough,321,0.9,YVU334,19:28,"Slough, Huddersfield"
+Stoke-on-Trent,Huddersfield,134,2.2,WNS747,02:47,"Southampton, Coventry, Oxford, Basildon, Birmingham"
+Stoke-on-Trent,Slough,60,2.5,RHJ500,04:37,"Glasgow, Aberdeen, Dundee"
+Stoke-on-Trent,Basildon,245,3.5,WHS454,17:54,"Chelmsford, Portsmouth"
+Stoke-on-Trent,Chelmsford,200,0.8,GPU231,03:48,"Newport, Basildon, Southampton"
+Stoke-on-Trent,Colchester,181,5.3,QAO153,02:23,"Huddersfield, Leeds, York, Exeter, Reading"
+Stoke-on-Trent,Derry,375,1.8,QYY845,09:42,"Glasgow, Swansea, Wolverhampton, Edinburgh"
+Stoke-on-Trent,Woking,105,2.2,OTT922,12:58,"Nottingham, Warrington, Plymouth, Slough"
+Stoke-on-Trent,Rotherham,440,3.0,ZXK551,05:23,Cardiff
+Stoke-on-Trent,Bedford,364,0.7,BCK724,23:53,
+Wolverhampton,London,480,0.8,JYB350,12:13,Coventry
+Wolverhampton,Manchester,469,2.5,XEQ649,03:17,
+Wolverhampton,Birmingham,464,0.7,UBW377,13:30,"Brighton, Glasgow, Stoke-on-Trent"
+Wolverhampton,Liverpool,347,3.0,FGG803,10:41,"Cardiff, Bournemouth"
+Wolverhampton,Leeds,108,5.2,WUN425,18:42,
+Wolverhampton,Sheffield,219,5.7,MFV735,21:40,"York, Oxford, Dundee, Manchester"
+Wolverhampton,Bristol,228,2.6,MDF525,12:24,Brighton
+Wolverhampton,Glasgow,391,2.8,MOE930,22:02,"Edinburgh, Wolverhampton, Peterborough, Newport, Birmingham"
+Wolverhampton,Edinburgh,343,0.8,AFH575,22:30,"Plymouth, Bedford, Woking, Coventry, Middlesbrough"
+Wolverhampton,Cardiff,57,5.6,ZVB346,13:38,"Luton, Bristol, Inverness"
+Wolverhampton,Belfast,470,3.3,AHS968,02:13,"York, Manchester"
+Wolverhampton,Newcastle,338,2.8,HTR934,01:03,"Oxford, Basildon"
+Wolverhampton,Southampton,55,6.0,ULO257,11:23,
+Wolverhampton,Portsmouth,388,1.7,IVB215,14:28,"Norwich, Wolverhampton, Swansea, Cambridge, Cardiff"
+Wolverhampton,Nottingham,426,3.9,HYL154,05:24,
+Wolverhampton,Brighton,204,1.0,WUY499,09:56,"Southampton, Plymouth, Brighton, Woking, Reading"
+Wolverhampton,Leicester,194,4.2,UHG992,14:57,"Bedford, Rotherham, Stoke-on-Trent"
+Wolverhampton,Oxford,109,3.1,MVP887,17:36,"Inverness, Bournemouth, Cardiff"
+Wolverhampton,Cambridge,181,5.5,UKN971,18:36,
+Wolverhampton,York,338,4.5,PRW716,23:41,"Bournemouth, Peterborough, Aberdeen, Birmingham, Inverness"
+Wolverhampton,Aberdeen,87,4.8,JVN927,03:10,"Woking, Liverpool"
+Wolverhampton,Dundee,474,4.3,XII194,11:46,Bedford
+Wolverhampton,Inverness,89,2.5,QHX631,06:46,"Peterborough, Manchester"
+Wolverhampton,Exeter,276,4.6,IIF261,01:27,
+Wolverhampton,Plymouth,410,1.0,KJB539,23:39,"Belfast, Sheffield, Aberdeen, Cardiff"
+Wolverhampton,Swansea,245,4.1,KPD264,17:55,"Peterborough, Oxford"
+Wolverhampton,Newport,173,1.5,BOW204,07:21,"Luton, Huddersfield, Brighton, Reading"
+Wolverhampton,Coventry,97,0.7,ARJ709,09:10,Brighton
+Wolverhampton,Stoke-on-Trent,443,4.7,VJJ209,06:30,"Basildon, Coventry, Manchester, Huddersfield, Exeter"
+Wolverhampton,Derby,325,2.5,NZK648,00:39,"London, Reading, Brighton, Leeds"
+Wolverhampton,Norwich,324,0.7,QHI192,06:36,Warrington
+Wolverhampton,Blackpool,220,1.6,UPQ474,00:39,"Inverness, Cambridge"
+Wolverhampton,Middlesbrough,78,5.0,MMH370,16:20,"Portsmouth, Bedford, Slough, Exeter, Glasgow"
+Wolverhampton,Bournemouth,479,1.5,FSM242,05:42,"Blackpool, Stoke-on-Trent, Exeter, Oxford, Norwich"
+Wolverhampton,Luton,108,3.8,YPA507,07:21,"Newport, Glasgow, Basildon, Colchester, Reading"
+Wolverhampton,Reading,267,0.6,ENG249,09:44,"Colchester, Oxford"
+Wolverhampton,Warrington,320,2.7,OZG702,02:28,
+Wolverhampton,Peterborough,246,1.5,PXS789,11:25,"Warrington, Southampton, Reading, Colchester, Liverpool"
+Wolverhampton,Huddersfield,80,4.7,EZX856,18:56,"Woking, Birmingham, Luton, Colchester, Oxford"
+Wolverhampton,Slough,424,4.1,TRW920,12:40,
+Wolverhampton,Basildon,127,4.4,NRD907,00:37,"Nottingham, Liverpool, Wolverhampton"
+Wolverhampton,Chelmsford,431,2.4,TQK576,09:06,"Reading, Coventry, Leicester, Slough"
+Wolverhampton,Colchester,240,3.5,MCU140,22:55,Portsmouth
+Wolverhampton,Derry,144,2.5,EJG843,04:05,Glasgow
+Wolverhampton,Woking,231,4.2,OVO606,01:22,Warrington
+Wolverhampton,Rotherham,257,0.7,ZGA571,00:13,"Rotherham, Plymouth, Inverness, Dundee"
+Wolverhampton,Bedford,288,4.5,YCG669,20:04,Coventry
+Derby,London,288,4.9,RBF795,08:13,"Norwich, Wolverhampton, Chelmsford, Sheffield"
+Derby,Manchester,237,3.9,WPY158,06:43,"Luton, Colchester, York"
+Derby,Birmingham,307,2.9,OEJ391,11:53,"Bedford, Cardiff, Derby, London, Slough"
+Derby,Liverpool,380,4.2,ARP917,06:34,"Plymouth, London, Newcastle, Brighton, Nottingham"
+Derby,Leeds,333,2.3,EGF239,21:24,"Brighton, Manchester, Leicester, Birmingham, Blackpool"
+Derby,Sheffield,190,3.4,OEC720,14:41,York
+Derby,Bristol,356,4.1,QEZ810,01:55,"Newcastle, Dundee, Reading, Leicester"
+Derby,Glasgow,368,2.1,RVQ625,18:05,"Portsmouth, Cambridge, Edinburgh, Inverness"
+Derby,Edinburgh,473,1.0,UUE194,02:20,"Colchester, Aberdeen, Huddersfield, Wolverhampton"
+Derby,Cardiff,54,1.9,HOL934,05:51,
+Derby,Belfast,316,3.9,AJT861,12:03,"Reading, Nottingham, York"
+Derby,Newcastle,391,0.7,GTC628,06:50,
+Derby,Southampton,126,4.0,ACA236,12:54,Slough
+Derby,Portsmouth,365,5.5,BBH472,13:00,"Colchester, Birmingham, Derby, Reading, Portsmouth"
+Derby,Nottingham,186,1.2,YPD201,17:10,
+Derby,Brighton,94,5.9,DDQ679,09:37,"Aberdeen, Oxford"
+Derby,Leicester,396,4.1,YUE451,01:25,"Derry, Newport"
+Derby,Oxford,189,1.1,IJD806,20:43,"Slough, Cambridge, Inverness, Bedford, Bournemouth"
+Derby,Cambridge,311,2.0,RYX446,05:55,"Leicester, Belfast, Cardiff, Huddersfield"
+Derby,York,458,0.7,RMF673,09:38,"Bristol, Wolverhampton, Newcastle, Glasgow, Swansea"
+Derby,Aberdeen,438,3.8,XYC683,14:07,"Coventry, Bournemouth, Woking, York"
+Derby,Dundee,264,0.7,BKU415,02:45,"Newport, Luton"
+Derby,Inverness,225,0.8,JHO445,13:16,
+Derby,Exeter,99,4.1,ECP687,13:52,"Glasgow, Aberdeen"
+Derby,Plymouth,97,4.0,DSX528,12:42,"Norwich, Blackpool, Inverness, Sheffield, Colchester"
+Derby,Swansea,126,5.6,FKW993,13:01,"York, Derby, Nottingham, Leeds, Woking"
+Derby,Newport,156,5.3,JIH962,04:01,"Coventry, Woking"
+Derby,Coventry,151,2.0,LNN792,14:57,"Birmingham, Belfast"
+Derby,Stoke-on-Trent,136,4.4,NSM141,23:43,Middlesbrough
+Derby,Wolverhampton,335,3.1,FTI762,09:35,"Norwich, Blackpool, Bedford, Inverness, Southampton"
+Derby,Norwich,490,2.9,GAI774,02:55,
+Derby,Blackpool,243,1.6,RTQ747,04:12,"York, Woking"
+Derby,Middlesbrough,248,5.8,ZCY402,03:46,"Derby, Chelmsford, Belfast"
+Derby,Bournemouth,403,3.0,FOG501,04:36,"Leeds, Glasgow, Edinburgh, Nottingham, Derby"
+Derby,Luton,256,0.7,KHH523,21:42,"Huddersfield, Plymouth, Exeter, Nottingham, Southampton"
+Derby,Reading,200,2.6,NZD116,23:56,
+Derby,Warrington,432,0.8,OJK814,17:06,Derry
+Derby,Peterborough,120,4.8,INF951,04:47,"Sheffield, Slough, Rotherham, Portsmouth"
+Derby,Huddersfield,259,0.9,SHI962,04:59,"Bedford, Colchester"
+Derby,Slough,400,1.1,LAD252,19:58,
+Derby,Basildon,401,1.6,IFZ896,19:41,"Luton, Peterborough, Chelmsford, Derry, Colchester"
+Derby,Chelmsford,104,0.7,SRX890,13:30,
+Derby,Colchester,243,5.0,SXZ460,18:58,
+Derby,Derry,271,1.1,TCK855,14:36,"Swansea, Nottingham, Slough, Cambridge, York"
+Derby,Woking,500,4.3,QJP942,02:02,
+Derby,Rotherham,425,6.0,OST851,17:50,"Wolverhampton, Portsmouth"
+Derby,Bedford,342,3.9,CJT222,12:51,"Leeds, Exeter, Colchester, Edinburgh"
+Norwich,London,479,5.0,AIG607,15:01,"Peterborough, Norwich, London, Oxford"
+Norwich,Manchester,402,4.3,DTK652,17:53,"Newport, Bedford, Middlesbrough, Southampton, Exeter"
+Norwich,Birmingham,321,5.4,REJ596,09:19,"Oxford, Plymouth"
+Norwich,Liverpool,499,4.9,IDO487,02:19,"Blackpool, Manchester, Birmingham"
+Norwich,Leeds,384,5.9,III891,02:36,Chelmsford
+Norwich,Sheffield,436,5.2,CQH993,22:49,Bedford
+Norwich,Bristol,55,2.6,ZVZ137,21:25,
+Norwich,Glasgow,369,5.5,TCR173,23:02,"Reading, Peterborough, Basildon"
+Norwich,Edinburgh,330,5.5,JNR437,23:15,Wolverhampton
+Norwich,Cardiff,68,2.2,IFC722,05:51,
+Norwich,Belfast,355,2.9,TOG864,14:00,"Southampton, Leicester"
+Norwich,Newcastle,261,4.6,TDX153,09:19,
+Norwich,Southampton,270,3.7,LMM908,15:00,"Woking, Nottingham, Cardiff"
+Norwich,Portsmouth,244,3.7,TXG702,10:29,
+Norwich,Nottingham,468,0.5,WPA650,08:51,Bournemouth
+Norwich,Brighton,312,4.9,JWS207,08:44,"Warrington, Liverpool, Aberdeen, Bedford"
+Norwich,Leicester,478,2.0,FQV381,17:32,
+Norwich,Oxford,232,3.6,XXN578,21:08,Newcastle
+Norwich,Cambridge,82,1.0,ALO406,22:00,Newport
+Norwich,York,68,4.3,KJK111,17:24,"Exeter, Bristol"
+Norwich,Aberdeen,373,2.1,VFF539,11:58,"Inverness, Plymouth, Newport, Stoke-on-Trent"
+Norwich,Dundee,288,4.8,XQK829,20:05,"Leeds, Oxford, Rotherham, Middlesbrough"
+Norwich,Inverness,93,1.6,DXD731,11:54,Exeter
+Norwich,Exeter,411,5.5,EAN198,19:27,"Huddersfield, Wolverhampton, Brighton, Peterborough"
+Norwich,Plymouth,185,0.6,WDM334,15:53,"Basildon, Leicester, Leeds, Derry"
+Norwich,Swansea,251,3.9,FKH121,01:37,Birmingham
+Norwich,Newport,189,2.6,TKZ909,03:13,"Rotherham, Leeds, Exeter"
+Norwich,Coventry,254,5.2,ODI463,21:04,"Derby, Colchester, Manchester, Newport, Swansea"
+Norwich,Stoke-on-Trent,347,2.6,HXX632,15:15,
+Norwich,Wolverhampton,76,3.5,UBT751,13:43,"Swansea, Belfast, Derby"
+Norwich,Derby,407,5.1,AKW777,14:19,
+Norwich,Blackpool,427,0.6,QEP830,23:42,"Rotherham, Cardiff, Portsmouth"
+Norwich,Middlesbrough,449,5.5,TPW410,14:01,"Belfast, Blackpool, Cambridge, Stoke-on-Trent"
+Norwich,Bournemouth,498,2.9,BRE468,01:59,"Birmingham, Belfast"
+Norwich,Luton,197,5.9,BNP144,20:27,
+Norwich,Reading,137,3.9,YCW152,13:12,"Peterborough, Aberdeen, Nottingham"
+Norwich,Warrington,446,5.8,MHF239,23:05,"Newport, Warrington, Leicester"
+Norwich,Peterborough,190,3.0,FDG858,00:56,"Newcastle, Liverpool"
+Norwich,Huddersfield,236,2.4,VNJ764,16:03,"Portsmouth, Birmingham"
+Norwich,Slough,245,3.9,EOZ864,07:07,Birmingham
+Norwich,Basildon,454,5.9,JMH891,18:25,
+Norwich,Chelmsford,480,5.1,VHX796,04:45,"Oxford, Nottingham, Derby"
+Norwich,Colchester,375,3.1,TWF681,01:08,"Cambridge, Norwich, Peterborough"
+Norwich,Derry,455,1.7,QWK839,17:00,"Norwich, Cambridge, Chelmsford, Middlesbrough, Newcastle"
+Norwich,Woking,152,2.3,CFJ285,17:44,"Nottingham, Sheffield, Stoke-on-Trent, Cambridge"
+Norwich,Rotherham,376,4.7,BOD151,21:31,Bournemouth
+Norwich,Bedford,222,1.2,NLO995,23:22,
+Blackpool,London,236,4.0,ABJ528,11:46,"Cambridge, Sheffield"
+Blackpool,Manchester,233,3.2,RET108,13:52,"Colchester, Portsmouth, Liverpool"
+Blackpool,Birmingham,217,6.0,VOL444,01:32,"Derby, Cardiff"
+Blackpool,Liverpool,500,5.6,FHR341,10:39,Cambridge
+Blackpool,Leeds,232,4.6,CJW551,12:31,"Coventry, Peterborough"
+Blackpool,Sheffield,346,0.8,TPX821,19:42,"Stoke-on-Trent, Blackpool, Bedford, Bristol"
+Blackpool,Bristol,331,5.9,PSV222,21:34,"Norwich, Leeds"
+Blackpool,Glasgow,346,4.4,SMD904,01:29,
+Blackpool,Edinburgh,414,4.0,XEU378,23:34,"Southampton, Coventry, Newcastle, Rotherham"
+Blackpool,Cardiff,412,4.5,ZLF351,09:40,"Slough, Dundee, Aberdeen, Derry, Exeter"
+Blackpool,Belfast,55,0.6,ZIG996,15:46,Oxford
+Blackpool,Newcastle,86,5.7,KYM305,16:32,"Cardiff, Colchester, Inverness, Peterborough, Bedford"
+Blackpool,Southampton,387,0.7,QSM259,23:08,"Belfast, York, Cardiff, Dundee, Bristol"
+Blackpool,Portsmouth,293,3.3,OCN999,22:40,"Aberdeen, Leicester, Derry, Leeds"
+Blackpool,Nottingham,454,4.6,YCX676,01:05,"Edinburgh, Manchester, Nottingham"
+Blackpool,Brighton,140,2.0,XJH466,05:26,"Woking, Stoke-on-Trent, Swansea, Southampton"
+Blackpool,Leicester,52,5.1,PQM209,05:17,"Belfast, Plymouth, London"
+Blackpool,Oxford,168,6.0,GMV830,18:56,
+Blackpool,Cambridge,286,4.3,OXG800,04:09,"Swansea, Coventry"
+Blackpool,York,371,5.2,DCO293,10:31,"Nottingham, Colchester, Woking, Exeter, Derby"
+Blackpool,Aberdeen,74,4.9,HMF352,22:31,
+Blackpool,Dundee,479,5.2,AQQ674,20:56,"Basildon, Rotherham, Warrington"
+Blackpool,Inverness,173,2.1,VSZ676,02:49,"Leeds, Manchester"
+Blackpool,Exeter,318,5.2,GUU379,17:56,"Liverpool, Bournemouth, Norwich"
+Blackpool,Plymouth,154,2.1,XPM465,07:29,"Nottingham, Newport, Aberdeen, Dundee"
+Blackpool,Swansea,363,1.4,VJD958,23:11,"Inverness, Rotherham"
+Blackpool,Newport,395,1.6,SWM701,01:37,"Plymouth, Birmingham"
+Blackpool,Coventry,432,3.4,WRK206,21:37,"Liverpool, Rotherham, Glasgow, Exeter"
+Blackpool,Stoke-on-Trent,61,0.5,EEU890,06:18,
+Blackpool,Wolverhampton,451,3.5,OPN904,04:09,"Southampton, Norwich, Aberdeen, Derby, Leeds"
+Blackpool,Derby,119,5.1,IWV513,02:46,"Liverpool, Basildon, Warrington, Leicester, Sheffield"
+Blackpool,Norwich,259,5.9,VEI319,22:28,"Newcastle, Nottingham, Chelmsford, Huddersfield, Oxford"
+Blackpool,Middlesbrough,128,3.2,KZL874,04:00,"Cardiff, Manchester, Edinburgh, Luton, Inverness"
+Blackpool,Bournemouth,114,2.1,BGD158,18:40,"Norwich, Chelmsford"
+Blackpool,Luton,369,3.7,HNH887,14:22,"Bristol, Dundee, London"
+Blackpool,Reading,205,3.2,SWX853,05:53,Coventry
+Blackpool,Warrington,81,1.7,UDG380,15:20,Aberdeen
+Blackpool,Peterborough,365,5.9,JLD295,19:41,Peterborough
+Blackpool,Huddersfield,117,4.1,BTL419,11:31,"Norwich, Reading, Derby, Aberdeen"
+Blackpool,Slough,90,1.8,QQT462,02:33,"Slough, Aberdeen"
+Blackpool,Basildon,117,3.2,AVZ252,08:24,Exeter
+Blackpool,Chelmsford,172,2.5,VIL563,08:08,"Dundee, Reading, Stoke-on-Trent, Basildon, Middlesbrough"
+Blackpool,Colchester,124,5.8,QAO811,22:15,"Portsmouth, Aberdeen, Brighton"
+Blackpool,Derry,92,4.7,EOR722,16:24,Colchester
+Blackpool,Woking,386,3.8,DGF627,05:13,"Stoke-on-Trent, Basildon, Rotherham, Manchester"
+Blackpool,Rotherham,70,1.9,WSG496,02:17,"Aberdeen, Oxford"
+Blackpool,Bedford,153,5.8,NAH585,13:42,"Portsmouth, Bournemouth, Huddersfield, Slough, Birmingham"
+Middlesbrough,London,413,5.5,BJR356,09:51,"Slough, Leicester, Cambridge, Chelmsford"
+Middlesbrough,Manchester,68,1.7,FTL848,23:21,"Bedford, Woking, Newport, Leeds"
+Middlesbrough,Birmingham,467,3.9,WHY941,12:00,
+Middlesbrough,Liverpool,64,2.5,SYL301,07:34,"Derby, Cardiff, Aberdeen"
+Middlesbrough,Leeds,333,4.8,TJQ517,01:45,"Liverpool, Leicester, Birmingham"
+Middlesbrough,Sheffield,73,4.7,RIK408,12:19,"Southampton, Glasgow, Rotherham, Manchester"
+Middlesbrough,Bristol,312,5.3,JKB106,07:43,"Newport, Glasgow, Portsmouth"
+Middlesbrough,Glasgow,467,0.7,NTI966,20:55,Wolverhampton
+Middlesbrough,Edinburgh,468,3.0,TCQ419,18:18,"Edinburgh, Oxford, Bedford, Cardiff, Derry"
+Middlesbrough,Cardiff,454,4.9,PTS968,07:59,Oxford
+Middlesbrough,Belfast,337,2.1,XYX828,21:47,"Huddersfield, Cambridge, Rotherham, Brighton"
+Middlesbrough,Newcastle,316,5.7,RFJ980,00:49,"Leeds, Cambridge, Stoke-on-Trent, Plymouth"
+Middlesbrough,Southampton,165,2.5,OSB346,03:25,
+Middlesbrough,Portsmouth,195,1.8,WRB513,01:15,
+Middlesbrough,Nottingham,299,5.3,PAL607,20:41,"Newport, Bournemouth, Dundee, Inverness, Coventry"
+Middlesbrough,Brighton,88,2.5,HXD338,16:49,
+Middlesbrough,Leicester,416,5.4,SIR112,02:45,"Exeter, Basildon, Manchester, Newcastle, Swansea"
+Middlesbrough,Oxford,496,5.6,URF665,21:35,"Cambridge, Rotherham, Newcastle, Luton"
+Middlesbrough,Cambridge,233,3.0,APK693,20:17,"Belfast, Liverpool, Derry, Portsmouth"
+Middlesbrough,York,73,1.5,SMY654,03:35,"Reading, Southampton, Oxford, Newcastle"
+Middlesbrough,Aberdeen,154,1.8,OLG138,16:04,
+Middlesbrough,Dundee,449,2.5,BHS316,02:31,"Edinburgh, Newport, Inverness"
+Middlesbrough,Inverness,260,1.7,DCX277,23:36,"Coventry, Southampton, Nottingham, Bedford"
+Middlesbrough,Exeter,410,1.2,ZJG103,16:10,
+Middlesbrough,Plymouth,452,4.2,MBP662,09:22,"Derry, Leeds, Swansea, Chelmsford"
+Middlesbrough,Swansea,428,2.1,DKN707,09:49,"Swansea, Bedford"
+Middlesbrough,Newport,289,0.8,HTU142,02:50,"Aberdeen, Cambridge, Nottingham, Woking, Stoke-on-Trent"
+Middlesbrough,Coventry,479,2.8,BIG685,08:51,"Derry, Swansea, London, Belfast, Peterborough"
+Middlesbrough,Stoke-on-Trent,482,5.1,WEC798,21:56,
+Middlesbrough,Wolverhampton,175,3.3,WWK906,23:57,"Bedford, Brighton, Leicester, Wolverhampton"
+Middlesbrough,Derby,128,4.9,AAV397,00:01,Exeter
+Middlesbrough,Norwich,421,3.9,TIX264,15:16,"Cambridge, Huddersfield, Cardiff, Peterborough, Belfast"
+Middlesbrough,Blackpool,161,3.2,SHO159,13:20,Plymouth
+Middlesbrough,Bournemouth,112,3.7,ROC931,23:45,Belfast
+Middlesbrough,Luton,121,4.9,GVN253,17:53,"Chelmsford, Norwich, Stoke-on-Trent, Newport"
+Middlesbrough,Reading,101,1.8,CWY590,20:22,"Edinburgh, Stoke-on-Trent"
+Middlesbrough,Warrington,416,3.1,BBS777,06:18,"Cambridge, Reading, York, Middlesbrough"
+Middlesbrough,Peterborough,245,1.2,DXU873,06:11,"Newport, Oxford, Swansea, Rotherham"
+Middlesbrough,Huddersfield,328,5.4,TRR371,14:00,"Inverness, Peterborough, Swansea"
+Middlesbrough,Slough,421,0.7,BSG145,03:03,
+Middlesbrough,Basildon,321,5.6,DLV242,10:14,"Coventry, Cardiff, Luton, Bedford, London"
+Middlesbrough,Chelmsford,56,0.9,IEH908,08:24,Aberdeen
+Middlesbrough,Colchester,406,0.6,ULO195,10:38,"Wolverhampton, Portsmouth, Belfast, Rotherham"
+Middlesbrough,Derry,422,4.3,YBP378,11:31,
+Middlesbrough,Woking,129,5.1,DOI811,12:14,"Edinburgh, Liverpool, Stoke-on-Trent, Luton, Inverness"
+Middlesbrough,Rotherham,316,1.9,AIA623,10:51,Reading
+Middlesbrough,Bedford,162,5.4,PWI541,22:37,"Stoke-on-Trent, Leeds"
+Bournemouth,London,497,4.3,HUX627,08:06,"Portsmouth, Woking, Luton, Newcastle, Norwich"
+Bournemouth,Manchester,455,2.7,IMW534,15:34,
+Bournemouth,Birmingham,386,3.7,JVW567,21:56,"Portsmouth, Southampton, Rotherham, Derry, Sheffield"
+Bournemouth,Liverpool,210,4.3,PKZ616,04:50,
+Bournemouth,Leeds,283,5.6,NQD430,09:44,
+Bournemouth,Sheffield,267,5.0,NNM336,23:23,Sheffield
+Bournemouth,Bristol,378,2.4,KEP722,06:33,"Middlesbrough, York"
+Bournemouth,Glasgow,240,2.9,ABC664,14:24,"Liverpool, Rotherham"
+Bournemouth,Edinburgh,415,4.8,KQT201,14:15,"London, Colchester, Huddersfield, Peterborough"
+Bournemouth,Cardiff,391,1.6,PMD519,22:03,"Leicester, Wolverhampton, Woking, Peterborough, Nottingham"
+Bournemouth,Belfast,269,3.2,XXG706,19:44,
+Bournemouth,Newcastle,247,3.2,XUZ272,17:43,"Dundee, Leicester, Edinburgh, York"
+Bournemouth,Southampton,165,3.3,COS834,08:03,"Cambridge, Inverness, Birmingham"
+Bournemouth,Portsmouth,254,4.7,IMD222,17:05,
+Bournemouth,Nottingham,455,4.5,ASN423,17:18,
+Bournemouth,Brighton,67,3.1,MCJ477,12:36,"Colchester, Sheffield, Derby, Edinburgh"
+Bournemouth,Leicester,193,1.0,KRR308,00:44,"Rotherham, Derry, Inverness, Woking"
+Bournemouth,Oxford,191,1.4,PHE382,14:11,London
+Bournemouth,Cambridge,468,0.6,NDY283,11:15,"Coventry, York"
+Bournemouth,York,378,5.0,GKW485,20:59,"Plymouth, Cardiff"
+Bournemouth,Aberdeen,61,5.5,ODI335,04:46,"Manchester, Birmingham, Plymouth, Chelmsford, Exeter"
+Bournemouth,Dundee,398,0.8,YVY275,15:08,"Coventry, Chelmsford, Manchester"
+Bournemouth,Inverness,467,0.9,XBM794,21:11,Newcastle
+Bournemouth,Exeter,329,0.7,AZG860,12:10,
+Bournemouth,Plymouth,433,2.7,LCR847,14:26,"Newcastle, Portsmouth, Inverness"
+Bournemouth,Swansea,302,1.7,THL177,16:51,"Coventry, Aberdeen, York, Inverness"
+Bournemouth,Newport,146,1.1,TBX876,15:20,
+Bournemouth,Coventry,78,5.4,KDV466,08:55,"Cardiff, Manchester"
+Bournemouth,Stoke-on-Trent,349,1.5,TRA295,01:51,"Warrington, Liverpool"
+Bournemouth,Wolverhampton,69,1.0,QOO555,14:14,"Wolverhampton, Bristol, London, York, Liverpool"
+Bournemouth,Derby,54,3.0,RUS133,01:42,"Woking, Southampton, York"
+Bournemouth,Norwich,347,5.7,KEB345,21:43,"London, Plymouth"
+Bournemouth,Blackpool,355,2.1,XJS711,16:14,Belfast
+Bournemouth,Middlesbrough,232,3.2,MZL505,02:04,"Derby, Belfast, York, Cambridge"
+Bournemouth,Luton,308,2.8,UBA304,22:23,Nottingham
+Bournemouth,Reading,58,4.8,QHU723,04:46,"Middlesbrough, Sheffield, Glasgow, Chelmsford, Huddersfield"
+Bournemouth,Warrington,473,4.3,XHM284,20:11,Peterborough
+Bournemouth,Peterborough,304,4.7,DOL977,09:34,"Middlesbrough, York, Bournemouth, Warrington"
+Bournemouth,Huddersfield,192,5.2,OZG852,17:51,Belfast
+Bournemouth,Slough,466,1.9,PBQ719,02:40,"Colchester, Slough, Edinburgh"
+Bournemouth,Basildon,231,1.4,VNL684,10:32,"York, Middlesbrough, Colchester"
+Bournemouth,Chelmsford,143,1.2,SFI870,08:47,"Reading, Portsmouth, Warrington"
+Bournemouth,Colchester,170,5.6,ASF959,13:00,"London, Huddersfield, Rotherham"
+Bournemouth,Derry,489,4.8,NPH530,06:05,"Slough, Huddersfield"
+Bournemouth,Woking,197,5.4,GPV670,02:18,"Southampton, Chelmsford, London"
+Bournemouth,Rotherham,493,1.8,FOJ833,20:52,"Bournemouth, Woking, Dundee"
+Bournemouth,Bedford,466,2.1,OVT225,15:01,"Nottingham, Dundee, Slough, Newcastle, Plymouth"
+Luton,London,186,1.2,JQR396,03:51,"Norwich, Rotherham, Stoke-on-Trent, Newport, Newcastle"
+Luton,Manchester,332,3.9,UHV493,18:23,"Wolverhampton, Exeter, Chelmsford, Plymouth"
+Luton,Birmingham,462,4.5,YOQ729,01:07,"Dundee, Woking, Bournemouth, York, Cambridge"
+Luton,Liverpool,104,1.4,LZO845,19:21,Peterborough
+Luton,Leeds,485,5.0,WZS640,16:53,
+Luton,Sheffield,335,4.5,FON474,22:54,"Blackpool, Plymouth, Slough, Birmingham, Woking"
+Luton,Bristol,377,4.6,KTS922,20:33,Woking
+Luton,Glasgow,111,5.8,BMB903,11:03,"Cardiff, Blackpool, Newport, Coventry"
+Luton,Edinburgh,441,4.1,LHE557,18:29,
+Luton,Cardiff,102,2.1,PAG234,10:42,
+Luton,Belfast,105,1.7,HDU460,17:44,Oxford
+Luton,Newcastle,138,2.3,OVT769,07:33,"Newport, Norwich"
+Luton,Southampton,110,5.3,VZI850,19:28,"London, Slough, Chelmsford, Luton"
+Luton,Portsmouth,166,5.1,LHP895,03:18,"Leeds, Newcastle, Warrington, Manchester"
+Luton,Nottingham,242,1.6,NNU502,04:49,Bristol
+Luton,Brighton,86,1.4,ZDC949,15:16,"Slough, Huddersfield, Blackpool"
+Luton,Leicester,173,4.3,JCL708,20:55,Norwich
+Luton,Oxford,177,5.5,VIA252,02:15,Manchester
+Luton,Cambridge,57,2.9,PYH114,06:22,"Colchester, Middlesbrough, Bournemouth"
+Luton,York,185,2.4,GXL236,23:21,"Manchester, Dundee, Luton"
+Luton,Aberdeen,475,3.4,GMS326,05:42,"York, Slough"
+Luton,Dundee,120,5.9,RHP729,09:35,
+Luton,Inverness,325,0.7,HII496,04:25,
+Luton,Exeter,338,5.7,YWC574,15:28,"Derry, Woking, Bournemouth, Dundee, Aberdeen"
+Luton,Plymouth,272,3.9,DQT183,17:38,"Southampton, Derby"
+Luton,Swansea,224,3.2,DLZ374,10:54,"Chelmsford, Liverpool, Edinburgh, Nottingham"
+Luton,Newport,434,0.7,AKV355,18:49,
+Luton,Coventry,257,0.8,OMJ449,01:56,"Sheffield, Derby, Leeds, Cambridge, Dundee"
+Luton,Stoke-on-Trent,149,2.6,BFT683,12:35,Cambridge
+Luton,Wolverhampton,443,2.0,WYZ591,01:32,
+Luton,Derby,165,2.2,WDD141,15:49,"Cardiff, York, Manchester, Luton, London"
+Luton,Norwich,128,2.4,KTE737,12:11,Colchester
+Luton,Blackpool,418,3.2,GHF183,02:35,Manchester
+Luton,Middlesbrough,68,2.2,LPC468,14:47,"Portsmouth, Leicester, Manchester"
+Luton,Bournemouth,416,5.1,QQD405,22:06,"Birmingham, Blackpool"
+Luton,Reading,216,0.8,QRK721,08:46,Newcastle
+Luton,Warrington,224,5.7,OGR584,08:05,"Sheffield, Edinburgh, Newcastle, Brighton"
+Luton,Peterborough,160,1.4,QTG860,21:56,
+Luton,Huddersfield,469,5.1,KOS565,03:03,Warrington
+Luton,Slough,327,5.6,FPR343,09:44,
+Luton,Basildon,463,0.6,QDM856,01:44,"London, Bournemouth, Birmingham, Blackpool, Luton"
+Luton,Chelmsford,280,4.8,ZAD900,08:26,"Wolverhampton, Huddersfield, Woking, Peterborough"
+Luton,Colchester,178,2.3,SUA585,01:28,"Woking, Rotherham, Middlesbrough, Newcastle, Aberdeen"
+Luton,Derry,84,5.7,AGP728,19:34,
+Luton,Woking,400,4.8,AOQ717,13:02,"Derby, Basildon, Liverpool"
+Luton,Rotherham,269,1.3,CEB820,01:58,"Sheffield, Cambridge"
+Luton,Bedford,457,1.6,EXY782,12:32,"Plymouth, Leeds, Luton"
+Reading,London,205,0.9,SVB421,03:14,"Warrington, Derry, Southampton, Manchester, Nottingham"
+Reading,Manchester,119,5.0,KJE665,15:35,"Bedford, Leicester, Birmingham, Brighton, Huddersfield"
+Reading,Birmingham,102,4.8,NST738,01:59,
+Reading,Liverpool,54,4.5,ICZ636,18:07,"Derby, Portsmouth"
+Reading,Leeds,442,3.0,MEU736,22:06,"Woking, Bournemouth, Exeter, Dundee, Coventry"
+Reading,Sheffield,129,2.9,RHS247,09:55,"Leicester, Colchester, Southampton"
+Reading,Bristol,420,5.1,NAM479,10:04,"Peterborough, Leicester, Cambridge, Sheffield"
+Reading,Glasgow,322,3.6,BPX753,04:26,"Basildon, Norwich, Glasgow, Middlesbrough, Warrington"
+Reading,Edinburgh,194,4.6,KDU107,02:31,"Wolverhampton, Warrington, Bedford"
+Reading,Cardiff,396,4.4,CSL370,00:45,Reading
+Reading,Belfast,323,0.6,YIA930,06:55,
+Reading,Newcastle,454,1.1,GNS346,09:03,"Leeds, Plymouth, Cambridge, Woking"
+Reading,Southampton,88,2.4,REC272,04:39,"Plymouth, Leeds, Swansea, Colchester, Brighton"
+Reading,Portsmouth,196,5.3,KTI278,01:11,"Luton, Derry, Bedford, Edinburgh, Swansea"
+Reading,Nottingham,394,5.4,HHM185,02:08,"Chelmsford, Colchester, Bedford, Stoke-on-Trent, Southampton"
+Reading,Brighton,220,4.1,ISQ210,11:10,"Liverpool, Inverness, Bournemouth"
+Reading,Leicester,193,5.3,GZV765,02:28,"Portsmouth, Oxford, Dundee, Stoke-on-Trent"
+Reading,Oxford,362,4.7,VOP243,03:52,"Sheffield, Peterborough"
+Reading,Cambridge,410,4.6,VOD370,11:33,"Derry, Dundee, Oxford, Huddersfield"
+Reading,York,385,1.2,KHZ634,02:40,
+Reading,Aberdeen,308,2.3,ADF462,04:22,Nottingham
+Reading,Dundee,358,1.1,XND124,12:38,"Liverpool, Newport, Rotherham, Oxford, Warrington"
+Reading,Inverness,437,5.4,RRV563,00:48,Brighton
+Reading,Exeter,492,2.1,TAG800,17:31,
+Reading,Plymouth,251,2.9,PHU958,06:03,
+Reading,Swansea,342,2.3,DKY421,05:27,
+Reading,Newport,346,4.3,UHA926,18:16,"Chelmsford, Leeds, Nottingham, Brighton, Belfast"
+Reading,Coventry,452,1.9,YFP302,14:15,"Oxford, Cardiff, Coventry, Edinburgh"
+Reading,Stoke-on-Trent,352,5.5,JBA810,22:29,"Dundee, Belfast, Wolverhampton, Slough, Edinburgh"
+Reading,Wolverhampton,172,5.3,OHJ982,12:51,"Coventry, Stoke-on-Trent, Cambridge, Rotherham, Middlesbrough"
+Reading,Derby,313,4.7,QPW201,23:01,"Reading, Stoke-on-Trent"
+Reading,Norwich,256,5.7,FUI283,02:31,
+Reading,Blackpool,423,4.3,UBH385,11:36,Edinburgh
+Reading,Middlesbrough,372,4.3,IOA243,17:17,"Nottingham, Sheffield, Wolverhampton, Basildon, Aberdeen"
+Reading,Bournemouth,320,2.4,KCZ447,05:42,
+Reading,Luton,383,2.1,YWI433,10:37,
+Reading,Warrington,303,5.5,VZD377,11:18,"Bournemouth, Leeds"
+Reading,Peterborough,410,2.3,UNO942,22:18,"Sheffield, Derry, Basildon, Colchester, Chelmsford"
+Reading,Huddersfield,299,1.0,NJZ582,17:11,"Slough, Southampton"
+Reading,Slough,153,1.9,KVF120,06:21,"Wolverhampton, Bournemouth, Cardiff"
+Reading,Basildon,486,4.9,AMW199,15:45,Liverpool
+Reading,Chelmsford,279,1.9,ETI641,04:01,"London, Woking, Reading, Portsmouth"
+Reading,Colchester,88,3.7,LCS285,02:12,"Glasgow, Derry, Southampton, Woking, Bournemouth"
+Reading,Derry,284,0.6,OWE560,14:24,
+Reading,Woking,213,1.9,BLM550,19:48,"Leicester, Nottingham, Basildon, Slough, Norwich"
+Reading,Rotherham,342,4.8,LOQ146,01:35,"Slough, Exeter"
+Reading,Bedford,56,2.2,JQR490,08:40,Nottingham
+Warrington,London,68,1.9,ZRT377,17:31,"Rotherham, Newport, Middlesbrough, Swansea, Cambridge"
+Warrington,Manchester,427,1.9,RUB962,07:48,Wolverhampton
+Warrington,Birmingham,165,1.0,TNZ760,22:16,"Inverness, Rotherham, Manchester, Leicester"
+Warrington,Liverpool,326,2.1,QUQ220,01:23,"Newport, Nottingham"
+Warrington,Leeds,57,5.3,ZJA976,17:52,"Cardiff, Nottingham, Bedford, Swansea, Portsmouth"
+Warrington,Sheffield,91,5.6,UPP271,17:55,"Newport, Birmingham"
+Warrington,Bristol,468,4.4,OMY272,12:30,"Blackpool, Brighton, Derry, Dundee"
+Warrington,Glasgow,372,3.6,ALC664,23:11,
+Warrington,Edinburgh,464,2.1,JGN414,01:27,Bristol
+Warrington,Cardiff,478,1.6,AEI357,11:16,"Leicester, Swansea, Manchester, Huddersfield"
+Warrington,Belfast,260,5.7,TRW485,22:23,"Norwich, Nottingham"
+Warrington,Newcastle,114,3.7,ADK170,20:20,"Plymouth, Derry"
+Warrington,Southampton,72,5.2,JZJ344,11:18,
+Warrington,Portsmouth,349,2.1,PEF833,23:30,
+Warrington,Nottingham,461,1.3,ANL945,02:10,"Derby, Brighton, York"
+Warrington,Brighton,237,1.4,DEV227,13:57,"Sheffield, Newcastle, Middlesbrough, Portsmouth"
+Warrington,Leicester,252,4.0,KZA547,18:45,"Portsmouth, Plymouth, Bournemouth, Cambridge, Warrington"
+Warrington,Oxford,441,2.5,BBB315,17:20,"Southampton, Stoke-on-Trent, Warrington"
+Warrington,Cambridge,433,5.2,SRM139,03:02,"Liverpool, Norwich"
+Warrington,York,111,2.2,COX255,02:06,Exeter
+Warrington,Aberdeen,62,2.6,BBT626,13:57,"Bedford, Liverpool, Leicester, Colchester, Glasgow"
+Warrington,Dundee,441,2.9,SUS999,01:51,"Sheffield, Exeter, Aberdeen, Glasgow"
+Warrington,Inverness,243,0.9,QKI476,07:24,"Reading, Slough, Nottingham"
+Warrington,Exeter,404,5.7,XZB412,22:06,"Bristol, York"
+Warrington,Plymouth,69,5.6,RHV455,22:00,"Birmingham, London"
+Warrington,Swansea,152,3.8,EBU125,11:27,"Belfast, Cambridge, Chelmsford, Derry, Rotherham"
+Warrington,Newport,288,1.0,QUA770,15:54,Birmingham
+Warrington,Coventry,446,1.3,DJE848,02:47,
+Warrington,Stoke-on-Trent,414,1.6,RYD588,22:01,Glasgow
+Warrington,Wolverhampton,118,3.5,OBY321,17:31,"Edinburgh, Glasgow, Newcastle"
+Warrington,Derby,432,2.9,TRX929,13:51,
+Warrington,Norwich,326,5.8,CWG290,11:36,"Slough, Peterborough, Cambridge"
+Warrington,Blackpool,388,3.1,BQX478,21:30,"Reading, Stoke-on-Trent"
+Warrington,Middlesbrough,195,2.4,FIQ322,10:18,"Exeter, Bournemouth, Coventry"
+Warrington,Bournemouth,255,5.4,QXC811,22:11,
+Warrington,Luton,372,2.2,HNE306,19:02,Dundee
+Warrington,Reading,386,1.9,ZPV523,04:30,"Portsmouth, Bristol"
+Warrington,Peterborough,130,5.8,OVC828,09:25,"Luton, Peterborough"
+Warrington,Huddersfield,203,5.5,SKY537,11:55,"Warrington, Leicester"
+Warrington,Slough,289,5.4,FUU670,06:26,"Plymouth, Brighton, Colchester, Chelmsford"
+Warrington,Basildon,301,5.0,NYA998,11:44,"Bristol, Brighton, Blackpool, Bournemouth"
+Warrington,Chelmsford,102,4.7,JDZ528,14:29,
+Warrington,Colchester,252,1.8,PHC139,17:48,
+Warrington,Derry,315,2.6,CFP348,00:49,"Newcastle, Cardiff, Manchester"
+Warrington,Woking,466,2.7,DEE955,19:13,
+Warrington,Rotherham,81,3.1,KYF850,21:40,
+Warrington,Bedford,305,4.1,IOO396,19:34,"Peterborough, Huddersfield, Belfast, Blackpool, Derry"
+Peterborough,London,95,5.1,AHX612,19:07,"Chelmsford, Manchester, Wolverhampton, Birmingham, Liverpool"
+Peterborough,Manchester,250,5.8,TUM680,12:25,"Manchester, Chelmsford, Sheffield, Woking"
+Peterborough,Birmingham,443,5.5,LMX909,00:23,"London, Liverpool, Slough"
+Peterborough,Liverpool,99,1.9,SZX836,08:23,Nottingham
+Peterborough,Leeds,271,4.1,ZSW398,18:28,
+Peterborough,Sheffield,100,1.7,HPT170,20:50,"Manchester, Woking, Middlesbrough, Edinburgh"
+Peterborough,Bristol,75,3.5,MUX833,09:45,"Birmingham, Reading, Newport, Norwich, Leeds"
+Peterborough,Glasgow,210,5.8,MPU139,02:06,Brighton
+Peterborough,Edinburgh,188,5.8,JFQ719,08:36,
+Peterborough,Cardiff,330,0.7,WDT769,03:30,"Reading, Southampton, London, Nottingham"
+Peterborough,Belfast,193,2.0,QVC556,06:31,"Peterborough, Bedford, Reading"
+Peterborough,Newcastle,180,4.9,DOS547,22:57,"Rotherham, Leicester, Warrington"
+Peterborough,Southampton,103,2.6,XIK797,17:04,"London, Inverness"
+Peterborough,Portsmouth,444,5.3,OJR193,00:30,
+Peterborough,Nottingham,175,5.5,SXA212,23:29,"Middlesbrough, Wolverhampton, Slough"
+Peterborough,Brighton,127,5.3,SHX106,04:29,"Newport, Dundee, Nottingham, Reading, Inverness"
+Peterborough,Leicester,222,2.4,XJI316,19:25,"Wolverhampton, Brighton, Sheffield"
+Peterborough,Oxford,74,3.6,OIL414,04:34,"Oxford, Middlesbrough, Peterborough"
+Peterborough,Cambridge,200,2.3,AHK362,10:26,
+Peterborough,York,254,5.1,ZIZ525,01:42,"Rotherham, Plymouth"
+Peterborough,Aberdeen,314,1.0,GAY733,09:30,"Portsmouth, Newcastle"
+Peterborough,Dundee,365,3.0,HTQ931,19:02,"Newport, Blackpool, York, Cambridge, Brighton"
+Peterborough,Inverness,76,1.4,URI511,18:59,"Bristol, Wolverhampton, Portsmouth, Southampton"
+Peterborough,Exeter,182,5.5,QGH725,02:39,"Colchester, Plymouth, York, Nottingham"
+Peterborough,Plymouth,413,2.8,RTQ118,01:47,"Manchester, Woking, Sheffield"
+Peterborough,Swansea,477,0.7,VRI875,07:39,York
+Peterborough,Newport,467,3.4,SEW123,01:00,"Slough, Sheffield, York"
+Peterborough,Coventry,284,1.8,LLO614,09:07,"Nottingham, Colchester, Huddersfield, Newcastle"
+Peterborough,Stoke-on-Trent,295,5.3,BLB881,09:05,"London, Huddersfield, Oxford, Glasgow, Plymouth"
+Peterborough,Wolverhampton,333,3.6,XZE951,19:02,"Oxford, Rotherham"
+Peterborough,Derby,273,2.7,KYB411,20:43,"Liverpool, Warrington"
+Peterborough,Norwich,354,1.4,JAP462,05:08,"Southampton, Cambridge, Leeds, Derry"
+Peterborough,Blackpool,327,4.2,GOD595,17:39,
+Peterborough,Middlesbrough,317,3.6,OIJ378,12:04,Norwich
+Peterborough,Bournemouth,393,3.2,NWT480,06:32,"Chelmsford, Reading, Sheffield"
+Peterborough,Luton,362,2.4,FFN530,08:12,"Brighton, Derry"
+Peterborough,Reading,81,1.3,AIP240,03:06,Sheffield
+Peterborough,Warrington,223,4.0,RZW341,21:18,"Colchester, Bournemouth, Huddersfield, Leeds"
+Peterborough,Huddersfield,115,2.6,VFV562,23:38,
+Peterborough,Slough,422,4.6,WCW140,08:21,
+Peterborough,Basildon,99,5.5,UND565,12:59,"Nottingham, Sheffield, Manchester"
+Peterborough,Chelmsford,340,2.8,EAD177,07:37,"Aberdeen, Stoke-on-Trent"
+Peterborough,Colchester,59,5.5,TSB984,07:12,"Wolverhampton, Chelmsford, Sheffield, Leicester, Derby"
+Peterborough,Derry,345,1.6,CFG153,23:25,"Norwich, Glasgow, Chelmsford, Nottingham, Stoke-on-Trent"
+Peterborough,Woking,429,1.1,WTL617,00:09,
+Peterborough,Rotherham,369,4.1,WLE339,02:33,
+Peterborough,Bedford,304,4.7,JSX220,18:38,"Birmingham, Rotherham, Portsmouth"
+Huddersfield,London,101,2.1,UVB338,18:11,Slough
+Huddersfield,Manchester,484,2.9,UQU537,05:01,"Peterborough, Woking, Leeds"
+Huddersfield,Birmingham,234,1.7,ODW688,09:51,"Portsmouth, Birmingham, Newcastle, Aberdeen, Colchester"
+Huddersfield,Liverpool,224,4.1,SDJ813,19:25,"Leicester, Bristol, Middlesbrough, Brighton"
+Huddersfield,Leeds,86,2.4,HKT256,05:00,
+Huddersfield,Sheffield,83,4.4,XHX217,16:19,"Portsmouth, Blackpool"
+Huddersfield,Bristol,301,5.4,RJR602,09:46,
+Huddersfield,Glasgow,489,5.1,SVJ269,02:55,"Chelmsford, Reading, Bristol, Oxford"
+Huddersfield,Edinburgh,288,5.1,OPO975,06:30,"Exeter, Plymouth, Leeds, Newport"
+Huddersfield,Cardiff,228,3.4,XEF228,16:09,"Derry, Brighton"
+Huddersfield,Belfast,403,5.4,ZKO304,14:26,
+Huddersfield,Newcastle,305,3.4,FAM444,17:29,Nottingham
+Huddersfield,Southampton,227,5.7,QUS239,00:07,"Derby, Middlesbrough"
+Huddersfield,Portsmouth,248,4.2,TPD924,23:16,Birmingham
+Huddersfield,Nottingham,143,4.0,UEU227,23:25,"Stoke-on-Trent, Newcastle, Luton, Colchester, London"
+Huddersfield,Brighton,412,3.9,DAU767,01:24,Aberdeen
+Huddersfield,Leicester,206,3.2,CDZ342,07:39,"Aberdeen, York, Portsmouth, Norwich, Slough"
+Huddersfield,Oxford,405,5.7,JGL546,19:37,Bristol
+Huddersfield,Cambridge,133,2.2,JYX286,10:46,"Inverness, Cambridge, Warrington, Derry"
+Huddersfield,York,310,0.8,WPS788,12:05,"Stoke-on-Trent, Coventry"
+Huddersfield,Aberdeen,212,2.9,HPJ807,01:44,"Stoke-on-Trent, Norwich, Wolverhampton"
+Huddersfield,Dundee,486,2.8,CFP988,10:49,"Belfast, Edinburgh"
+Huddersfield,Inverness,359,5.2,KTD353,05:29,
+Huddersfield,Exeter,297,5.0,FAS493,15:07,"Derby, Basildon, Brighton"
+Huddersfield,Plymouth,149,1.5,TSS532,18:24,"Plymouth, Luton, Sheffield"
+Huddersfield,Swansea,238,1.8,KDT551,06:01,"Southampton, Basildon, Stoke-on-Trent, Norwich, Brighton"
+Huddersfield,Newport,466,4.5,UXN437,20:01,"Luton, Bristol, Newcastle, Woking"
+Huddersfield,Coventry,495,3.3,BTE420,12:50,Swansea
+Huddersfield,Stoke-on-Trent,322,5.3,FRJ632,06:11,
+Huddersfield,Wolverhampton,96,2.8,QAN394,00:29,"Leicester, Peterborough, Reading, Middlesbrough"
+Huddersfield,Derby,68,4.2,FNV479,13:41,"Newport, Swansea, Chelmsford, Liverpool, Sheffield"
+Huddersfield,Norwich,152,1.7,QFM736,09:38,"Newcastle, Inverness, Manchester, Newport"
+Huddersfield,Blackpool,287,5.3,AMJ862,13:21,"Woking, Derby, Huddersfield, Plymouth, Aberdeen"
+Huddersfield,Middlesbrough,219,1.5,HQL434,14:05,"Derry, Swansea, Wolverhampton"
+Huddersfield,Bournemouth,149,1.5,WMW950,12:19,"Oxford, Derby, Glasgow, Chelmsford, Newcastle"
+Huddersfield,Luton,120,4.9,JOY834,01:59,"Chelmsford, Cardiff, Norwich, Middlesbrough, Portsmouth"
+Huddersfield,Reading,281,1.2,EAU210,23:40,"Edinburgh, Birmingham, Bristol, Leeds, Nottingham"
+Huddersfield,Warrington,346,3.2,UXS579,04:36,"Exeter, Leeds, Bournemouth, Chelmsford"
+Huddersfield,Peterborough,227,2.8,CJM102,15:56,"Bristol, Southampton"
+Huddersfield,Slough,185,2.0,MCW212,03:39,Sheffield
+Huddersfield,Basildon,150,4.2,YZC555,06:12,Stoke-on-Trent
+Huddersfield,Chelmsford,351,3.5,VXK922,19:08,"Chelmsford, Nottingham, Cambridge, Leicester"
+Huddersfield,Colchester,139,1.6,VLD509,19:11,"Newcastle, Chelmsford, Southampton, Manchester"
+Huddersfield,Derry,388,1.4,ZNR194,00:56,"Warrington, Dundee, Exeter, Colchester, Nottingham"
+Huddersfield,Woking,61,2.0,LXW303,04:30,
+Huddersfield,Rotherham,462,3.6,TEX152,05:12,Oxford
+Huddersfield,Bedford,215,3.0,IFL787,12:10,Exeter
+Slough,London,399,2.2,YDY324,06:16,Huddersfield
+Slough,Manchester,207,2.9,DRM321,07:54,"Cardiff, Oxford, Swansea"
+Slough,Birmingham,397,1.3,SAY632,04:56,"Oxford, Swansea, Brighton, Dundee"
+Slough,Liverpool,96,4.6,DCV997,10:06,"Exeter, Bedford, Edinburgh"
+Slough,Leeds,231,4.5,SQK388,23:59,"Stoke-on-Trent, Southampton, Wolverhampton, Slough"
+Slough,Sheffield,106,3.6,JQY639,14:49,"Wolverhampton, Brighton, Rotherham, Luton"
+Slough,Bristol,415,1.6,KMZ394,10:30,"Brighton, York"
+Slough,Glasgow,51,5.9,OCN968,23:29,
+Slough,Edinburgh,214,2.0,HKL619,12:14,"Middlesbrough, Bristol, York"
+Slough,Cardiff,77,2.8,LHI421,09:12,"Exeter, Edinburgh"
+Slough,Belfast,443,2.8,GGU271,21:42,Bristol
+Slough,Newcastle,96,0.9,NSQ502,23:01,"Birmingham, Aberdeen"
+Slough,Southampton,338,3.3,OWU592,22:53,"Bristol, Derby, Nottingham, Oxford, Stoke-on-Trent"
+Slough,Portsmouth,392,2.4,DNY555,19:35,"Coventry, Warrington, Leeds, Inverness"
+Slough,Nottingham,208,3.1,IDP343,14:51,
+Slough,Brighton,453,1.5,NTK110,17:28,"Dundee, Derry"
+Slough,Leicester,248,1.7,OMH461,15:10,"Coventry, Cambridge, Nottingham, Bristol, Aberdeen"
+Slough,Oxford,168,2.9,OSR368,17:15,Coventry
+Slough,Cambridge,326,0.8,PIC200,08:37,
+Slough,York,106,5.9,JAA245,20:45,"Southampton, Cambridge"
+Slough,Aberdeen,129,5.8,APW264,08:58,"Bournemouth, Swansea"
+Slough,Dundee,499,5.4,BRT203,05:58,"Stoke-on-Trent, Leicester, Middlesbrough, Slough, Swansea"
+Slough,Inverness,365,2.7,NJE536,16:11,Huddersfield
+Slough,Exeter,99,1.5,GHN603,15:41,Norwich
+Slough,Plymouth,192,1.1,YHG339,05:26,York
+Slough,Swansea,462,4.2,CAD860,15:49,"Cambridge, Norwich"
+Slough,Newport,265,2.0,UAX237,16:31,"Dundee, Glasgow, Basildon"
+Slough,Coventry,480,3.1,IPS308,04:45,"Coventry, Warrington, Luton"
+Slough,Stoke-on-Trent,57,0.8,JAY849,13:23,
+Slough,Wolverhampton,64,3.1,YNI647,12:12,Luton
+Slough,Derby,482,5.4,QLQ315,15:16,"Colchester, Warrington, York, Exeter"
+Slough,Norwich,268,1.7,ALR321,00:24,Glasgow
+Slough,Blackpool,217,2.4,JLT751,04:06,"Aberdeen, Norwich"
+Slough,Middlesbrough,482,4.6,ETO453,20:08,
+Slough,Bournemouth,474,5.1,GSD470,13:36,"Bristol, Middlesbrough, Peterborough, Leeds"
+Slough,Luton,360,5.6,XKJ709,14:04,"Wolverhampton, Manchester, Cambridge"
+Slough,Reading,194,3.6,YEW277,22:04,London
+Slough,Warrington,50,4.2,AHD765,21:35,"Swansea, Glasgow"
+Slough,Peterborough,401,3.3,RVD343,13:36,"Belfast, Norwich, Newcastle, Slough"
+Slough,Huddersfield,463,3.4,SFF456,12:20,Inverness
+Slough,Basildon,153,4.2,WDI237,08:02,
+Slough,Chelmsford,482,1.9,OPP265,21:10,"Colchester, Glasgow, Warrington, Birmingham, Leeds"
+Slough,Colchester,411,2.0,JTU718,13:10,"Coventry, Middlesbrough, Liverpool, Huddersfield, Colchester"
+Slough,Derry,133,0.7,VGX657,11:48,"Cambridge, Bristol, Portsmouth, Wolverhampton, Plymouth"
+Slough,Woking,333,1.1,FMD276,21:26,"Blackpool, Liverpool"
+Slough,Rotherham,197,2.2,RJW385,02:35,Plymouth
+Slough,Bedford,124,5.2,ENY167,00:18,
+Basildon,London,438,3.2,AXZ300,04:02,
+Basildon,Manchester,155,1.0,EUB468,22:36,"Reading, Manchester, Brighton, Peterborough, Stoke-on-Trent"
+Basildon,Birmingham,52,1.4,CCG861,10:26,
+Basildon,Liverpool,494,1.5,HNS663,08:12,Rotherham
+Basildon,Leeds,139,1.5,EJF485,13:52,"Wolverhampton, Southampton, Leicester, Cardiff, Aberdeen"
+Basildon,Sheffield,446,1.0,GIN665,14:14,
+Basildon,Bristol,470,5.6,IHO918,13:22,
+Basildon,Glasgow,228,4.9,YIB948,16:22,"York, Edinburgh"
+Basildon,Edinburgh,60,0.9,TNB946,09:57,
+Basildon,Cardiff,282,5.4,UGB684,16:35,"Newport, Belfast, Luton, Edinburgh"
+Basildon,Belfast,99,4.3,RRA346,04:36,
+Basildon,Newcastle,90,3.7,GWY967,03:49,Coventry
+Basildon,Southampton,422,2.8,LLU638,05:28,"Oxford, Birmingham, Woking, Huddersfield, London"
+Basildon,Portsmouth,486,4.4,XQA359,00:41,"Stoke-on-Trent, Nottingham"
+Basildon,Nottingham,204,1.2,XYQ358,02:08,"Leicester, York, Middlesbrough, London, Rotherham"
+Basildon,Brighton,401,2.2,NVG305,22:04,"Oxford, Slough, Stoke-on-Trent, Newcastle, Norwich"
+Basildon,Leicester,296,0.8,WQX103,20:00,
+Basildon,Oxford,119,5.3,ESK723,21:03,"Leeds, Slough"
+Basildon,Cambridge,412,1.7,KZC705,21:25,"Rotherham, Exeter, Aberdeen, York, Reading"
+Basildon,York,251,4.7,TSD179,02:29,"Bristol, Dundee, Oxford"
+Basildon,Aberdeen,206,3.2,SVM533,06:05,"Basildon, Newport, Southampton, Stoke-on-Trent"
+Basildon,Dundee,130,3.7,JHK454,05:33,Sheffield
+Basildon,Inverness,52,3.5,RTJ684,00:29,
+Basildon,Exeter,236,5.1,WQC393,06:57,
+Basildon,Plymouth,357,4.4,TXX192,17:54,
+Basildon,Swansea,468,2.1,UIL566,13:12,"Reading, Middlesbrough"
+Basildon,Newport,237,5.0,TDS988,11:44,"Luton, Glasgow, Edinburgh, Exeter"
+Basildon,Coventry,177,4.2,HBB402,02:42,"Bournemouth, Brighton, Rotherham"
+Basildon,Stoke-on-Trent,286,3.3,SIC948,22:50,"Edinburgh, Norwich, Newcastle, Exeter, Chelmsford"
+Basildon,Wolverhampton,491,4.4,XTP930,08:30,
+Basildon,Derby,275,2.7,CDY240,10:47,
+Basildon,Norwich,470,5.6,RTL816,12:58,"Blackpool, Colchester, Leeds, Wolverhampton, Swansea"
+Basildon,Blackpool,89,1.3,ZZL995,05:00,"Norwich, Stoke-on-Trent"
+Basildon,Middlesbrough,151,3.3,ASA787,00:45,
+Basildon,Bournemouth,95,0.9,LCY258,13:33,"Rotherham, Glasgow"
+Basildon,Luton,113,3.0,YDE919,19:00,"London, Leicester, Belfast"
+Basildon,Reading,154,4.4,UFN561,13:24,"Blackpool, Newport"
+Basildon,Warrington,245,2.8,ZAO100,18:37,"Bournemouth, Glasgow, Brighton, Edinburgh"
+Basildon,Peterborough,467,4.5,PDG432,10:43,Bournemouth
+Basildon,Huddersfield,199,4.7,HDM657,07:26,"Rotherham, Basildon"
+Basildon,Slough,489,3.6,QLK776,10:10,Belfast
+Basildon,Chelmsford,392,3.0,QXO102,07:41,
+Basildon,Colchester,219,3.8,CZW295,04:01,
+Basildon,Derry,170,5.7,QXJ859,23:02,"Norwich, Bedford"
+Basildon,Woking,296,3.5,VQU372,18:36,Plymouth
+Basildon,Rotherham,225,4.7,UWP648,23:28,"Leicester, London, Coventry, Colchester, Peterborough"
+Basildon,Bedford,215,5.9,UNC154,11:15,
+Chelmsford,London,233,3.9,JSQ526,02:01,"Sheffield, Norwich"
+Chelmsford,Manchester,379,4.8,EHD676,15:23,"Leeds, Swansea, Liverpool, Basildon"
+Chelmsford,Birmingham,271,4.9,KTZ757,18:38,"Inverness, Aberdeen, Bristol"
+Chelmsford,Liverpool,154,4.3,EXS359,19:02,"Cardiff, Norwich"
+Chelmsford,Leeds,191,1.5,AEE776,15:09,Woking
+Chelmsford,Sheffield,384,2.3,VAB686,18:15,
+Chelmsford,Bristol,320,0.7,ILN912,12:32,"Aberdeen, Swansea, Plymouth"
+Chelmsford,Glasgow,185,5.7,MTN109,04:05,"Reading, London, Newcastle"
+Chelmsford,Edinburgh,275,0.7,FCU898,08:42,
+Chelmsford,Cardiff,391,3.1,LIG145,09:43,"Wolverhampton, Warrington"
+Chelmsford,Belfast,327,2.0,NXE450,08:32,"Derry, Rotherham"
+Chelmsford,Newcastle,454,1.1,EBO660,02:57,"Leeds, Rotherham"
+Chelmsford,Southampton,441,2.2,XSH939,18:12,"Derby, Woking"
+Chelmsford,Portsmouth,100,2.1,XEG340,01:42,"Nottingham, Leicester, Oxford, Plymouth"
+Chelmsford,Nottingham,87,0.9,XCX545,12:22,"Derry, Cambridge, Stoke-on-Trent, Glasgow"
+Chelmsford,Brighton,407,2.6,IID492,17:15,
+Chelmsford,Leicester,245,4.6,LNF666,06:22,"Aberdeen, Colchester, Portsmouth, Derby"
+Chelmsford,Oxford,88,4.8,ZQM382,20:23,"Cardiff, Edinburgh, Exeter, London"
+Chelmsford,Cambridge,284,5.1,PGG673,12:04,"Southampton, Nottingham, Rotherham, Middlesbrough, York"
+Chelmsford,York,333,6.0,BYP931,19:45,"Southampton, Aberdeen, Rotherham, Derry, Cardiff"
+Chelmsford,Aberdeen,287,3.3,EMS509,07:40,"Aberdeen, Sheffield"
+Chelmsford,Dundee,110,1.2,THN220,15:13,"Coventry, York, Aberdeen, Slough"
+Chelmsford,Inverness,183,2.9,DYN436,21:20,Chelmsford
+Chelmsford,Exeter,138,1.9,KBS358,10:33,"Chelmsford, Colchester, Newcastle, York, Wolverhampton"
+Chelmsford,Plymouth,67,5.3,ZUO832,11:32,"Wolverhampton, Cardiff, Inverness"
+Chelmsford,Swansea,136,1.9,FJR197,16:42,"Leicester, Basildon, Glasgow"
+Chelmsford,Newport,488,4.5,GTU330,14:07,"Brighton, Swansea, Leicester"
+Chelmsford,Coventry,271,4.5,NKM896,00:03,"Manchester, Middlesbrough, Reading, Cambridge"
+Chelmsford,Stoke-on-Trent,64,2.8,PMT178,14:39,Huddersfield
+Chelmsford,Wolverhampton,254,0.8,ONV983,14:06,"Swansea, Slough, Cardiff"
+Chelmsford,Derby,164,2.0,IFE537,00:14,"Luton, Huddersfield"
+Chelmsford,Norwich,355,0.5,HHY628,03:43,"Basildon, York, Edinburgh"
+Chelmsford,Blackpool,213,2.9,KLH701,07:35,"Stoke-on-Trent, Rotherham"
+Chelmsford,Middlesbrough,270,4.3,RTM767,06:27,"Huddersfield, Middlesbrough, Wolverhampton, Warrington"
+Chelmsford,Bournemouth,286,5.7,WXC724,02:21,"Slough, Norwich, Woking, Nottingham"
+Chelmsford,Luton,276,5.5,QAK773,16:54,"Bedford, Portsmouth"
+Chelmsford,Reading,362,0.6,OUL846,01:46,"Edinburgh, Colchester, Huddersfield, Glasgow"
+Chelmsford,Warrington,409,2.7,FSC883,19:04,
+Chelmsford,Peterborough,450,5.8,AEP654,07:59,"Warrington, Stoke-on-Trent, Leeds, Leicester"
+Chelmsford,Huddersfield,419,1.3,KIO767,09:59,"Luton, Norwich, Glasgow"
+Chelmsford,Slough,445,3.5,HNQ851,03:43,"Belfast, Dundee, Huddersfield"
+Chelmsford,Basildon,191,1.4,BBN985,19:09,Cambridge
+Chelmsford,Colchester,99,1.4,LDW127,05:29,"Wolverhampton, Huddersfield, Edinburgh, Cambridge, London"
+Chelmsford,Derry,443,5.2,PHF441,20:23,"Woking, Birmingham, Warrington, Plymouth"
+Chelmsford,Woking,309,5.0,IQK396,09:40,
+Chelmsford,Rotherham,360,2.9,BUD159,22:10,"York, Derby"
+Chelmsford,Bedford,244,1.6,FRB732,23:53,Sheffield
+Colchester,London,228,2.3,BAV928,13:58,"Plymouth, Colchester"
+Colchester,Manchester,488,4.4,JUM639,01:33,Sheffield
+Colchester,Birmingham,346,5.8,YEF670,09:18,Chelmsford
+Colchester,Liverpool,365,2.2,FVX629,23:42,
+Colchester,Leeds,326,3.4,LJS194,07:34,"Woking, Southampton"
+Colchester,Sheffield,153,0.8,HAI272,08:25,"Leicester, Middlesbrough, Leeds"
+Colchester,Bristol,65,2.6,GHH145,09:00,"Stoke-on-Trent, Blackpool, York, London, Rotherham"
+Colchester,Glasgow,277,6.0,ZID600,10:04,
+Colchester,Edinburgh,140,1.7,FQW731,09:48,"Portsmouth, York, Edinburgh"
+Colchester,Cardiff,345,1.9,BYK713,23:27,
+Colchester,Belfast,84,3.6,NWY368,04:33,"Bournemouth, Colchester, Newport, Reading, Manchester"
+Colchester,Newcastle,394,5.4,SOV854,17:33,
+Colchester,Southampton,433,4.3,AJA876,14:20,
+Colchester,Portsmouth,454,4.2,REX416,08:29,"Middlesbrough, Edinburgh, Coventry, Inverness"
+Colchester,Nottingham,215,5.5,DTI322,18:47,"York, Colchester, Belfast"
+Colchester,Brighton,269,4.6,NBI802,04:36,Woking
+Colchester,Leicester,437,1.8,NLG975,18:49,"Woking, Aberdeen"
+Colchester,Oxford,195,0.7,QBR660,06:35,
+Colchester,Cambridge,153,3.7,JCK206,02:07,"Liverpool, Oxford, York"
+Colchester,York,245,2.1,OLE737,12:52,"Chelmsford, Birmingham, Norwich, Leicester"
+Colchester,Aberdeen,216,4.7,GRY457,20:57,"Cardiff, Chelmsford, Oxford, Wolverhampton"
+Colchester,Dundee,55,5.9,GUK308,23:18,Stoke-on-Trent
+Colchester,Inverness,480,2.2,AVL752,04:23,"Aberdeen, Cardiff, Bournemouth"
+Colchester,Exeter,361,5.9,VKG556,00:27,"Stoke-on-Trent, Derby, Oxford, Bedford"
+Colchester,Plymouth,315,5.2,QYG882,20:37,"Exeter, Sheffield, Inverness, Bristol, Middlesbrough"
+Colchester,Swansea,84,4.6,AAD516,03:22,"Woking, Newcastle, Colchester, Nottingham, Inverness"
+Colchester,Newport,411,2.8,QSD344,21:53,"Derby, Southampton, Newport, Middlesbrough, Brighton"
+Colchester,Coventry,105,4.9,SWH315,14:25,"Plymouth, Dundee"
+Colchester,Stoke-on-Trent,139,1.8,ERG653,09:19,
+Colchester,Wolverhampton,338,1.2,XJN757,17:15,"Glasgow, Derby"
+Colchester,Derby,292,0.6,HXS262,17:54,
+Colchester,Norwich,492,0.8,CXH129,17:52,"Plymouth, Dundee"
+Colchester,Blackpool,173,3.2,WJV709,01:30,"Oxford, Sheffield, Colchester"
+Colchester,Middlesbrough,446,5.0,EPC539,08:27,Liverpool
+Colchester,Bournemouth,392,0.6,MRO205,12:39,
+Colchester,Luton,371,5.2,LQH630,22:31,
+Colchester,Reading,388,1.1,XSE779,05:38,"Cambridge, Peterborough"
+Colchester,Warrington,323,5.9,EKP219,07:47,"Oxford, Birmingham, Reading, Middlesbrough"
+Colchester,Peterborough,130,2.8,YTM992,14:46,"Sheffield, Leicester, Stoke-on-Trent, Leeds"
+Colchester,Huddersfield,197,4.8,WTS431,21:34,"Edinburgh, Bristol, Glasgow"
+Colchester,Slough,127,4.6,EYN858,04:53,"Dundee, Woking, Colchester, Norwich, Sheffield"
+Colchester,Basildon,209,5.5,QHB126,15:26,"Belfast, Wolverhampton, Bournemouth, Inverness"
+Colchester,Chelmsford,175,0.8,SVU342,15:49,"Belfast, Leicester"
+Colchester,Derry,378,4.2,XFZ810,13:44,Derby
+Colchester,Woking,351,1.5,UBF990,14:04,"Middlesbrough, Wolverhampton, Dundee"
+Colchester,Rotherham,456,2.7,CMG669,18:40,"Bournemouth, Dundee, Derry, Oxford"
+Colchester,Bedford,221,3.0,JPX731,22:34,"Exeter, Chelmsford, Southampton, Liverpool, London"
+Derry,London,355,4.0,XJN546,09:39,"Derby, Belfast, Oxford, Chelmsford"
+Derry,Manchester,376,4.0,EBT962,08:14,
+Derry,Birmingham,399,5.3,WNF303,18:12,
+Derry,Liverpool,109,1.8,ZVU992,20:22,"Sheffield, Middlesbrough, Rotherham"
+Derry,Leeds,65,5.6,SCV455,08:47,"Sheffield, Southampton, Wolverhampton, Bournemouth"
+Derry,Sheffield,473,2.7,NAJ994,08:00,"Swansea, Huddersfield, Colchester"
+Derry,Bristol,415,3.4,QVJ702,21:42,"Warrington, Edinburgh, Portsmouth, Sheffield"
+Derry,Glasgow,299,2.8,QOV132,04:10,"Brighton, York, Leicester, Cambridge, Swansea"
+Derry,Edinburgh,441,1.9,AGA153,03:38,Cardiff
+Derry,Cardiff,155,2.9,NNA573,05:01,"Plymouth, Blackpool, Belfast, Birmingham"
+Derry,Belfast,109,2.4,NMD624,23:19,"Glasgow, Woking, London"
+Derry,Newcastle,312,2.8,IBD772,13:22,
+Derry,Southampton,429,2.9,MSS976,14:48,"Cardiff, Peterborough"
+Derry,Portsmouth,77,1.1,GOZ750,09:09,"Chelmsford, Colchester, Bedford, Leeds, Bristol"
+Derry,Nottingham,217,2.7,LHC208,12:28,
+Derry,Brighton,271,4.2,RUQ934,03:20,
+Derry,Leicester,218,1.2,WJF109,11:09,
+Derry,Oxford,368,5.4,AZG226,02:26,"Derry, Edinburgh, Blackpool, Colchester, Newcastle"
+Derry,Cambridge,122,2.0,RGZ865,16:37,Glasgow
+Derry,York,322,3.1,MWO929,04:16,
+Derry,Aberdeen,130,1.0,LVH105,09:51,Brighton
+Derry,Dundee,266,5.6,CXO973,17:48,"Wolverhampton, Exeter, Woking, York"
+Derry,Inverness,245,2.3,UBN674,11:35,"Warrington, Coventry, Rotherham, Swansea, York"
+Derry,Exeter,178,5.1,PQI915,05:35,"Colchester, Plymouth, Newcastle, Peterborough, Belfast"
+Derry,Plymouth,392,1.3,SMY827,17:27,"Newcastle, Norwich, Cardiff"
+Derry,Swansea,169,4.2,WZX923,00:47,Woking
+Derry,Newport,61,4.1,ELY189,03:45,"Edinburgh, Plymouth, Exeter, Manchester, Cambridge"
+Derry,Coventry,486,2.9,TFV924,12:20,"Inverness, Stoke-on-Trent, Birmingham, Aberdeen, Reading"
+Derry,Stoke-on-Trent,202,1.6,DJX826,14:24,"Manchester, Bedford, Blackpool, Warrington"
+Derry,Wolverhampton,261,2.1,DGN199,07:27,
+Derry,Derby,143,5.9,OYO963,02:22,"Liverpool, Southampton, Exeter, Glasgow, Blackpool"
+Derry,Norwich,404,0.7,OBE798,08:57,"Swansea, Colchester, Portsmouth, Derry"
+Derry,Blackpool,382,3.5,PHB710,01:06,Newport
+Derry,Middlesbrough,386,2.3,BFW846,11:35,
+Derry,Bournemouth,256,3.4,OFT740,20:55,Glasgow
+Derry,Luton,134,5.4,PYA612,13:25,Blackpool
+Derry,Reading,216,3.9,DZB599,17:08,
+Derry,Warrington,263,3.1,SRO931,02:06,"Inverness, Basildon, Newcastle"
+Derry,Peterborough,378,3.1,IVV152,06:09,"Sheffield, Plymouth, Leicester"
+Derry,Huddersfield,425,4.9,VUI573,14:26,"Chelmsford, Birmingham, Edinburgh, Woking"
+Derry,Slough,347,4.0,CJO514,13:56,"Newcastle, Dundee, Coventry, Peterborough"
+Derry,Basildon,72,3.5,GZJ101,15:55,"Cardiff, Norwich, Portsmouth, Brighton, Edinburgh"
+Derry,Chelmsford,234,5.3,NSW377,17:44,Belfast
+Derry,Colchester,153,2.0,AOD766,13:18,"Nottingham, Swansea"
+Derry,Woking,377,2.9,TIM191,20:50,"Reading, Middlesbrough, Dundee, Colchester, Glasgow"
+Derry,Rotherham,155,2.5,PAC935,21:44,"York, Colchester, Brighton, Aberdeen"
+Derry,Bedford,103,5.9,NPI876,04:02,Manchester
+Woking,London,322,1.8,UCI371,20:34,"York, Woking, Coventry"
+Woking,Manchester,56,3.6,VVL445,12:06,"Woking, Basildon, Bristol, Derry, Liverpool"
+Woking,Birmingham,241,4.8,ZHO271,03:44,Bedford
+Woking,Liverpool,53,0.8,FXL582,01:37,"Leeds, Warrington, Swansea, Bristol, Cardiff"
+Woking,Leeds,149,4.8,NAY326,14:53,"Inverness, Birmingham, Luton"
+Woking,Sheffield,64,5.0,BUS207,12:25,"Manchester, Belfast, Dundee, Newcastle, Birmingham"
+Woking,Bristol,148,2.6,PEB910,23:09,Bristol
+Woking,Glasgow,352,1.4,TMG533,17:41,"Coventry, Nottingham"
+Woking,Edinburgh,81,0.6,QVV207,16:30,"Liverpool, Bournemouth"
+Woking,Cardiff,447,4.9,SPG586,06:16,Middlesbrough
+Woking,Belfast,439,3.7,CGN769,07:30,"Bournemouth, Cambridge, Brighton, Rotherham"
+Woking,Newcastle,265,4.5,OUN440,19:10,Derry
+Woking,Southampton,196,2.7,XVK366,10:15,
+Woking,Portsmouth,453,4.0,BPK168,07:13,"Wolverhampton, Exeter"
+Woking,Nottingham,460,0.9,UQN232,02:28,
+Woking,Brighton,221,2.0,CEQ448,01:28,"Aberdeen, Bristol, Woking"
+Woking,Leicester,268,4.2,YCT942,07:37,"Woking, York, Newcastle"
+Woking,Oxford,176,0.7,ZUO438,06:53,
+Woking,Cambridge,135,1.6,BLO682,21:36,"Norwich, Cardiff, Woking"
+Woking,York,308,3.7,PIX930,14:14,
+Woking,Aberdeen,334,4.6,PRH802,07:37,"Blackpool, Warrington"
+Woking,Dundee,396,2.7,JNS423,04:43,"Brighton, Bedford"
+Woking,Inverness,453,3.7,YJI323,00:51,"Birmingham, Manchester"
+Woking,Exeter,261,3.6,QVE347,05:46,"Luton, Liverpool"
+Woking,Plymouth,165,2.8,VTV200,19:53,"Cardiff, Leeds"
+Woking,Swansea,469,0.8,OYN249,18:49,"Derby, Newport, Coventry"
+Woking,Newport,378,5.2,HYX117,20:00,Colchester
+Woking,Coventry,156,4.6,MKX668,21:11,"Blackpool, Swansea"
+Woking,Stoke-on-Trent,312,5.4,QLC610,10:53,"Middlesbrough, Huddersfield"
+Woking,Wolverhampton,223,4.1,OON978,12:20,"Brighton, Leicester, Liverpool"
+Woking,Derby,353,2.7,GTX701,19:18,Leicester
+Woking,Norwich,316,5.6,VLS732,21:24,"Portsmouth, Huddersfield"
+Woking,Blackpool,77,6.0,NTX200,08:46,"Newport, Bedford, Aberdeen, Basildon, Manchester"
+Woking,Middlesbrough,490,2.4,GBO879,10:32,Huddersfield
+Woking,Bournemouth,271,0.7,DBG750,20:15,"Sheffield, Swansea"
+Woking,Luton,117,3.1,NUE368,06:18,"Cambridge, Basildon, Slough, Swansea"
+Woking,Reading,457,5.4,NJK332,01:35,
+Woking,Warrington,62,2.7,TZE550,07:52,"Chelmsford, Swansea, Aberdeen, Rotherham, Bournemouth"
+Woking,Peterborough,158,1.5,QZM468,19:35,"Wolverhampton, Cambridge, Leeds, Southampton"
+Woking,Huddersfield,98,1.8,IIP911,10:10,"Middlesbrough, Edinburgh, York, Brighton, Swansea"
+Woking,Slough,424,4.1,BMF990,23:30,"Belfast, Wolverhampton, Slough, Edinburgh"
+Woking,Basildon,297,1.1,BZH904,19:42,"Peterborough, Colchester, Derby, Newcastle, Southampton"
+Woking,Chelmsford,251,3.3,JEX677,17:20,"York, Brighton"
+Woking,Colchester,100,3.6,ATK726,02:21,"Derby, Aberdeen"
+Woking,Derry,329,5.2,APW932,20:24,"Nottingham, Southampton, Slough, Bournemouth, Newcastle"
+Woking,Rotherham,355,4.1,VGG863,23:09,"Plymouth, Huddersfield, Slough, Swansea, London"
+Woking,Bedford,154,3.1,EUD744,19:04,"Bristol, Norwich, Sheffield"
+Rotherham,London,251,1.9,LAL886,18:52,Stoke-on-Trent
+Rotherham,Manchester,443,2.3,JKY233,13:59,"Middlesbrough, Birmingham"
+Rotherham,Birmingham,405,0.5,TNF964,22:14,"Norwich, Edinburgh, Aberdeen, Chelmsford"
+Rotherham,Liverpool,248,3.9,FEU105,00:43,"Basildon, Edinburgh, Peterborough, Plymouth"
+Rotherham,Leeds,209,1.8,YGK208,21:16,"Cardiff, Manchester"
+Rotherham,Sheffield,230,2.2,GLN986,13:28,"Birmingham, Brighton, Cambridge, Derby, Oxford"
+Rotherham,Bristol,153,3.5,JBQ269,06:19,"Coventry, Inverness, Sheffield, Warrington"
+Rotherham,Glasgow,103,2.5,GEA473,03:10,Cambridge
+Rotherham,Edinburgh,171,1.2,DAE214,02:18,"York, Southampton, Bedford, Sheffield"
+Rotherham,Cardiff,204,2.0,FUB962,18:09,"Bristol, Swansea"
+Rotherham,Belfast,240,2.2,NBB429,05:05,Glasgow
+Rotherham,Newcastle,400,4.8,RPI350,14:48,"Portsmouth, Cardiff, Rotherham"
+Rotherham,Southampton,141,2.7,RKS990,12:51,"Edinburgh, Brighton, Chelmsford, Cambridge"
+Rotherham,Portsmouth,75,5.7,APG424,13:33,"Blackpool, Liverpool, Bristol, Stoke-on-Trent"
+Rotherham,Nottingham,483,5.0,VYK319,04:01,"Birmingham, Bournemouth, Peterborough, Derry"
+Rotherham,Brighton,265,3.5,SQW606,08:08,"Middlesbrough, Exeter, London"
+Rotherham,Leicester,323,3.5,KCX229,19:03,"Oxford, Rotherham, Plymouth, Southampton"
+Rotherham,Oxford,410,5.4,MPK862,12:42,"Nottingham, Blackpool, Derry"
+Rotherham,Cambridge,244,0.5,LTK902,07:45,"Newcastle, Bournemouth, Brighton, Birmingham"
+Rotherham,York,341,2.3,GOO639,11:40,Edinburgh
+Rotherham,Aberdeen,399,2.1,UEZ722,15:35,Woking
+Rotherham,Dundee,326,4.4,QDQ337,17:41,"Coventry, Southampton, Rotherham, Swansea"
+Rotherham,Inverness,259,5.5,ZNC493,14:48,"Nottingham, Edinburgh, Birmingham, Belfast"
+Rotherham,Exeter,108,5.8,YGO248,22:52,"Nottingham, Derry"
+Rotherham,Plymouth,238,5.6,NRE957,21:59,"Blackpool, Glasgow"
+Rotherham,Swansea,114,4.3,CZU148,09:59,"Woking, Bristol, Peterborough, Basildon, Newcastle"
+Rotherham,Newport,475,5.9,BQO596,09:45,Bournemouth
+Rotherham,Coventry,496,3.6,MLM971,10:11,Oxford
+Rotherham,Stoke-on-Trent,162,2.7,OAM352,09:26,"Sheffield, Leicester, Middlesbrough, Plymouth"
+Rotherham,Wolverhampton,240,2.0,MBJ632,05:22,Southampton
+Rotherham,Derby,243,0.8,WMY459,13:46,"London, Newcastle"
+Rotherham,Norwich,274,5.5,QLP980,03:08,"Dundee, Chelmsford, Rotherham, Nottingham, Peterborough"
+Rotherham,Blackpool,499,1.9,XQA890,10:05,"Bedford, Cambridge"
+Rotherham,Middlesbrough,125,0.5,IHU333,11:30,"Bedford, Cardiff"
+Rotherham,Bournemouth,283,1.7,WYZ238,15:03,"Chelmsford, Middlesbrough, Bristol, Dundee, Huddersfield"
+Rotherham,Luton,412,4.0,LUM396,11:28,"Aberdeen, Norwich, Manchester, Coventry, Basildon"
+Rotherham,Reading,412,2.6,QHF743,05:27,"Newport, Cardiff"
+Rotherham,Warrington,410,3.6,JDB908,03:13,"Inverness, Coventry, Middlesbrough"
+Rotherham,Peterborough,397,5.8,TMP888,18:31,"Reading, Derry"
+Rotherham,Huddersfield,473,4.7,DCQ749,05:27,"Swansea, Nottingham, Leicester, Norwich, Reading"
+Rotherham,Slough,333,2.9,FPN722,00:12,"Exeter, London, Middlesbrough, Luton"
+Rotherham,Basildon,265,4.8,BWN626,22:33,"Peterborough, Woking, Luton, Derby, Cambridge"
+Rotherham,Chelmsford,116,4.1,BUO569,05:18,"Southampton, Basildon, Huddersfield, Leicester"
+Rotherham,Colchester,418,5.2,YYF612,13:01,
+Rotherham,Derry,132,3.4,BHQ528,21:26,"London, Bournemouth, Swansea, Exeter, Leicester"
+Rotherham,Woking,130,1.7,WFP293,06:33,"Newport, Wolverhampton, London"
+Rotherham,Bedford,466,5.6,DQD655,15:34,"Swansea, Chelmsford"
+Bedford,London,78,2.9,FWV454,19:15,"Sheffield, Plymouth"
+Bedford,Manchester,181,2.2,PSM625,11:43,Plymouth
+Bedford,Birmingham,401,4.8,JOM559,07:45,"Blackpool, Derby"
+Bedford,Liverpool,493,3.9,TGB948,17:30,
+Bedford,Leeds,394,5.9,CYY512,22:51,"Leicester, Exeter, Stoke-on-Trent, Peterborough, Colchester"
+Bedford,Sheffield,277,1.9,EHJ297,22:50,
+Bedford,Bristol,334,4.1,TUX904,20:52,"Dundee, Wolverhampton, Portsmouth, Nottingham"
+Bedford,Glasgow,425,1.7,OMS752,04:37,"Warrington, Stoke-on-Trent"
+Bedford,Edinburgh,245,0.8,BGF505,12:14,"Stoke-on-Trent, Leicester"
+Bedford,Cardiff,139,4.6,CEM299,13:11,"Woking, Nottingham, Luton, Slough, York"
+Bedford,Belfast,212,2.1,QWC849,23:01,
+Bedford,Newcastle,106,2.4,MJO472,21:37,Woking
+Bedford,Southampton,170,5.5,XQW748,20:09,
+Bedford,Portsmouth,359,1.0,YQO551,12:19,"Basildon, Brighton, Manchester, Sheffield, Leicester"
+Bedford,Nottingham,213,0.6,ODA134,17:05,Cardiff
+Bedford,Brighton,451,4.4,SSQ361,08:40,Newport
+Bedford,Leicester,416,2.3,PEF512,02:58,Peterborough
+Bedford,Oxford,460,2.0,QXH177,19:57,"Cambridge, Plymouth, Aberdeen"
+Bedford,Cambridge,106,2.5,PPZ656,04:40,"Liverpool, Inverness"
+Bedford,York,122,0.8,YPS736,03:09,Wolverhampton
+Bedford,Aberdeen,479,4.2,COP867,08:26,"Manchester, Birmingham, Glasgow, Sheffield"
+Bedford,Dundee,282,1.7,ETR985,02:23,"Huddersfield, Colchester, London, Leeds, Woking"
+Bedford,Inverness,457,4.2,OVZ492,15:44,
+Bedford,Exeter,351,5.9,VRZ715,23:13,"Plymouth, Southampton, London, Stoke-on-Trent"
+Bedford,Plymouth,364,3.5,ZET198,23:10,"Newcastle, Leicester, Luton, Woking"
+Bedford,Swansea,210,3.7,WVQ234,22:19,"Warrington, Cambridge, Bournemouth, Leicester, Reading"
+Bedford,Newport,168,3.1,WCT221,11:47,"Derby, Stoke-on-Trent, Dundee"
+Bedford,Coventry,175,0.8,RNR281,03:36,"Manchester, Colchester, Rotherham"
+Bedford,Stoke-on-Trent,138,4.2,OSA922,16:31,"Basildon, Plymouth, Cambridge, Edinburgh, Luton"
+Bedford,Wolverhampton,144,4.3,DTD934,05:11,Wolverhampton
+Bedford,Derby,235,3.5,VDN349,23:30,"Stoke-on-Trent, Leicester, Leeds, Portsmouth"
+Bedford,Norwich,419,4.8,NKC530,15:09,"Leeds, Sheffield"
+Bedford,Blackpool,484,1.2,OIU918,18:33,"Wolverhampton, Norwich, Slough, Colchester, Dundee"
+Bedford,Middlesbrough,295,1.1,DIY922,18:53,
+Bedford,Bournemouth,96,1.7,MVA203,00:04,"Cambridge, London"
+Bedford,Luton,480,2.3,TAU650,02:10,Peterborough
+Bedford,Reading,90,5.0,MXC625,00:01,
+Bedford,Warrington,57,2.8,YFL744,18:19,
+Bedford,Peterborough,435,1.0,QSY269,23:17,"Huddersfield, York"
+Bedford,Huddersfield,145,1.8,ZNQ152,22:56,"Rotherham, York, Derby, Liverpool"
+Bedford,Slough,194,1.4,WNP101,13:18,"Bedford, Colchester, Reading"
+Bedford,Basildon,302,2.1,LRJ212,09:21,"Liverpool, Slough, Belfast"
+Bedford,Chelmsford,363,3.2,PAP200,09:27,
+Bedford,Colchester,108,1.6,DWH407,23:10,Plymouth
+Bedford,Derry,52,5.5,UVS198,07:12,"Dundee, Derry, Southampton"
+Bedford,Woking,343,1.8,KCN678,05:44,"Glasgow, Stoke-on-Trent, Plymouth, Birmingham, Reading"
+Bedford,Rotherham,145,1.8,VKR656,09:25,"Newcastle, Bournemouth, Newport, Bedford, Bristol"
